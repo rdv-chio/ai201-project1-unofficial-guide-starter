@@ -128,7 +128,21 @@ graph TD
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
+- **Tool:** Gemini
+- **Input:** The `Documents` and `Chunking Strategy` sections of this document, along with a sample layout of the raw text formatting containing inline source tags.
+- **Expected Output:** A Python script (`pipeline.py`) that reads all text files from `documents/`, strips out metadata blocks and bracketed source markers, splits text into 500-character chunks with a 100-character overlap, and attaches the original course filename as metadata.
+- **Verification:** Run a verification print statement to output 5 random chunks to inspect for readable text and accurate source tags.
 
 **Milestone 4 — Embedding and retrieval:**
+**Milestone 4 — Embedding and retrieval:**
+- **Tool:** Gemini
+- **Input:** The `Retrieval Approach` text block from this spec and the target pipeline architecture layout.
+- **Expected Output:** An integration snippet using `sentence-transformers` to load `all-MiniLM-L6-v2` locally and initialize a persistent `chromadb` client to insert chunks with associated source attributes.
+- **Verification:** Execute isolated test strings matching Evaluation Queries 1 through 3 and assert that the returned elements exhibit semantic accuracy with L2 vector distances residing well below 0.5.
 
 **Milestone 5 — Generation and interface:**
+**Milestone 4 — Embedding and retrieval:**
+- **Tool:** Gemini
+- **Input:** The `Retrieval Approach` text block from this spec and the target pipeline architecture layout.
+- **Expected Output:** An integration snippet using `sentence-transformers` to load `all-MiniLM-L6-v2` locally and initialize a persistent `chromadb` client to insert chunks with associated source attributes.
+- **Verification:** Execute isolated test strings matching Evaluation Queries 1 through 3 and assert that the returned elements exhibit semantic accuracy with L2 vector distances residing well below 0.5.
