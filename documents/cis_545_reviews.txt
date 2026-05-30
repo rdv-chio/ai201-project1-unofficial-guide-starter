@@ -1,0 +1,315 @@
+Reviews
+
+23
+Avg. Difficulty
+
+3.04
+Avg. Workload
+
+12.61
+Avg. Rating
+
+3.3
+CIS-545: Big Data Analytics
+5/8/2023, 5:14:26 PM
+I wanted so much to love this course, and though I marked it as Disliked I should clarify that there were portions I liked very much, and then portions that I really disliked. I agree with various other reviewers that the course spent a significant time on breadth with short segments on all the possible new technologies out there (it felt like every other lecture was talking about some other language or library).
+
+The first half of the course was very manageable and I really enjoyed learning pandas and SQL, but the homework assignments seemed to get more vague as the semester went on with frustrating troubleshooting to get the exact format the auto-grader wanted (I had to talk to three different TA's on one problem before finding out I needed to cast something to a data type that didn't make any sense for the question and wasn't in the instructions - even the last TA seemed irritated).
+
+Also, as someone else mentioned the final project on top of the final exam was very hectic, so plan accordingly if you plan on taking other courses. It was a heavy workload for me working full time with just the one course.
+
+The last thing I'll mention that I really disliked was the exams. The instructor only allows a single double-sided cheat sheet for an extremely large amount of data. If the questions were on overall concepts/ideas I wouldn't have minded, but there were a lot of super nitpicky questions about things that honestly no one would care about or would just look up at a job in the real world. As a person that switched in my role at work ~6 months ago to being a Data Scientist I don't have a ton of patience for being tested on nitpicky things that don't help me in my day to day job.
+
+Spring 2023
+Hard
+Disliked
+15 hrs/wk
+CIS-545: Big Data Analytics
+8/16/2023, 1:39:34 PM
+A lot of SQL and Python in course.
+
+Data analytics in first half then a lot of graphs, ml - supervised and unsupervised learning followed by neural networks
+
+Too many topics to get really deep into each one - it can become overwhelming
+
+Homeworks are spread around two weeks deadlines but, the autograder is very picky. You might need to go to office hours just to debug how the autograder is grading your code in Google collab The tas can be very picky about the labels and titles of graphs too.
+
+The homework is doable but, you do need to put in the time to do it. Some assignments are longer and harder than others. Depends on your background and skillsets on how fast you get through it.
+
+Specifically, the aws assignment takes a very long time to set up the console - almost 30 mins to 1 he to get start the homework assignment which made the whole assignment take more time. I think there was a cap of 4 hours to use the AWS console so that made it hard to take a break while doing the homework.
+
+Tas and professors are very nice and helpful
+
+The exams are very difficult and the cheat sheet is not so helpful when it's very specific theory answers. However, there was curve atleast for exam 1.
+
+End of course is very busy with a group project, homework and exam. Definitely plan out what type of team you are looking for vs. coursework vs. Potential work schedule.
+
+Some methods were a bit outdated compared to what I know from data science and analytics industry but, a good starting point. Overall, take the class if you want an intro to data analytics and enhance your SQL and Python skills.
+
+Summer 2023
+Medium
+Neutral
+15 hrs/wk
+CIS-545: Big Data Analytics
+7/21/2023, 5:10:49 AM
+Pros
+-Good introduction course to many analytics, big data, Spark, and machine learning topics. The course covers a lot of topics
+-HWs are every two weeks and spaced out well. Not too terrible to figure out.
+-Lots of sample notebooks and code provided to help with walkthroughs
+-Interesting topics if you like data science and analytics
+-topics flow logically through the course and lectures largely align with homeworks
+
+Cons
+-HW uses a finicky autograder that isn't always on point. Semi-dependent on TA help at times to figure out what the autograder is looking for
+-The course goes an inch deep into many many topics. You won't walk away with a deep understanding of anything but an intro to lots of different data science topics
+-some of the topics such as the deep learning weeks and unsupervised learning weeks get too 'mathy' for the speed at which this course is talk. The lectures will be quite theory and math heavy and not address enough of the practical coding side of thing (which is what you're graded on in HWs).
+-Some of the slides get confusing to follow.
+
+Summer 2023
+Medium
+Liked
+15 hrs/wk
+CIS-545: Big Data Analytics
+12/20/2022, 3:00:08 AM
+My main qualm with this course is that it is misleadingly named and marketed. I went into it assuming we would study big data systems in depth, and apply them to data analytics tasks. This is NOT what this class is (CIS 5550 may be though - I didn't take it so I cannot comment). Instead, it is an introduction to data analytics class, where examples come from big data.
+
+I work as a data scientist. Hence, this class felt like a waste of time and money for me. The topics were too easy, without enough depth for a graduate course - it is unreasonable to expect to cover CNNs in half a module, time series in another half. On top of this, the assignments were made unnecessarily tricky by confusing instructions and an autograder that only considered some interpretations or made weird assumptions. Finally, the TA team was subpar compared to other MCIT classes, and I even felt that the instructor who was assigned to Piazza did not know some of the topics.
+
+On the positive side: if you are looking for a general intro to data analytics and its associated libraries, with barely any math, this is the class for you! The videos are overall clear and manage to cover a lot of ground in a short amount of time. The project is a great opportunity to dive deeper into a given area. At the end of this class you have the tools and frameworks to learn more.
+
+I wouldn't say this class is enough for you to become a data analyst/data scientist, but it does get you most of the way there; self-study/additional courses on the underlying mathematics and on experimentation would be a great supplement.
+
+Fall 2022
+Very Easy
+Strongly Disliked
+5 hrs/wk
+CIS-545: Big Data Analytics
+1/1/2023, 6:45:48 PM
+
+Fall 2022
+Very Hard
+Liked
+18 hrs/wk
+CIS-545: Big Data Analytics
+8/9/2023, 11:49:42 AM
+This class is laid out as follows: weekly lectures and unlimited-attempt quizzes, 5 hands-on homeworks (spaced two weeks apart), two non-cumulative midterms, and a group final project.
+
+The only part that I liked was the homeworks, although those had their own set of issues. You'll need to keep the long list of FAQs on one tab because the homework itself doesn't have enough instructions to know what they're asking for. It was almost comical the way the homework instructions would repeatedly admonish you to 'Start Early!!!" but the TA Recitation for that homework wouldn't be scheduled until 3-4 days before the HW due date. Despite those issues, I still enjoyed the HWs overall. This is the bread and butter of data science to me: manipulating Pandas dataframes, writing SQL queries, using Apache Spark, creating classifier and regression models. This is honestly the only part of the course where I felt like I was learning anything.
+
+The lectures: I found these lectures to be some of the worst in the entire MCIT program. They're long, rambling, and yet somehow don't convey any usable information. They're far too theoretical and they pretty much never show any actual examples of solving data science problems. I got to the point where I was skipping large portions of them because I couldn't retain any information being conveyed.
+
+The exams (which, thankfully, allow a cheat sheet) test you on a bunch of random minutae from the lectures that you'll probably never have any use for. I would have much preferred a timed proctored open book session of homework-style coding problems so that we could demonstrate that we know how to use the information from the course.
+
+The final project is so open ended so as to be kind of useless. You don't really learn anything new from it, you're pretty much just re-using code from the homeworks unless you're proactively out there looking for new techniques. I'd have preferred to just have a HW6 where you get to code something new.
+
+Overall: Wouldn't recommend.
+
+Summer 2023
+Medium
+Disliked
+14 hrs/wk
+CIS-545: Big Data Analytics
+5/19/2023, 9:23:47 PM
+This was BY FAR the most industry-relevant course I've taken in the program. It walks you through the essential steps of the data pipeline, from sourcing and wrangling data thru data prep and feature engineering, and finally training and tuning various models. The assignments provide excellent hands on experience with each step in the process, and uses libraries such as pandas, spark, sklearn, nltk, etc that are all immediately useful in industry. The professor also relates these concepts to cloud computing, which is a must-know in today's tech/job market. I wish all courses in MCIT were this practical.
+
+Spring 2023
+Medium
+Strongly Liked
+10 hrs/wk
+CIS-545: Big Data Analytics
+12/27/2023, 7:08:43 AM
+Lectures are of middling quality. Homeworks are very long but have 2+ weeks for each one. What's frustrating is that some questions on the homework are ambiguously worded or unclear and since the autograder gives no feedback about what's wrong on what may be a question with several steps, it can be tough sometimes to figure out how to fix your work. TAs were pretty helpful and office hours were plentiful, which I made heavy use of.
+
+Exams aren't too bad but not easy either. Final group project at the end is graded leniently as long as you put effort in and try to show some interesting work.
+
+Spring 2023
+Hard
+Neutral
+15 hrs/wk
+CIS-545: Big Data Analytics
+8/8/2023, 6:02:51 PM
+Out of the 9 courses I have taken, this is by far my least favorite. There are many flaws to this course but I will just name two:
+
+1. The course touches on way too many topics. Rather than deep diving into a particular area or code base, we seem to switch it up every few lectures. This does not allow the students ample time to thoroughly understand the concepts. This doesn't necessarily affect the ability to complete the homework (you will have to utilize various outside resources anyways), but it severely impacts how well you will do on the already tricky/nitpicky tests.
+2. Homework: Each homework has consistent and troubling errors throughout. For most courses, FAQs and tips posted to Ed are simply tips to help you with your homework, not constantly calling out errors in the way the questions or assignment is written. In order to pass the autograder, you will need to study the FAQs to ensure you not only implement correct logically, but also implement to where it'll pass the broken test cases.
+
+This course could have been so much better by simply focusing on a few topics rather than try to touch on everything. The pandas and SQL portions were very informative and interesting, but then afterwards it went off the rails. I absolutely would recommend avoiding this course.
+
+Summer 2023
+Hard
+Strongly Disliked
+12 hrs/wk
+CIS-545: Big Data Analytics
+8/23/2022, 8:07:09 PM
+A broad overview of the data science pipeline from data wrangling to modeling. A ton of optional notebooks are provided to enhance skills and explore the topics covered each week. The homework is interesting but currently provides little feedback about what is wrong with a given input - this results in extra time "spinning wheels" when better problem descriptions or autograder feedback would save student time. In some cases, the course still felt like it was in "beta" mode with homework being updated after release.
+
+I enjoyed the course but am conflicted by it. I wish they focused more on the tools to achieve data analytics as a scale rather than a broad swathe of the data science pipeline. Upon completion, you are a jack of all trades, master of none.
+
+Summer 2022
+Easy
+Liked
+12 hrs/wk
+CIS-545: Big Data Analytics
+11/28/2022, 11:17:51 AM
+This is a great course. The material is interesting, and thoughtfully constructed. The homework assignments allow for great depth of understanding, and often work through interesting datasets. Assessments are fair, and teaching staff accessible. Reinforces concepts learned in both 550 and 521, without be overly repetitious.
+
+Fall 2022
+Easy
+Strongly Liked
+10 hrs/wk
+CIS-545: Big Data Analytics
+12/11/2023, 7:50:21 AM
+I really liked this course a lot - I'd be thrilled if every course was this quality.
+
+Pros: lecture videos are clear and instructive, and the homeworks are helpful in reinforcing the material. The material itself is also very interesting and useful for my career. I also did not think the exams were as bad as other people did. Other reviews also criticized the autograder on the homework, but I did not find this to be a major problem (just a minor nuisance once in a while).
+
+Cons: First and foremost, I wish there was more homework - you have an assignment due every other week, but there was enough material that it could have been 2/3 weeks. The big project was not bad, but I did not get as much out of it as I would have like.
+
+One other note: I came into the class with a good understanding of most of the ML techniques used in the class, and I suspect this made things much easier.
+
+Fall 2023
+Medium
+Strongly Liked
+10 hrs/wk
+CIS-545: Big Data Analytics
+8/21/2023, 2:37:11 AM
+I think this is by far the most practical course I've ever had in MCIT.
+The lectures are long and boring. I learned most of the course materials by doing homework and checking API documents.
+Homeworks are due biweekly. It is totally manageable unless you start one day before the deadline. Yes, auto-graders can be annoying but I think the format, content, and difficulty are on point.
+Exams are tricky. The good thing about this course is that the average isn't crazy. If you do your work well you should be fine.
+As someone with 0 background in CS/stats, I think this is a must-take course. The workload is manageable. It covers lots of topics without getting too deep. You will get some practical skills after this class.
+
+Summer 2023
+Medium
+Liked
+10 hrs/wk
+CIS-545: Big Data Analytics
+5/19/2023, 2:37:45 PM
+I took this course after taking 5410 (the practical ML course) and 5550, and this one was a crossover between the two with a bit of additional material sprinkled in. I though it was actually a perfect complement to the other two classes, strengthening my understanding of the materials while also giving some practical experience doing the same work in a distributed environment (5410 is exclusively local assignments).
+
+Additionally, the instruction of the material in this course is kind of rambly and not very effecitve in my opinion, so it was actually super helpful to have already touched a lot of the bases so I wasn't completely lost in the lectures.
+
+If you're taking the MSE-DS program, you're going to have to take these 3 classes no matter what, and I'd definitely recommend taking this course 3rd of the 3.
+
+The assignments aren't too difficult, but the later assignments do involve large data sets, distributed environments, and large models that take time to run, so keep that in mind since it's harder to try a bunch of things and iteratively get closer to the right answer, because it might take 10 minutes each time you want to test and answer. It pays to really understand the code you're writing first so you don't wait for your model to train for 20 minutes and then not get any points from the autograder.
+
+Exams were moderate, and even with a slightly below class average score on both, I ended up with an A- by getting full points on the assignments, so that can guide where to put your effort in the course if you're strapped for time.
+
+Spring 2023
+Medium
+Liked
+10 hrs/wk
+CIS-545: Big Data Analytics
+12/1/2022, 2:24:16 PM
+I really hated this class. The number of homework assignments is low, but as a tradeoff, doing the homework mostly feels like stabbing around in the dark, and the lecture content is very long and rambly - this course has the most lecture material of any course I've taken in MCIT. I found it somewhat difficult to get help from course staff. My interest in the material was pretty low, so that's a factor, but I found the class downright dreadful.
+
+Fall 2022
+Medium
+Strongly Disliked
+12 hrs/wk
+CIS-545: Big Data Analytics
+12/16/2022, 11:47:53 AM
+As someone on a data scientist career path, this course was absolutely fundamental to my learning experience. Considerably more hands-on than CIS-550 (which I disliked, but is useful), and more focused than CIS-521 (my favorite course, but far more breadth than depth), CIS-545 is indispensable for anyone who wants to learn how to acquire, process, use, and derive value from big data. This involves learning about developing data pipelines, cloud infrastructure and high-level services for distributed systems, and statistical modeling (ML, deep learning, even some computer vision). I really enjoyed the course, the very applied and hands-on homework, and the final (collaborative) project. The exams were fair, and not very long. Highly recommended.
+
+Fall 2022
+Medium
+Strongly Liked
+15 hrs/wk
+CIS-545: Big Data Analytics
+5/20/2023, 7:20:04 AM
+Overall, the course was a great beginner to intermediate level dive into the world of data analysis.
+
+Based on the previous reviews, I can understand how someone whose already into data science will find this an intro course. However, when I signed up for MCIT, the program was being advertised for those who are not professionals in IT field.
+
+The course covers topics that will set you up on the right track if you want to learn data analysis. It goes over pandas, sql, spark, mongodb (basic setup), aws (academic setup), and ML.
+
+It is designed in a way such that you learn by doing assignments. The HW are long and engaging with unlimited tries. A final project of your choice where you will implement everything you have learned in a group of 3-4.
+
+Major negatives:
+The feedback from autgrader is basically pass or fail.
+
+The lecture content though informative but can be long .
+
+Edstem responses are slow. I personally had no issues jumping into TA office hours but other people had some complains
+
+
+Spring 2023
+Hard
+Liked
+15 hrs/wk
+CIS-545: Big Data Analytics
+5/8/2023, 2:20:44 AM
+The lecture covers an interesting range of topics and is probably a good (practical) introduction to data analysis (not necessarily "big", though), but unfortunately fails to provide a solid theoretical foundation. In my opinion, far too much time is spent on explanations on how to utilize certain frameworks or libraries and not enough on deriving the underlying concepts. In addition, on the rare occasions when some math is used, notation is inconsistent and explanations more hand-waving than thorough.
+
+Home works are mostly auto-graded with unlimited submissions, which is necessary since the assignments often fail to specify how the results should be formatted.
+
+Overall, probably a great course if you are interested in learning to apply standard tools and frameworks to real-world problems. Not so great if you would like to understand the theoretical basis upon which data science is built.
+
+Spring 2023
+Medium
+Disliked
+10 hrs/wk
+CIS-545: Big Data Analytics
+5/4/2023, 12:34:08 PM
+I have quite a bit of background in SQL from an application engineering and reporting perspective, so the first third of the course didn't feel particularly novel to me. But, nonetheless, I benefited from the exposure to pandas/dataframes and using python notebooks (Google Colab). It felt like only a couple weeks were spent on actual big data in the middle of the course, covering Apache Spark.
+
+The back half of the course covers supervised and unsupervised learning, which could have been a course by itself. I would have preferred that a course on big data would have spent more time covering how to actually work with big data rather than spending so much time on ML.
+
+The last few weeks of the course are intense - the last homework, a large group project, and the final exam is a lot, so keep that in mind when considering your course load. The rest of the course is easily managed. There are only 5 homeworks, usually with due dates 2-3 weeks out, which gives flexibility in your schedule. But be warned that they can take a lot of time to complete. I would guess I spent 8-14 hours on each assignment. So don't plan on completing them in a single evening after work (unless you already know the subject).
+
+Overall, I'm glad I took this course. It filled some holes for me in working with data, and gave me enough of a background in supervised and unsupervised learning that I could probably build some half-decent models and validate their accuracy/recall. But I really wanted more exposure to Apache Spark.
+
+Spring 2023
+Medium
+Liked
+12 hrs/wk
+CIS-545: Big Data Analytics
+12/29/2021, 5:46:35 PM
+The course had one of the fewest homework in my experience at MCIT. In total, we only had 5 HWs, can be done ahead of time, and are submitted every two weeks. However, the learning curve between HWs is pretty steep: for a comparison, if I recall correctly in HW1 we are doing minor Python stuffs and web-scraping, but in HW2 we did a graph exploration using Spark, and so on until we did a lot of deep-learning stuffs in HW5. So, yes, for me who is relatively new to the field, that was quite a lot. However, preparing and tackling the assignments early helps a lot.
+
+There is a final project. Exams are mostly multiple choices in Gradescope, short answers at most. Also, in my experience, the final grades are curved.
+
+Overall, I liked the course, but for someone with experience, it might feel a little too light.
+
+Fall 2021
+Medium
+Liked
+10 hrs/wk
+CIS-545: Big Data Analytics
+12/29/2021, 5:54:07 PM
+If you took 550, i will not recommend you take this course, because there is quite a bit of overlap in terms of SQL query stuff.
+
+Overview: the first half of the class was mostly just spark SQL query practice. so it wasn't difficult or interesting. the second half of the class superficially covered clustering techniques, time series analysis, neural networks, kafka streaming, etc. I don't think the course helped me develop any marketable skills given how little lecture time was given for each topic. There were only 5 assignments and they only focus on a few specific topics and don't really cover all of the lecture content, so what you learn from the assignments does not help strengthen your understanding of the lecture material. There was a final project at the end, but I don't think that project added much value to my learning experience given that the technical guidance that I got from TA was not very insightful.
+
+Positives: 1) Through this class I have learned that I will absolutely not want to be a data scientist/engineer. 2) The effort is low compare to other electives like 550 and 547. 3) I got some exposure to the kind of tasks that a data scientist would do, and having that perspective may help me with my job in the future.
+
+But seriously, I cannot recommend this course. It is not worth $3200.
+
+Fall 2021
+Medium
+Disliked
+10 hrs/wk
+CIS-545: Big Data Analytics
+10/22/2023, 4:15:39 PM
+The goals of this course are very relevant. However, the execution of the teaching is the worst in the entire program. The Spark constantly ran into problems and stopped every four hours no matter what. You may waste majority of your time waiting for the spark to load or other technical issues instead of gaining marketable skills. Taking this course was my biggest regret. Don't take it if you have a busy schedule and cannot afford to have four hours without interruptions in one single setting.
+
+Spring 2023
+Medium
+Neutral
+25 hrs/wk
+CIS-545: Big Data Analytics
+12/20/2022, 1:06:41 PM
+This is very much a survey class of data science and data engineering rather than a deep dive into any specific topics. As long as you go in with that expectation you will get a lot out of this class. If you're looking to get an introduction to what data science is or already have a basic understanding but want to reinforce the concepts then you'll probably have a good experience. You'll finish the class with a good understanding of what data scientists do and will understand what terms like machine learning, neural networks, data wrangling, etc, all mean. If you already have a strong background, such as if you work in data analytics, and want to get a deep dive into more advanced topics then this probably isn't the best class for you.
+
+The lectures are quite long and rambly and the amount of video you'll need to watch is higher than most other classes. Professor Ives is good at breaking down topics but I feel that many of his videos could have been condensed into a few key points in a fraction of the time. I ended up watching most of them at 2x speed. But they still do a great job of introducing concepts and I learned a lot from them.
+
+Assignments are due only once every few weeks so this is a great class to take if you have a busy schedule. I never felt too rushed or pressed for time with the homework since you are given a while to complete it. Generally, you write some code and then an autograder will immediately tell you how many points you got on that section and you can rewrite it as many times as you'd like. It's a little frustrating sometimes because the grader won't provide any feedback, just will tell you how many points you got. So it can be a little challenging to figure out what went wrong. But otherwise, the homeworks are fair and provide a great opportunity to reinforce what you learned in class. You'll get quite comfortable writing SQL queries and will be fairly familiar with some of the libraries you can use for machine learning analysis.
+
+There is also a final project in the latter part of the class that's very open ended. You pretty much just have to pick a data set and some plan for analyzing it that will allow you to demonstrate what you learned in the class and can do almost anything with it.
+
+You should not expect to get much support from staff when taking this class. The TAs were pretty much MIA all semester and questions wouldn't get answered for a while on Ed Discussion. You should also expect to do most of the project on your own. We're supposed to have gotten feedback from TAs along the way but practically none was given. Office hours would also frequently get canceled without warning. So if you're someone who likes to interact with course staff and attend OH then keep in mind you may not be able to as much as you were in other classes. Although hopefully this will get better in future semesters.
+
+Fall 2022
+Easy
+Liked
+10 hrs/wk

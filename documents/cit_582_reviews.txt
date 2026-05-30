@@ -1,0 +1,259 @@
+Reviews
+
+22
+Avg. Difficulty
+
+2.32
+Avg. Workload
+
+7.95
+Avg. Rating
+
+2.86
+CIT-582: Blockchain & Cryptography
+4/28/2022, 3:02:39 PM
+Things I liked about the class: 1) It gave me a great introduction to blockchains, cryptography and cryptocurrencies, and served as a launching board for me to venture into this rapidly growing space, which is getting more and more news coverage these days. 2) Very manageable workload. It is probably the lightest course of the program. 3) Weekly discussions on current events. It feels more like an ask-me-anything type conversation with Professor Falk, who is very open in sharing his latest research/work/projects. These discussions are in addition to the weekly professor open office hours, and are my favourite part of the course. Do attend them if you can.
+Things I disliked about the class: 1) One-attempt quizzes. Quizzes make up 20% of the grade, and are questions about the theory/concepts presented in the lectures. To do well in them, you need to have a great level of understanding of the material. 2) Dry lectures. I am probably spoiled by Dr. Farmer's 593 lectures, but most lectures do feel like a read-off of lecture slides. Some concepts were not well-explained in my humble opinion. 3) Less TA support available than core courses. Normal given it is an elective course, and it was not a big factor given most assignments were not too complex. However, most students spent the most time working through the last part of the 5-part final project. Make sure you start early and ask questions on Piazza to get help.
+Overall, I enjoyed this class and would take it again. This course attempts to cover subjects that are constantly growing - it is not perfect but it does give you the fundamentals. If you are already curious about what's happening in this space, I think this course is a no-brainer.
+
+Spring 2022
+Very Easy
+Liked
+5 hrs/wk
+CIT-582: Blockchain & Cryptography
+8/23/2022, 5:48:35 AM
+Though I'd heard this complaint before about other courses and never found it to be true, I agree that the assignments and the lecture material are fairly disconnected, and as a result you should expect (and indeed you are encouraged) to read documentation while completing assignments. While that might sound like a criticism, I actually kind of enjoyed it - I presume this was done to simulate what it is actually like to work in such an unexplored and immature space.
+
+That being said, while it's unreasonable to expect a four month course to teach you everything there is to know, I wish the course had branched out to various crypto a little less and focused more on just ETH and BTC.
+
+Even as an avowed crypto skeptic (and now more certain than ever that I am correct), I found it very interesting to learn more about this material, but in retrospect, if there had been a course on cryptography, I'd have taken that instead.
+
+Summer 2022
+Medium
+Neutral
+10 hrs/wk
+CIT-582: Blockchain & Cryptography
+5/19/2023, 2:46:10 PM
+Unfortunately this course won't be offered in the future in this format so this review may not be super relevant, but I think the iterations they've done on this course has moved it closer to being worth your time.
+
+The first half of the course is actually really well done and an important topic to understand well beyond just crypto. It covers cryptography and distributed consensus, the backbone of the internet, cloud services, etc. I was taking 5550 at the same time and it covered many of the same consensus protocols, though this class covered them more in depth.
+
+For that alone I'd recommend this class. Plus, Professor Falk is great, especially in his weekly unstructured industry chats, which were optional but a highlight I'd recommend attending.
+
+The crypto portion of the class on the other hand was disappointing. It's really out of date at this point, covers quite a few blockchains that are basically irrelevant now, and at it's core is just kinda thrown together, poorly organized and poorly delivered. If you are interested in the course because of the crypto, don't bother.
+
+The assignments throughout are short and pretty easy. Once you get to the final project (which is broken into 5 pieces) things get a little longer, but remain pretty simple, with the exception of the final peice where you actually attempt to connect to blockchain testnets. Then they make you rely much more heavily on public documentation without guidance, and that documentation is poor and in some cases just wrong because the library has been updated/replaced since the assignments were created. But fortunately if you run the starter code with no changes you already get 75/100 so you don't have to worry about that impacting your grade too much.
+
+Hopefully when they redesign the course as a half credit course they just cut the second half and focus on the good stuff.
+
+Spring 2023
+Easy
+Liked
+5 hrs/wk
+CIT-582: Blockchain & Cryptography
+8/24/2022, 7:10:13 PM
+I thought this course was a nice intro to blockchain and cryptography. I did learn a lot, but I'd only take this class if you're specifically interested in blockchain. I found debugging difficult, but I don't think this was really in the hands of the teaching staff because blockchain is so new (for example, testing can be hard because the only way you can test involves spending some crypto). I will say that the lectures can be improved. I found some modules so extraordinarily unclear and it felt like the professors were sometimes mumbling their words. Unfortunately, the one attempt quizzes are based entirely on specific parts of the lecture so I spent a lot of time on those, trying to decipher what the professors meant.
+
+Things I liked:
+- Final project is cool (learn some flask and database stuff)
+- Nice introduction to vyper
+
+Things I wish I were different:
+- HW coding assignments can be too easy
+- Current events discussions scheduled right in the middle of the work day
+- Lectures unclear
+
+Summer 2022
+Very Easy
+Liked
+5 hrs/wk
+CIT-582: Blockchain & Cryptography
+5/9/2022, 10:35:23 AM
+This is a poor course that I strongly disliked. It can effectively eradicate your interest in Crypto. Teaching quality is poor. I feel no excitement or passion in his teaching. Office hours got canceled randomly. I'd say if you are interested in Crypto, you might feel better by just reading some books rather than taking this course.
+
+Fall 2021
+Medium
+Strongly Disliked
+10 hrs/wk
+CIT-582: Blockchain & Cryptography
+1/10/2022, 4:59:54 AM
+This class is about Blockchains and Cryptography, which as we all know is kinda like the wild west. This class reflects that feeling, it doesn't really feel polished or put together very well. I had frustrations at times with the clarity on homeworks, and with some of the material in lectures. However, I think that the material in this course may end up being some of the most important material that I studied in my entire time at UPenn. The Byzantine Generals problem in and of itself is mind boggling important, and I think this class is a great jumping point to start learning about these technologies. This class is probably at its best if you are already into Blockchains and Crypto and are willing to put a lot of time into side studying. However, if you are like me and knew nothing going in, you will at the very least learn about some really important technology.
+
+Fall 2021
+Hard
+Liked
+9 hrs/wk
+CIT-582: Blockchain & Cryptography
+6/19/2022, 9:57:37 PM
+I have no idea what the professors are saying. It almost sounds like a stream of consciousness from the way they teach or like a fever dream. The slides say a bunch of technical jargon with no clear connection between any of the specific topics. I can watch like 20 minutes of lectures and feel like i retained absolutely nothing. In fact, i can watch in 30 second intervals, rewind multiple times, and feel like I have no idea what this professor even just said. Good thing the assignments are easy.
+
+Spring 2022
+Easy
+Disliked
+5 hrs/wk
+CIT-582: Blockchain & Cryptography
+8/29/2021, 7:37:01 AM
+This is a great course if you're interested in Blockchains. Granted, I have not done much of my own personal research, but no lecture, course, friend has taught me as well as this course about blockchain, especially the Ethereum, Bitcoin, and Algorand blockchains. I enjoyed learning about hashing, what a blockchain is, and the primary project is to create an exchange (like NYSE) which can exchange Ethereum for Algorand (on their test blockchains). There are interviews and story lecture videos which also paint a good picture of the blockchain universe. Like every course, you can put as much time as you want into each week and assignment. Take the opportunity to ask the professor whatever questions you have about blockchain technology. Blockchains are like the wild west, and there is plenty of (job) opportunity in this arena. My regret is not asking the prof how to setup my own Ethereum wallet--that tells you my level of expertise...
+
+Summer 2021
+Easy
+Strongly Liked
+10 hrs/wk
+CIT-582: Blockchain & Cryptography
+8/22/2021, 6:37:24 PM
+This course sucks. It's easy at least, and until the last few weeks, a really light courseload. The lectures are really hard to understand and offer very few examples that help students understand the material. Honestly, I feel like I didn't really learn much in this class and that's mostly because the lectures were just awful. Don't really recommend this class, but I guess you gotta do what you gotta do.
+
+Summer 2021
+Easy
+Strongly Disliked
+5 hrs/wk
+CIT-582: Blockchain & Cryptography
+11/23/2022, 8:22:44 AM
+I've completed all but one required courses for the MCIT program and this course has by far the lightest workload (until the last few weeks) unless you are very keen on diving deep into suggested readings. The TA support was also the lightest I've seen (e.g., office hours was sparse, responses on edstem can take a few days), however it was not a problem until the final project.
+
+The material was interesting (especially with recent events) so I am glad I had the opportunity to be exposed to the material. That said, if I were more focused on gaining/practicing programming skills, I would have picked a more intensive course.
+
+Fall 2022
+Easy
+Neutral
+5 hrs/wk
+CIT-582: Blockchain & Cryptography
+5/9/2022, 7:41:29 AM
+Took the class because of the low workload. Wasn't all that interested in the material going into the class and left the class even less interested in the technology.
+
+Pros:
+-Light workload
+
+Cons:
+-one attempt quizzes that make up a large chunk of the grade
+-a tough final project that could really use better instructions and debugging tools (really most of the assignments were quite lacking in this department)
+-boring lectures about boring material
+
+You probably won't learn anything useful in this class, but if you need a to take a light semester or add a filler class its not a bad option.
+
+Spring 2022
+Medium
+Strongly Disliked
+7 hrs/wk
+CIT-582: Blockchain & Cryptography
+5/2/2022, 10:27:43 AM
+This course leave much to be desired. There are weeks where I feel a quick simple coding assignments would allow for better mastery of the topics such as Byzantine Network. The grading for both quiz and coding assignments would do much justice to students with multiple submission considering the instructions and questions sometimes are poorly written or paraphrasing (they do this to create the confusion as not to be word for word to the slides). I feel like Brett Falk lecture videos are more clear and easier to follow with. The course is split 50% cryptography (first 7 weeks) and blockchain (final 7 weeks). Personally, I would prefer much heavier weightage on Blockchain and really get us to start coding Solidity/Vyper smart contracts right after midterm rather than just merely put aside on the final two weeks of the semester with just two sub-assignments. Midterm is fair with being open book because it's applying math/concepts to the problems. The course, despite being rated Easy, should not be curved upward as to penalize students who may have worked meticulously to pass the test cases only to be shot down with few unclear instructions along the way or working with slow Ethereum testnet server for the final assignment causing unconfirmed transactions to pile up.
+
+Spring 2022
+Medium
+Neutral
+5 hrs/wk
+CIT-582: Blockchain & Cryptography
+8/26/2022, 3:57:02 PM
+[1] Interesting concepts. Learned a lot about how cryptography works and the practical usage of blockchain
+[2] Assignments was hard to understand in terms of what actually needed to be done. I mostly completed them by a bunch of trial-and-error
+[3] Few final parts of the course were getting way more difficult. Couldn't even complete 1 assignment
+[4] Quite generous grading
+
+Spring 2022
+Easy
+Liked
+10 hrs/wk
+CIT-582: Blockchain & Cryptography
+8/31/2021, 11:05:30 AM
+This wasn't a class I was originally planning on taking, but because of the MCITO scheduling, it ended up being my only choice for summer. That said, I enjoyed it more than I thought I would. I particularly enjoyed the section on cryptography - that would be a great topic for a class in and of itself. The blockchain-specific content was interesting and I feel like I have a much better grasp of the existing blockchain structures and processes that are actually out there.
+
+Workload was generally light, except for the last part of the final project (which is broken into 5 separate parts, each worth 20% of the final project score).
+
+My main gripe with the class is that the wording on quizzes was often unclear - it seemed like close reading skills were being tested rather than comprehension. This also translated to the midterm - I ended up doing multiple regrade requests for questions and explained how the question wording could be misinterpreted (I got all of those points back). Hopefully, they clarify those questions for the next run of the class.
+
+Assignments were not difficult once you understood what was expected. I am thankful to all who were able to attend open office hours and clarify quiz and assignment language. I have mixed feelings about the assignment instructions, though: on the one hand, it felt like the bare-bones instructions made the assignments harder than they needed to be; on the other, it made me go out and really figure things out on my own, so I think that I maybe learned more, overall. Up until this point, most classes I have been in hand-hold you through the assignments. This class does not do that, although usually everything you need to know *is* actually in the assignment instructions.
+
+My advice for future students is to attend/watch OOH and be proactive about starting assignments early and asking for help on Piazza. Know that most of what you need to know for an assignment is contained in the instructions, even if you don't see it right away. Work hard on each section of the final project - they build on one another, so if you don't get an early part correct, it snowballs into a bigger issue.
+
+Summer 2021
+Easy
+Liked
+5 hrs/wk
+CIT-582: Blockchain & Cryptography
+5/11/2021, 12:45:51 PM
+While I enjoyed the topics being covered, the teaching quality is disappointing. One of the instructors has lots of room to improve the presentation and teaching skills to make the concept more understandable. YouTube was my best friend to help me understand key concepts, not the lectures.
+The coding assignments are barely scratching the surface of the topics. More in-depth assignments should be designed to help students learn. I feel like I did not learn much after completing the course.
+
+Spring 2021
+Very Easy
+Disliked
+7 hrs/wk
+CIT-582: Blockchain & Cryptography
+8/27/2021, 9:55:09 AM
+This was the only MCIT course that I truly disliked. The best thing about 582 is its very light workload. If you have a decent grasp of Python, you could probably get away with spending a couple of hours or so a week on the course, until you get to the final project. And to be honest, it is nice to not be overwhelmed with coursework. But ultimately, the course suffers from too many flaws. The homework is frequently not very rigorous--in most weeks, I wrote less than 20 lines of Python. The homework instructions also tend to be bare-bones, and it often feels like the burden is on the student to figure it out. Finally, quiz and exam questions are often written unclearly, and the hardest part can be figuring out what a question is actually asking. I can't recommend 582 to anyone in good conscience because it was the lowest-quality course that I took in MCIT.
+
+Spring 2021
+Very Easy
+Disliked
+5 hrs/wk
+CIT-582: Blockchain & Cryptography
+11/23/2021, 6:37:05 AM
+This class was not awesome. It was put together horribly and took a ton of time just to decipher what the instructions were asking for on any given homework assignment. The quizzes are really silly and some, again, are indecipherable.
+
+Fall 2021
+Medium
+Disliked
+8 hrs/wk
+CIT-582: Blockchain & Cryptography
+5/1/2023, 7:56:51 PM
+Worst reviewed course on mcitcentral? Check. Took it anyways? Check. Bad idea, but still got an A? Check. Would take again? No, never in a million years.
+
+Spring 2023
+Hard
+Strongly Disliked
+12 hrs/wk
+CIT-582: Blockchain & Cryptography
+12/8/2021, 9:15:11 PM
+Copypasting from my course evaluation in PIT:
+
+"I am mightily impressed with the quality of this course. Out of seven MCITO courses I've taken so far, this one is the best. The Exchange Server Project alone made me learn so much new and exciting things I'm seriously considering to follow some of these vectors after graduation to start, for example, writing smart contract all by myself.
+
+The best feature of the course, at least to me, is its broad view of the underlying tech. Unlike all other MCIT courses were I was guided by hand, so to speak, this time I was presented with a series of connect-the-dots puzzles that allowed me to choose freely what I am going to learn and how deep should I go. Some of my classmates complain bitterly about a "lack of precise and clearly worded instructions" but I think they confuse leading and trailblazing with blindly following orders. How can anyone call himself or herself a Master of whatever if the person in question can't or won't do extra research on the assignment... After all, life itself is fuzzy and imprecise at best.
+
+In all honesty, the course was difficult to me, mostly because I couldn't have enough of it and wanted to learn more, which takes a lot of time. Exchange Server Project alone took me over 120 hours, not because it's inhumanly difficult but because I was developing and testing my code fully locally, which made me a much better user of Linux functionality and utilities not to mention Flask and SQLAlchemy, which I met for the first time in my life. Thanks to 582, now I am knowledgeable enough to deploy a Flask-driven app in the cloud, for example. Not a tiny achievement considering that I was also totally new to Python, to begin with.
+
+The cryptography part of the course made me --- finally! --- able to read the books that were way out of my league before I took 582, such as Applied Cryptography by Bruce Schneier, etc. Even the quiz questions that appeared tricky worded at first sight, turned out to be fair and on the point after close examination.
+
+Perhaps, the course would become even better if it covered the consensus protocols in more depth.
+
+All in all, it's been occasionally bumpy but truly enjoyable ride."
+
+Fall 2021
+Hard
+Strongly Liked
+30 hrs/wk
+CIT-582: Blockchain & Cryptography
+12/30/2021, 9:06:11 AM
+This is the only course I genuinely disliked among all 10 I’ve taken to finish MCIT. Up until the very end, homework is fairly easy if you get it right, but debugging is quite difficult if you get it wrong. On top of that, staffs are generally NOT there. Average response time on Piazza I’d say is a week. My questions were never answered before due date. Slack group for self help was a must. Office hours with TAs weren’t that helpful either. One attempt quizzes make up a decent percentage of the grade, dragging down grade. The very last part of the final project was quite hard to get right. I spent hours debugging trying to get from 70 to 100 and no luck. No help from TAs either. It’s 30 Dec today, and we still haven’t got the letter grade while the last graded item was due on the 13 Dec. Overall poor support from course staffs. You’re on your own if you take this one.
+
+Fall 2021
+Easy
+Disliked
+5 hrs/wk
+CIT-582: Blockchain & Cryptography
+11/28/2022, 11:12:08 AM
+This course struggles to stay on task. The lecture material is poorly aligned with coding assignments, and as others have said before me, support is limited/ documentation is poor. The workload is light, but almost frustratingly light. The only difficult component is the final part of the final project. Getting a 75 on this component takes only a few hours, but getting from a 75 to anything higher is hardly worth the frustration. This is the only course out of the 10 I have taken, that I thought was poorly constructed.
+
+Fall 2022
+Easy
+Disliked
+5 hrs/wk
+CIT-582: Blockchain & Cryptography
+8/17/2021, 8:08:04 PM
+I ended up enjoying this course more than I expected. I feel I have a good understanding of cryptography now, as well as how some of the more popular blockchains actually work at a high-level. My newly acquired knowledge allows me now to state with confidence that some people I’ve met before that talked about "the blockchain" and seemed to be making up stuff about it definitely were :-D
+
+3 other highlights:
+1) Slides clearly are updated each semester with updated data (e.g. crypto prices) and new trends (e.g. NFTs).
+2) Midterm is open notes (you can even watch Coursera videos during it if you want).
+3) No final exam! (just a final project which spans 5 weeks with pre-defined deliverables each week, although the last week took a good 20 hours to figure out, well beyond the normal weekly workload for the course, so try to work ahead a bit in that final project).
+
+3 things to be aware of:
+1) The quizzes are tricky, 1-attempt only multiple choice questions that comprise 20% of your grade.
+2) It's not an investment class, so while you'll learn the technical details behind a good amount of cryptocurrencies, at best you'll know which crypto technology is appealing to you and which is not, which may or may not mean it's actually worth investing in.
+3) Solidity (the most popular programming language for Ethereum smart contracts) is covered at a very high level with no actual practice using it. The 2 smart contract assignments instead are in Vyper, which is the 2nd most popular, and very difficult to debug since you can't print out debug statements. Vyper was chosen because it is a more familiar python-like syntax.
+
+Summer 2021
+Easy
+Liked
+7 hrs/wk

@@ -1,0 +1,1153 @@
+Reviews
+
+99
+Avg. Difficulty
+
+3.8
+Avg. Workload
+
+15.21
+Avg. Rating
+
+3.25
+CIT-592: Mathematical Foundations of Computer Science
+5/16/2023, 5:43:26 AM
+This course is fair and if you study the homework and practice problems, you should be fine for the exam.
+
+Spring 2023
+Medium
+Liked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+3/27/2022, 11:41:11 AM
+In my opinion the best out of the first three core courses, extremely well structured and well taught. Very good and thorough explanations in the lecture videos and during recitations. Exercises work very well in deepening the understanding of the lecture material. Difficulty of the course is subjective, if you have some undergrad background in maths the material will be easy to grasp.
+The only negative aspect was the quality of the exercise's grading, it often felt like the graders (not the TAs!) had no clue what they were actually doing. But well-reasoned regrade requests were usually accepted.
+
+Summer 2021
+Medium
+Strongly Liked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+12/28/2021, 4:39:05 PM
+this course felt like eating vegetables for me, not necessarily designed to be enjoyable for students but probably required for success in the program.
+
+Summer 2021
+Hard
+Disliked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/3/2021, 7:27:39 AM
+With math being my least favourite subject in school, I came into the course knowing that it would be really challenging for me, and it was. The course is split into 3 sections, first on some basic terminologies, counting, functions etc. second on probability, and third on graph theory. I struggled a lot during the first section of the class where I felt that a lot of terminologies were introduced without proper explanation. Some sections of the course material were so concise that I could not figure out how we got to the end result. I had to watch many Youtube videos to supplement my learning and grasp the concepts. I did a lot better in probability and graph theory however, perhaps because I got used to the flow of this class and the first section set me up well. There were 3 non-cumulative timed assignments, and I found them to be quite fair. The recitations and prof office hours are must-attends. Recitations go over additional problems which helped me a lot with the assignments. Prof office hours go over any questions students may have, which were typically directly related to the assignment for that week. TAs and prof were fantastic. I just wish the materials (Coursera videos) were elaborated upon more, knowing that there are a lot of people without a quantitative background taking this class. Overall I felt like I learned a lot so no regrets!
+
+Spring 2021
+Hard
+Liked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/7/2021, 10:15:00 PM
+592 felt like a clean slate especially for someone who struggled with math in the past. Perhaps it's due to never having spent so much time on math before, but I thought the course overall felt rewarding. The problem sets were challenging, and sometimes harshly graded (as were the exams), but I think one should embrace that rather than not. It forced me to re-evaluate my own logic and ability to reason, which definitely has improved compared to before taking the course. You really need to understand the concepts thoroughly as making mistakes can be costly. The course can both be frustrating at times but also rewarding. I can tangibly say I learnt a lot.
+
+My only gripe is that I thought lectures could be improved. As there's a wide variety of backgrounds that students are coming from, I could see some benefiting from lectures that specifically reinforce some key concepts. I see the need for students to be taught a more traditional college math class/approach, especially with 596 awaiting, but I sometimes found lectures unnecessarily difficult to understand. Though, admittingly, I also can see a counterargument being to avoid spoon-feeding students.
+
+Spring 2021
+Hard
+Liked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/6/2024, 8:07:49 PM
+Grind = Grade.
+
+This course had me feeling the highest highs and the lowest lows. I would go from perfects on HW assignments to well below the average on the next, and honestly, it's all due to time. If you're anticipating life getting busy while in the course, for your mental health, I would approach this course with different expectations of yourself and your grades. The reason I say this, is because other reviews had me feeling like the difficulty was just content, and it can be for sure, but there is a lot of help...the question is, do you have the time to utilize it?
+
+I highly recommend going old school for this class: pen and notebook. For the first half of the course, I tried using notion like I had with 593, 594, and 595, it just wasn't working for me. When I switched, I was more engaged and felt like I was actually learning. I would start the homework with pen and paper too, and when I felt like I had a good start to the solution, I transitioned to latex.
+
+You will have 3 midterms, 2 of which have homework due immediately after. You will not convince them to change this. Just accept it. Start your studies earlier and the hw as soon as it opens.
+
+This was my schedule (I work full time and coach a HS sport)
+Monday - Start lectures, take notes/read hw questions
+Tuesday - Lectures/notes/ take quiz.
+Wednesday - Complete 1 hw problem/type in latex
+Thursday - Complete 1 hw problem/type in latex
+Friday - Complete 1-2 hw problems/type in latex
+Saturday - Finish hw/type in latex/watch prof. office hours/recitations/revise hw based on videos
+Sunday - Continue whatever I didn't get done Saturday/Submit
+
+In the moment, the course is a slog--I just wanted it to end. But the relief you feel when you submit that final test, *almost* makes it worth it.
+
+Now off to 596 with exhaustion and learned lessons...Godspeed
+
+Spring 2024
+Hard
+Neutral
+20 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+9/2/2021, 7:19:09 AM
+Challenging but worthwell. More examples in the lectures would be nice, but I guess the videos are already very long. Professor Tannen is awsome and very approachable. Office hours are super helpful if you are struggling. This class builds a strong foundation for discrete math, and logical thinking in general.
+
+Summer 2021
+Hard
+Strongly Liked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/5/2022, 2:45:15 PM
+This is a hard course. There is a lot of material and the homework is long and difficult. The course really requires you to think in order to solve the exercises. That being said, the exams tended to be easier than the homework. I thought professor Tannen did a great job If you do not have a math background (like me), the beginning of the course can be overwhelming with all the mathematical notation and concepts. However, it did get much better as the course went on.
+
+That being said, the grading can be annoying because some graders do not give you points even if the answer is correct, so you will probably have to ask for regrades a couple of times.
+
+Overall, it boosted my mathematical confidence after having terrible teachers in high school and made me feel like I can take on harder topics. Props to Tannen for that!
+
+Spring 2022
+Very Hard
+Strongly Liked
+25 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+12/8/2020, 5:02:32 PM
+Learned tons in this class and having moved on to some other MCIT courses it is clear that the 592 curriculum was meticulously designed to provides us with the foundation needed to be successful in the future courses. Highly recommend attending professor office hours and TA recitations. They both greatly enhance the learning.
+
+Summer 2020
+Hard
+Liked
+20 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+12/14/2023, 8:03:48 PM
+Lectures alone were not enough for me to really understand the material, so I recommend using Book of Proof (free PDF online) and MIT OpenCourseWare: Mathematics for Computer Science (6.042J, Fall 2010). The MIT course was very helpful, it has its own free book which covers similar topics in this class, and the video lectures were awesome.
+
+The HW and the exams were much more difficult compared to the material covered in lecture. I thought the exams were harder than the HW. The professor and TAs were great. I thought the recitations didn't provide a great deal of new information, but I would definitely attend or watch the professor's open office hours for hints and info on the HW and exams.
+
+Fall 2023
+Hard
+Neutral
+20 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+3/20/2023, 9:59:08 PM
+Having prior experience in discrete math and extensive statistics, I find this course to be unnecessarily complicated. I am already familiar with most of the material, but I still have to invest almost 10 hours a week just to maintain an A average. Concepts that are covered at the undergraduate level and even perhaps some high school curriculums are made convoluted with extensive use of specific mathematical jargon which, while technically right, isn't conducive to getting the foundational concepts across. Please note the use of the word *specific*. If you have prior background in the foundational topics covered in this class, be prepared to set that prior understanding aside as you have to conform to the strict terminology used in this course. The rubric will cause points to be deducted for using different, but mathematically equivalent, notation and terminology. Likewise, the TA-ing could be better. Some of the TAs seem to only grasp the material at an intermediate level, enough to accomplish the job, but insufficient to thoughtfully critique and accurately critique homeworks and give alternate explanations to difficult concepts. Most importantly, the head-TA carries an attitude when interacting with students that make one unlikely to seek help again, be it for logistical or scholastic reasons.
+
+On the flip side, the TAs and Professor Tannen are the class' saving grace. TA's like Alex N. have some of the most patience I've seen in student staff. Professor Tannen also displays an eager willingness to help students regardless of how many iterations he has to go through to explain 1 topic. The class may not be enjoyable, but Professor Tannen and some TAs certainly make it palatable for a core requirement.
+
+Spring 2023
+Hard
+Strongly Disliked
+8 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+11/16/2020, 10:09:52 AM
+Challenging material, but well taught. Professor Tannen was helpful and active on Piazza. Homework was difficult and tests were reasonable. Lots of extra credit opportunities and typically awards a generous curve.
+
+Spring 2020
+Hard
+Liked
+12 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+3/11/2023, 7:09:06 AM
+First two weeks of this course were so hard for me. I hadn't done much math since college and that was calculus which is not needed in this class; so my most recent exposure to this kind of stuff was really high school. Once I got the "math brain" restarted, and I understood what was being asked in the proofs, this class got a lot more smooth.
+
+Spring 2022
+Medium
+Liked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+8/31/2021, 10:16:07 AM
+592 will help you to become stronger in problem-solving and will make you a better programmer. You will dig relatively deep into the Probability and Graph Theories and this material is quite enjoyable.
+What's not enjoyable is the myth that the average grade is in between "A and A- and if you work hard you would be fine". It ended up absolutely untrue for my cohort, where the estimated average ended up between "B and B+". The overall grading policy is so so. Sometimes you get a good grader that appreciates and reads through your solution and sometimes it's gonna be "the solution is wrong" type of feedback. The most upsetting part is that the professor has a huge ego and is not willing to take any feedback from students (even the simple logistics requests could get him on edge).
+To summarize, I appreciate all the knowledge I have acquired working hard, but these authoritative teaching and grading methodologies are quite questionable.
+
+Summer 2020
+Hard
+Neutral
+29 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+3/22/2025, 2:30:04 PM
+Lectures are terrible. Homeworks take forever to complete because all your learning occurs in there as you search the web for external resources to actually help you learn. Exams are fair but very unfairly graded due to rigid “automatic” rubrics that are designed to eliminate subjectivity in grading but actually harshly penalize small mistakes. Your grade can plummet from an A to a C if you have 3 typos, which is very easy to do because you are typing latex into a text box on Gradescope under time pressure. Office hours are gold (the instructor is much more helpful in OH than in his lectures) but you have to have actual time to attend them outside the 15-20 hours per week you have to spend on the essential deliverables. Overall, the grading, workload and instruction destroy an otherwise interesting subject matter. I feel burned and cannot wait for it to end, which is a shame because I really enjoyed the math puzzles for the first several weeks, and believe I could have really enjoyed this subject in a different context.
+
+Spring 2025
+Hard
+Disliked
+18 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+8/22/2023, 9:15:10 AM
+This is my first review for a class since I commenced the program. Through this platform, I believe my voice can be heard, and I have several points to discuss regarding the course.
+1. Difficulty:
+• 1.1 Class Structure:
+• The material isn't inherently difficult, being straightforward. However, while lecture notes provide very basic examples, intricate proofs, particularly in graph theory, are labeled as "self-paced."
+• For someone with an applied math background and a job requiring daily math application, the course was uneven in difficulty. Graph theory, usually considered simple, was particularly challenging due to its presentation.
+• A reliance on lemmas and words for proofs without proper guidance makes the subject harder for those accustomed to mathematical proofs.
+• 1.2 Homework (HWs):
+• Canvas quizzes are basic, quickly completed in under 15 minutes. In contrast, recitations only offer a few challenging problems. Yet, homework often expects students to integrate multiple concepts.
+• Topics, notably in Graph Theory, are introduced in isolated Powerpoint slides without context or application, yet we're expected to integrate them seamlessly. Many of the answers to HWs in this part depended more on pure words rather than a traditional math proof.
+• Real-life problem translation into math can be ambiguous, particularly challenging for non-native speakers.
+• Rigorous, formal, and math heavy answers are sometimes not valued more than simplistic pure word answers.
+• Even if it is said that material from each previous parts of the course are not going to appear in the subsequent parts is not true: you must master everything. There was, for example, a question in a graph theory HW that depended on a self-paced concept from part 1 of the course merged with a self-paced concept from part 3.
+• 1.3 Exams:
+• Exams are generally easier than HWs.
+• The practice package, while useful, overemphasizes select problems. For instance, in Time Assignment 2, three out of seven problems were based on a single example from the practice package. The performance from people that, for some reason, did not read or understand that problem, was affected enormously.
+• Errors, such as one in Practice Assignment 2, can lead to wasted time, affecting performance on other questions. (Even though everyone had full points back for that question).
+2. Teaching Assistants (TAs) and Grading:
+• TAs' Expertise:
+• Most TAs are helpful; however, some lack in-depth mathematical understanding. There were instances when I was misguided, leading to incorrect HW submissions.
+• At times, external sources like YouTube or other materials seemed more enlightening.
+• Grading System:
+• The grading rubric is opaque and rigid, not accommodating multiple valid solution methods.
+• Certain conventions, like the "multiplication rule," must be explicitly mentioned, unlike standard mathematical practices.
+• Grading seems more contingent on the grader's understanding than on solution validity. Detailed answers, even those spanning 5 pages, often face deductions due to minor errors without weighted consideration for thoroughness.
+3. Professor Val:
+• Professor Val is knowledgeable and makes sincere efforts in teaching.
+• His office hours are insightful, offering significant hints and support.
+• Addressing the above-highlighted concerns could elevate the effectiveness and engagement of his classes.
+Conclusion: This course has valuable content but could benefit from improvements in content presentation, grading fairness, and TA guidance. Addressing these concerns can enrich the learning experience for future cohorts.
+
+Summer 2023
+Hard
+Strongly Disliked
+25 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+10/27/2021, 10:10:01 AM
+I have a math background, so I thought that this course was challenging, but not too difficult since I had seen most of the material before. I really enjoyed it, and it made me better at writing proofs, and I see the material everywhere in the other courses.
+
+I ended up taking about 6 hours per week on the course, but out of necessity not because it was easy. I would recommend spending more time than I was able so that your homework scores would be higher than mine were which is a lot easier if you chip away at the problems over multiple days.
+
+Summer 2021
+Medium
+Strongly Liked
+6 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+12/19/2020, 1:40:26 PM
+Hard class, but I learned a ton. I thought it was structured very well. It's pretty cool to go from 0 math background to inductive proofs in 4 months. I loved graph theory, and thought it was a different, but interesting way to think. Professor Tannen is awesome. I didn't attend anything live, but I thought his office hours were very helpful.
+
+
+Fall 2020
+Hard
+Strongly Liked
+20 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/9/2022, 7:56:32 AM
+Probably the worst course ever in my life. The course contents are good, but the way they are organized and explained is really poor. For example, in the probability section, he never even mentioned the concept of "identically and independently distributed" (iid), which is so standard and essential that every sophomore in the Stats department knows it. On Piazza, I saw some students are still confused about the linearity of expectation. This won't happen if the concept of iid is clearly taught. Also, some of the notations used in the class is non-standard and confusing, especially those in the topic of functions (mapping, bijection, etc). A very concrete example is that in an assignment, many students on Piazza are so confused with the set of integers and the integer interval. I don't believe any analytical math textbook would use those types of notations or describe a question in that way. The grading is mysterious and frustrating. I totally understand that grading proofs is never easy, but it is not an excuse for the nonsensical grading. Asking for regrading can be risky to you. I have asked for regrading once. The TA admitted that my argument is correct, but only half of the points are returned. After that regrading, my assignments were nitpicked here and there. I even got several points off just because I didn't align the question and page numbers! What a hostility! Since then I never asked for regrading again, otherwise I could fail the course in the end. The course itself still has something good. The design of the assignments is really trying to help you understand those core concepts, but again, sometimes the descriptions of the questions are very confusing. In summary, I did learn something from the course, but the overall experience is very unpleasant and humiliating.
+
+Spring 2022
+Medium
+Strongly Disliked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+12/13/2023, 9:09:37 AM
+"A Disappointing Venture Into What Are Supposed To Be Fun Topics in Math"
+
+Overall Course Rating: 3/10
+
+TL;DR (Detailed review below):
+
+• CIT 592 is a discrete math course covering counting & proofs, probability, and graph theory
+• The lecture quality in the course is quite poor, very heavily based on proofs and theory, with little use and application of concepts, making it difficult to understand how to apply the material into homework problems (many students sought external resources to learn)
+• Computer science application of material is not explained much
+• The grading structure is based mostly on exams
+• Practice quizzes are a joke, homeworks can be challenging and are graded extremely harshly, often with confusing wording and unclear expectations, and very stringent use of terms for the sake of "rigor"
+• Exams (IN MY OPINION) were more difficult than the homeworks, and often had some small twists (synthesizing multiple different problems types) which I didn't expect or weren't encountered in practice material, making studying for them harder. Exams are also graded very harshly, and one or two small mistakes can knock you down a whole letter grade. Exam 3 is an exception, that exam is much easier than the homeworks
+• TA support was abysmal, no clarification on homeworks when necessary, office hours generally not super helpful, and the head TA was often condescending and rude
+• Workload is variable, some weeks are lighter than others
+• The practice problems/packets for each unit are extremely difficult, and not useful for exam preparation
+• Val Tannen is actually a really great professor, with fantastic office hours that provide hints towards homeworks and exam questions. His office hours are A MUST
+
+My detailed thoughts on the course:
+
+CIT 592 is typically the second course taken in the MCIT Program. It is the MCIT version of CIS 160 (an undergrad equivalent course also taught by Val Tannen in certain semesters), and is essentially a discrete mathematics course which one typically takes within their first or second year in an undergraduate computer science program. The goal of the course is to introduce students to mathematical ideas and concepts which are useful in computer science, with units on counting & proofs, probability, and graph theory. I'm going to be completely honest. I was really looking forward to this course, as I really enjoy math, and I think the subjects taught in this course are really fascinating. However, this course was a huge disappointment. The subjects themselves are not difficult, but they are only made artificially harder due to the way the class is run.
+
+The class works as follows. There are three units, the first unit is on counting/combinatorics, proofs, and mathematical terminology/notation, the second unit is on probability, and the third unit is on graph theory. Each module covers lessons through a variety of lecture videos, as well as "self-paced examples" which are documents that the student has to read on their own. At the end of the module is the homework, which consists of a weekly practice quiz (with unlimited attempts), and a weekly problem set (which contains 4-5 problems to be written in Latex). At the end of each unit, there is an exam (they are called Timed Assignments in the course) covering the information in each unit. These exams are non-cumulative, and there are assigned practice problems/study guides associated with each exam.
+
+The lecture quality of the class in my opinion, started off alright, but got increasingly worse as the units went on. I am a big fan of learning by example, especially for math. I like to learn by watching worked out examples, and different problems types with solutions worked out in class, so that we know how to tackle the homework and apply the concepts. This class takes the opposite approach, providing students heavy theory, and proving every single concept, without actually showing how to apply these concepts in a problem or real world scenario. This is a terrible way to teach math, especially for those who have little background in theoretical math (which is most students in MCIT). This meant that students were not only lost when watching lecture videos, but they actually didn't even know how to apply the concepts they learned in lecture to the homework problems. Many students had to seek out external textbooks and resources just to learn the material because they couldn't learn via the lectures. Unit 1 at least had some worked out examples because counting and proofs can be less intuitive upon first glance. However, Units 2 and 3 on probability and graph theory had hardly any worked out example problems in lecture. Only rigorous proofs regarding theory. These are mathematical concepts which can be taught at the undergrad (and sometimes even high school) level, there is no reason to explain them in a needlessly complex fashion.
+
+Additionally, for a class titled "Mathematical Foundations of Computer Science", the lectures hardly discuss why these topics are useful in computer science, what they're actually used for, how they are incorporated in algorithms or software design, etc. Because of this, it just feels like we're learning math to learn math, without actually understanding why this is useful to know for future classes or for this program.
+
+The grading structure of the class is something I'm not a fan of. The weekly practice quizzes account for 3% of your overall grade. The homework assignments are worth 29% of your final grade. The remaining 68% of your grade is based upon your performance on the exams. Each exam is worth 22.5% of your overall grade (67.5% for all three exams), with an honorlock practice quiz which fulfills that last 0.5% of the grade.
+
+Practice quizzes are a joke. They can easily be done in just a few minutes, they have unlimited attempts, and there is no reason you shouldn't get a 100% in this category. The problems are too simple, and do not adequately prepare you for most homework or exam problems.
+
+The homework assignments are more difficult and complex, and everyone talks about how hard these homeworks are. The problems are doable in my opinion at least on the surface. You see, homework assignments are tough for a few reasons. First, the lectures are inadequate at explaining the material, and the practice quizzes are too simple, so the homework is much more challenging in comparison. Second, some problems on the homework are lengthy and can take over a page (or even two) of explanation. But most of all, the grading on homework assignments (and exams) in this course is UNNECESSARILY harsh, with an extremely stringent, rigid grading rubric. You will get points taken off for not EXPLICITLY STATING EVERYTHING in a solution, even if the information was stated in the original problem. You will get points taken off for not stating obvious facts explicitly. You will get points taken off for not including certain "buzzwords" in your explanation (I'm looking at you Multiplication Rule). You will get nickel and dimed several points for these small "mistakes" even if you are 100% correct. This is due to the emphasis of "rigor" on problems in this course. I managed to get an A in the homeworks (with multiple 100s), but it didn't really feel worth it considering how much time I put in to make my explanations as "rigorous" as possible, and how little each homework assignment is actually worth in comparison to the exams which basically undo any good you do on the homework. Speaking of which...
+
+The exams constitute the majority of the grade, and for each exam, you are permitted a double-sided notesheet. Most people say that the exams are easier than the homework. I will probably be the first to disagree with that sentiment (at least for units 1 and 2). The first two exams in my opinion were actually harder than the homework problems. Perhaps I'm not a great tester, but I personally felt that the tests are graded super harshly, and that the problems synthesized a variety of information from the lectures, homework, and practice problems, giving each problem a weird twist that I wouldn't have expected, and such, didn't know how to solve. In fact, some problems I never even recalled seeing before, because they synthesized information from multiple different problem types in a way that I didn't know how to tackle (A grader on my unit 2 exam referenced a variance formula/concept I never even saw before). And if you make some small mistakes on an exam, they're graded super harshly, so one or two SMALL mistakes can knock your grade an entire letter grade, or go from being above average to being below average. Exam 3 however, was without question, easier than the homeworks, which were far more complex than any other homework assignment in the course. This was a welcome treat for the end of the semester.
+
+One of the worst aspects of this class was the TA support. TA support was abysmal. Many TAs try to be helpful, but still aren't the greatest at explaining concepts, or lack a complete understanding of certain concepts. Ed discussion boards were pretty much useless, because TAs hardly did anything to clarify any questions students might have had. They either gave ambiguous answers/riddles, or would lazily tell students that "the problem says what it says", or to just look at a different lecture or discussion thread. A lot of the homework problems are very poorly worded, and even a native English speaker like me has difficulty interpreting them at times. I feel bad for non-native English speakers who couldn't get any clarification on question wording, only to get points taken off due to a "wrong interpretation". Finally, some TAs, ESPECIALLY the head TA, were extremely condescending and rude in several responses to other student inquiries, sending absolutely scalding responses. This is not how you conduct yourself when trying to help other students, and I am amazed this person has been the head TA for as long as they have. TAs also handle regrade requests, because they would often make mistakes when grading homeworks, but these would take weeks to get resolved. Really inefficient TAs, as much as I hate to say it.
+
+The professor of the course, Dr. Val Tannen, actually is a really nice, wonderful guy. Although I'm not a fan of the lecture videos (this is probably more of the fault of a math class being online, not his own doing), his office hours are extremely helpful, and have clarified things better than any of the TAs. Furthermore, he will often give hints on how to solve homework problems (essentially guiding you through 25-50% of the problem). He also hosts exam preparation office hours a few days before the exam period, and he will often give hints and narrow down specific topics to study for the exam. Dr. Tannen is actually really great, and I think every student should go to his office hours, or at the very least, watch the recordings.
+
+The workload in this class is variable. I don't think I ever spent beyond 10 hours a week working for this class (beyond exam weeks at least), but some students spend 15-20 hours. It depends on how well you can go through the homeworks. There are also optional practice problems/packets for each exam. These questions are absurdly difficult though, and are not at all representative of the exam questions. I've found these questions to be more harmful than helpful for actually studying for the exams.
+
+Overall, this course was a disappointment. The concepts taught in this class are interesting, but they are taught in a way that is not effective for most people to learn. TAs for the most part, were not helpful, and were often rude. Exams can be challenging, as can homeworks, and they are made even more challenging thanks to the harsh grading and rigidity of rubrics. I truly believe that much of these issues stem from the online nature of this course, and that this would have been a much better experience if the class was taught in-person. I like combinatorics, I like probability, I like graph theory, but I do not like this course.
+
+Fall 2023
+Hard
+Disliked
+10 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+8/30/2022, 6:08:35 PM
+I think the course is of the right level of difficulty. The last part (graph theory) was not taught as well as the others, but it's still acceptable. The exams for my semester were a bit easier than homework. To me, in terms difficulty, 1st > 2nd = 3rd, though the 2nd one was graded more harshly. One piece of advice is try not to leave out any potentially important details in your proofs and answers for the exams. Otherwise you may be unpleasantly surprised by the sometimes strict/unreasonable grading rubrics. Overall, it's a solid course well put together.
+
+Summer 2022
+Medium
+Liked
+12 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+10/16/2021, 12:26:15 AM
+If you have a degree in math or some relevant major like natural science or math finance, you will find the course content is pretty easy. If you never learned anything about Graph, the third part may be challenging. But the exams are much easier than the assignment and the practice exam. Generally, it is easy to leverage the course to get a great GPA in your first semester.
+
+Spring 2021
+Easy
+Liked
+6 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/3/2021, 5:46:04 AM
+I found the course lectures very useful, and sufficient to understand the concepts -- as long as I stayed focused and engaged while watching. In my opinion, the real learning in this course happens in the homeworks. The assignments were challenging: They took a long time and required reviewing a lot of material, and thus were great to help solidify the concepts in my mind.
+
+My main complaint would be that the practice problems provided for the tests are worse than useless -- they're fundamentally different from the test problems, and sometimes even deliberately misleading. The professor himself said multiple times that the test questions aren't like the practice questions, but instead are like the homework questions. To me, that makes the practice questions not only unhelpful, but potentially harmful to a student who spends hours reviewing and solving them, only to find very different questions asked on the test.
+
+Spring 2021
+Hard
+Liked
+12 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/1/2023, 6:43:00 AM
+I think the experience of this course will depend on your general comfort with formal mathematics. As someone who had completed up to Multivariable Calculus ~8 years ago, I found the course to be quite time consuming and challenging. FWIW my sense is the content is just hard if you're not used to formal logic.
+
+I found the distance between lecture content and weekly problem set to be pretty wide. The professor will introduce a topic quickly using a formal definition, and proceed to move seamlessly to a rigorous proof. You're expected to do the same thing when going from lecture to a challenging HW set of 5 problems.
+
+As someone who learns best through practice problems and repetition, I found I lacked the problem-solving confidence to close this gap weekly, and apply new, abstract concepts to pretty challenging problems. Many students (myself included) leveraged TrevTutor, WrathofMath, etc.. to supplement the material. I found the sample problems in other sources to be less rigorous then the courses.
+
+This meant that often I would have to compress time spent completing the HW, as TAs and Professor provided "hints" to the problem near the end of the week. The instructor is clearly talented, but this course would greatly strengthen its offering if it gave students more of the tools to succeed.
+
+Spring 2023
+Hard
+Disliked
+20 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+7/4/2021, 9:31:26 AM
+This is one of those classes where I hated it while taking it, but learned to appreciate it after it was over. I personally believe that the lectures should have been structured better and come with more diagrams and examples. I didn't use any outside resources and felt the content of the lectures was JUST enough to get you through the homework. That being said, the professor and TAs were approachable, and others in the class were super helpful. I spent an enormous amount of time on this class, definitely more than I should have. Honestly some weeks I'm sure I put more than 25 hours in. It's so easy to get bogged down in one problem or obsess over whether your answer is really correct. If you find yourself super frustrated, seriously take a break and see if you can attend the next private office hour section or use the rubber duck method to talk through the problem.
+
+Spring 2020
+Hard
+Liked
+18 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/2/2022, 7:38:43 AM
+First, let me say that I feel that the concepts in 592 are critical for computer science, and I enjoyed the concepts themselves. However, the course itself does a poor job of effectively conveying them, especially considering how critical they are for the degree.
+
+The course was far more difficult than it needed to be, while covering far less content than we could have (if it had been better designed). I felt like the goal was to stump us on the homework more than it was to provide us with proper scaffolding to build a solid foundation in the concepts. I spent hours every week scouring the internet for additional instruction so that I could make sense of what the homework was asking for.
+
+During our session (Spring 2022), the TA support was lacking and almost non-existent. Many of the questions on Piazza were answered by other students, sometimes leaving us more confused (some student answers are better than others). I don't know if this problem is because of poor TA management from Prof. Tannen, or if they were very shorthanded, or if the course just isn't well-designed for incorporating TAs. Early in the class I never asked for regrades; but after I learned enough, I came to realize that the TA's were doing a poor job of grading. By the end of the course, it would take nearly 2 weeks to receive grades on an assignments, and feedback was sometimes non-existent.
+
+My experience has been that students with a strong math background (e.g. engineering) will enjoy the course and sometimes say it is too easy, but those with a weaker math background will find the course to be quite horrible. Students strong in math should test out of 592 instead of messing up the curve for everyone else.
+
+Each week's lectures averaged 40 minutes, while the homework took about 10 hours. I found myself spending at least an extra 5 hours each week watching MIT's lectures on the same topic or using Khan Academy to help. There is no required textbook; but I had to read 3 textbooks to get a strong enough foundation in the concepts.
+
+Additionally, this course is "Math Foundations for Computer Science", but it was rare that computer science itself was ever mentioned. I understand how these concepts connect to CS, but I feel it would have been far more useful if some of our homework problems incorporated CS topics (e.g. algorithms). It would have been even better if some of the homework required a bit of Python code.
+
+Grading was incredibly sporadic, depending on the TA. They were then flooded by regrade requests. We haven't received final grades yet, but I hear that previous classes had a curve. If the course is curved, I might receive a hard-earned A; if not, it will be a solid B (my first non-A in a very long time).
+
+My advice to incoming students: If you do not have a strong math background, I suggest that you read "Book of Proof" cover to cover before starting this course. Then, as you go through the course, watch MIT's Open courseware lectures for 6.042J Math for Computer Science on the related topics before starting the homework.
+
+My advice to MCIT staff: Find a good textbook that meets the objectives of this course, then adjust the sequence of the lectures so they align. Have all-star TAs record microlessons on how to approach problems in the key concepts. The recitations are just too little too late, and they are hit or miss depending on the quality of the TAs.
+
+Spring 2022
+Very Hard
+Disliked
+20 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+4/27/2021, 10:17:10 AM
+At the time I took this course it had been 10 years since my last interaction with rigorous math. The early part of the semester was a struggle and it felt as though proper support material was lacking. The leap between understanding lecture material and thoroughly understanding the weekly homework assignments was stressful in the courses mid-early weeks (emphasis on weeks 05 and 06).
+
+In the second half of the course the transition to Probability and then to Graph Theory, was welcomed. These topics, though at times rigorous and mentally stimulating, seemed more intuitive.
+
+The exams were fair with the proper preparation. You will need to at times search for outside materials to aid in your understanding. I believe the Professor and course staff had a genuine care for our success, and I commend their attentiveness to constant communication.
+
+Overall, I feel I learned a great deal from this course.
+
+Spring 2021
+Hard
+Liked
+16 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+12/6/2020, 12:03:51 AM
+Class was reasonable, but sometimes it’s hard to see the applicability of some of these concepts in CS
+
+Fall 2020
+Medium
+Liked
+10 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+8/31/2021, 9:23:49 PM
+Grading is unbelievably harsh, when you get correct answer but still lose more than half the points. Curve at the end is a relief.
+
+Summer 2021
+Hard
+Disliked
+12 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/10/2021, 3:42:05 PM
+This course took a lot of adjustment for the first 6 weeks. It's a lot of completely new notation and information (even for someone with a decent math background), and it was a bit overwhelming for the first half of the course. The lecture material never seemed to be enough, and our class utilized our Slack channel to share supplemental lecture information we could find, etc. I will say as the semester progressed I became much more comfortable with the notation, how the lectures were presented, etc. and ended up needing less and less outside help to understand the material. The recitations and Open Office Hours with the instructor were extremely helpful to me in understanding the Homework problems which were often quite a leap in difficulty from the examples given in the lectures. You need to come prepared with good questions though. The instructor will ask you if you've read the lecture material and will refer you back to it at times, so make sure you've digested it before coming with questions. While the class was very difficult, and I sometimes wanted more help than the staff would give I will say it was extremely rewarding when you finally did figure out the answer to a homework problem, and I learned a significant amount in this class because of struggling through the homework. Overall by the end I really enjoyed the content if you can make it through how overwhelming the first half of the semester feels.
+
+Spring 2021
+Hard
+Liked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+8/10/2023, 6:53:08 AM
+This course is a disgrace to the UPENN name. Lecture videos are just a verbatim reading from slides. The professor shows few examples and doesn't hold his proofs to the same standard he expects his students to be graded. The homework difficulty is 10x what is shown in the lecture and impossible to complete without referencing outside materials. I shouldn't need to learn the materials from YouTube when paying 3k for a UPENN grad course.
+
+The other question that needs to be asked of the course is: Why? We are studying towards a Masters in Computer Information Technology. Why is this course graded so heavily on robust written proofs? I understand that these mathematical concepts are essential for algorithms in computer science, but I am not a mathematician. I need to understand the concepts and how they work... not prove that they do. This course rarely mentions the computer science connection to the concepts taught.
+
+Grading is arbitrary and based on a rubric never made clear to students. Alternative solutions, while valid, often lose more than half the possible points per question.
+
+Professor Tannen is not helpful and incredibly rude. He routinely mocks students during office hours, to the point where only a couple of students cared to join by the final weeks. He even mocked his own TAs occasionally and contradicted what was said on Ed Discussion.
+
+Many TAs are lovely and try their best with the little leeway Tannen allows.
+
+The head TA should not be allowed to continue in her role. She frequently talks down to students on Ed and during her open hours. She spread wrong information in Ed discussion on multiple occasions and disagreed publicly with her colleague TAs. She is a disgrace to the university and should be dealt with before she is allowed to continue tarnishing its image.
+
+I've never been so disappointed in an academic experience as I have been with this course.
+
+Summer 2023
+Hard
+Strongly Disliked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+8/31/2021, 4:23:26 PM
+I had some experience with proofs and discrete math concepts before this course, and it was still a hard course! Overall I learned a lot and enjoyed it though. The assignments always took me a long time (math always has taken me a long time), but putting the time in got me good grades on them. Exams were tough but I always felt that I had been graded fairly. Wish there weren't three exams, the first one was my first experience with ProctorU and that was really stressful since I have baseline math test anxiety. But don't panic if you don't do as well as you hoped on the first exam - the second and especially third were easier, and easier to study for in my opinion. I do recommend checking out the recommended (not required) textbook readings if things aren't making sense to you from the lectures, sometimes they're a lot easier to understand.
+
+Spring 2021
+Hard
+Liked
+18 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+1/3/2022, 1:58:17 PM
+While I do believe this course is very challenging and you come out of it having learned a great deal, which is a benefit, I think that the class is so poorly organized and instructed that it almost equally takes away from what you learn. The professor is pretty rude and not very flexible for his students, I found him being quite degrading to "stupid" questions in office hours to students and not very approachable on Piazza. My biggest issue with the class was - there is about ~1 hour of instruction via videos. I am sure that the in-person course gets much longer instruction. 1 hour is NOT enough to be taught these extremely abstract concepts. They should have additional optional lectures. Then, there are a bunch of "self-paced examples", which essentially is the teacher not wanting to really teach you fundamental concepts and proofs, but throwing them on a word doc and trying to get you to do it on your own. This course will require you to depend on TrevTutor, Khan Academy, and the likes on Youtube. Unless you are very good at this stuff and have taken courses like this that make your mind think in a specific way, if you are working full time I would heavily recommend NOT taking it with another course. Give your brain ample space to learn, comprehend, understand, and retain this material. I took this with 591 and wish I hadn't, even though in the end I did get an A. I had to attend at least 2 TA office hours a week - 1 early in the week to solidify course concepts (often what is on the slides in unclear or confusing and not explained), and 1 later to clarify HW questions. I did not find instructor OH super helpful. I think this was critical to succeeding in the course. I recommend:
+1) Finishing lecture material by Tuesday
+2) Attending OH Tuesday / Wednesday
+3) Beginning hw on Wednesday
+4) Finishing up HW by Saturday (attending OH as needed)
+5) Coding hw in Latex Saturday and re-reading on Sunday
+Study as you go along. Make notes. Don't just attend lectures and depend on slides to be enough. Nothing is open note!
+
+Fall 2021
+Hard
+Disliked
+18 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+12/12/2020, 11:23:22 PM
+I would describe this course as difficult but satisfying. I had to spend many hours (especially at the start of the semester) trying to internalize the concepts thought, but when I finally managed to grasp them, I truly felt that I learned something new. My only complain is that the lectures are not always the most useful in teaching the concepts. There were some topics that I felt that I could learn the same topic by watching a 15min youtube video than an hour of lectures (but I had to watch the lectures no matter what because they contained hints for the HWs). However, the recitations and office hours were actually pretty helpful in making up for the shortcomings of the lectures.
+
+Fall 2020
+Hard
+Liked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+12/9/2020, 8:37:06 PM
+Having come from a sparse math background this class was difficult for me. Tons of proofs. Individual problems on some assignments could take me hours. I felt like most of the homework problems relied on discovering a clever trick to solve. There were some very frustrating weeks. The lectures/slides weren't super helpful. However, open office hours and recitations were very helpful, absolutely necessary in fact. For as difficult as the class was for me, I do feel like I learned a lot. Lots of people seemed to have started out poorly (myself included) as there were lots of questions about dropping the class, however, there are quite a few extra credit opportunities and the grade seemed to be curved quite a bit. Overall I liked the class despite its faults.
+
+Fall 2019
+Hard
+Liked
+18 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+6/5/2022, 12:26:32 PM
+How you fare in this course definitely depends on 1) your background, and 2) how much you prepared for the material. I hadn't taken a math course since college around a decade ago, so I was apprehensive for this class. I'm not going to lie, it made me cry, and more than a few times.
+
+Echoing other reviews, the class is split into three sections on counting (stuff like combinatorics), probability, and graph theory. The first section is ROUGH; I suggest really trying to learn how each proof pattern works and attending recitations. I have a background in probability, so it felt more comfortable to me. Graph theory is weird, but if you do well with spatial reasoning, you'll probably be okay. The material is nice in that you start to recognize how to use stuff like permutations and such to solve other problems later on, so it is well-tailored.
+
+Three things helped me succeed: 1) preparing with some books that are free and related to the course material (i.e., Levin's Discrete Math book [helps throughout the course] and Diez et al.'s OpenIntro Statistics [n.b., particularly on disjoint and independent processes]), 2) having a proof pattern that was my my-go (by-cases in my case), and 3) using everything at my disposal to understand a problem (since I hadn't done things like math with exponents).If you do these things, I think you can at least pass.
+
+Sometimes (and what felt like often at many points), the material will be hard to understand because some videos or other lecture content was too in depth (what is with the pizza cutting thing?) whereas other materials don't do enough to connect the dots. Don't be afraid to clarify EXACTLY what a question is asking you or, in your answers, EXACTLY how you know something is true. The course staff won't help you toward an answer, but your fellow students and the course staff can help you understand what is being asked of you.
+
+Spring 2022
+Very Hard
+Liked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+8/28/2022, 1:48:06 PM
+Useful statistical and graph theory course. The content would be super helpful to your career if you work in the data industry.
+
+Def not an easy course. Tips: Do practice questions + search Youtube Videoes if you feel not clear about some topics.
+
+Summer 2022
+Medium
+Strongly Liked
+8 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+6/6/2023, 11:33:21 AM
+This class was so frustrating that I’ve had to write down my grips with the class throughout the semester as a form of therapy. This is the result. See the last paragraph for some positives about the course.
+
+My issues with this class can be broadly broken into the following: material is lazy, bad TAs, and in general the course feels like it’s out to get you.
+
+Material is Lazy
+
+Almost all of the lectures were recorded in 2019, which is more than three years ago as of this writing. This wouldn’t be a problem if the lectures were actually good. The videos don’t have enough explanation, it’s just the professor’s voiceover reading each word of the slide out loud. The slides read like condensed gibberish. The steps in logic are often not explained, leaving listeners confused about how one thing leads to another. There are way too many “self paced exercises” where material is typed up in a PDF for the students to learn by themselves. The issue is, these are often the more difficult parts of the material that would really benefit from someone walking through it. Instead we’re left to our own devices to decipher these exercises. Now this wouldn’t be a problem if there was a good TA support network, which leads me to the second thing.
+
+Bad TAs
+
+To the TAs’ credit, they do respond to questions on Ed Discussion in a timely manner. Some of the TAs very clearly make an effort to help and are very nice. But the positives stop there. Sometimes we receive a completely unnecessary condescending comment from a TA. I would like to remind TAs that the material should seem easy to you because you are a TA. The rest of us are literally here to learn said material. You’re supposed to help us do that, and being patronizing is not helping. Second, TAs are also responsible for recitations, where they walk through some example problems using class material. This can be heavily hit or miss depending on the TA. I once had a TA during recitation copy an answer from somewhere else to explain a problem to us. When asked how they got to that answer, they literally said they did not know.
+
+Third, the TAs are awful at grading. I’m sure every student had a few grading mistakes that required regrades. With almost 300 students, 14 assignments, and 3 exams, that’s way too many grading mistakes. There are a few times where even if your answers and explanations are correct, you will be marked fully wrong if your write up does not match the exact specification. The rubric could explicitly tell TAs to accept various correct answers and TAs would still take away points if it does not match exactly to the solution they were given. I once had a grader give a counterexample to why my solution was wrong, without even checking that my solution covered their counterexample completely. Even though grading mistakes are almost always corrected upon regrade request, it is still incredibly frustrating. This happens so often that it’s hard to believe these are genuine mistakes. It really comes off as contempt for the student or TA incompetence.
+
+Course Wants You to Fail
+
+This course seems to be doing everything possible to trick you. The problems are intentionally worded poorly and TAs are told to resist any clarification. We’re constantly asked to write solutions to HW problems in a specific way, but are often not taught how to from the course material. For example, we’re often asked to write solutions in a closed form format, but we were never officially told what closed form format means. Looking up “closed form” online gives us different definitions than what is used in class. Eventually we’re expected to submit answers in closed form even without prompting from the problem. We then get docked points for not doing so even though that requirement wasn’t in the problem.
+
+In the probability unit, we were told to define a probability space for every solution but were not told how to do so from lectures. The TAs got so many questions regarding this they eventually wrote up a huge guide on Ed Discussion. This guide should have existed already without students asking for it. If the class is looking for a specific way of writing a solution, we have to be told how to write it! It’s not like the class doesn’t know this. During the induction section of the course, the professor walks through clearly how to write an induction proof in lectures. But for some reason for every other topic they fail to outline in lectures how solutions should be written.
+
+The course is intent on shoving as much math notation down our throats as possible. When something can be easily explained using plain language, the course material prefers to have everything in math notation. I remember a TA saying they “don’t understand why students have so much trouble with notation.” I’ll tell you why. It’s because we’re not mathematicians. We navigate everyday life with language that is perfectly capable of describing the concepts you’re trying to teach. We’ve had very little experience looking at math notation, how can we be expected to be able to read it accurately and easily. Math notation would be a lot easier to learn if we had a sentence in plain language that translates long chains of notation. But that would be too much work for the lazy course material.
+
+This class requires a ton of work outside of actual learning because students have to constantly double, triple, and quadruple check answers to make sure the way they’re written fits neatly into draconian grading standards. I think I speak for a lot of students when I say that we actually appreciate a difficult class (see reviews on CIT 593), but this class simply did not give us the tools to succeed and actively tried to make us fail. We have to spend more time looking for supplementary learning material online. If we learn how to solve a problem from other sources, we have to hope that the answers we write based on outside learning will be graded fairly by TAs and accepted as correct.
+
+More work in this class in no way means more learning, it actually detracts from our appreciation of the material. Compare this course to CIT 593 - Computer Systems. CIT 593 is known to be a lot of work, but the work serves to reinforce our learning. I would strongly recommend students not take this class and CIT 593 together because that will highlight just how bad this class is and heap on more frustration.
+
+Positives
+
+It’s a shame because the material in the course really is interesting. The problems are all interesting little puzzles and I feel like we’re building up a toolbox to find real solutions. Professor Tannen is extremely helpful in office hours. I often think if they just took clips from his office hours and edited it down into additional course material, this class would improve manyfold. He tries to sprinkle humor into the material and problems which does help take the stress off a little. This course can really benefit from a revamp of the teaching material and from hiring TAs who are thoughtful, good communicators, and actually interested in helping others learn.
+
+
+Spring 2023
+Hard
+Strongly Disliked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+8/23/2022, 10:13:18 PM
+This class is hard but it's not unmanageable. The lectures are good. The first section on combinatorics is probably the hardest of the three sections. I found graph theory to be the second hardest for some reason even though you are told that it should be the easiest. Office hours are a good thing to attend with the caveat that sometimes listening to your peers ask questions can potentially create even more confusion for you. I think a lot of students in this class actually do themselves a disservice by going to third party resources to learn the material. There are too many things that are course specific (i.e. if a principle is not proved in lectures you need to prove it in your homework problems... but if you're looking at some other website they might have proved it as part of the same topic lecture so then you start to assume you can just reference it) and hearing too many voices I think confuses some of the fundamental concepts. If you're not strong in math this class is going to be rough. However, I think there is a huge intimidation factor going on. People talk about this class being really hard, and the first few homework might be a shock, but if you go to office hours and read/post on Ed then it's very much attainable to get a grade you're happy with. Last thoughts on the exams: they're fair but they are long (or at least can be). With the except of the last graph theory exam I took essentially the full 3:45 to complete the exam. That's a hard thing to schedule if you're busy with work and family and the exams are not open note. So prepare accordingly and you'll be ok. Unlike a lot of the homework questions, I don't think the exam questions really had any level of "gotcha!" to them.
+
+Summer 2022
+Hard
+Liked
+12 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+12/19/2023, 11:41:24 AM
+I will look back on this class as I'm sure most fraternity pledges do. It was hellish during the process, but after the fact, I will look back fondly on this class because it helped me think more like a mathematician, and exposed me to concepts that are super interesting to me to this day, but it was definitely a lot of work and very tough. Go to professor's office hours, as he gives plenty of hints on homeworks and exams.
+
+Summer 2023
+Hard
+Liked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+4/21/2023, 9:21:38 AM
+Poor quality course. The lectures are insufficient in learning the material and concepts were not conveyed clearly at all. Many times I had to use external resources to understand what was taught in the lecture. I don't understand how anyone can say these lectures are good quality and how a concept can be taught using 1 slide of material that is extremely hard to understand.
+
+Homework materials were vastly harder than lectures and lectures do not help with tackling the homework.
+
+Grading in terms of homework were also extremely poor. Students lost points for no apparent reason and lost points if something as simple as "why does 1 + 1 = 2" was not stated.
+
+Professor is not helpful at all during his office hours. Awful attitude towards students who are seeking help.
+
+Students are not allowed to discuss the homework in anyway with the TAs or other students so there was very little guidance on completing the assignment.
+
+The one positive aspect of this course is the TA quality. TAs were, for the most part, very responsive and helpful. The head TA Irvane is extremely helpful and knowledgable.
+
+For anyone preparing to take this course, there is a lot of work involved
+
+Spring 2023
+Hard
+Disliked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+10/12/2024, 10:00:51 AM
+This course will teach you to think more mathematically. I enjoyed the course materials very much, though after the second exam, I wish I would never have to encounter Probability ever again. Funny enough, it comes back it 596 and maybe future ML courses (as I learnt through reading Reddit stuffs).
+
+Some tips to help you get through this course
+- Maybe do a quick run of the Coursera course called Introduction to Mathematical Thinking to get familiar with overall math language. It's really on its own territory.
+- Leverage Trev Tutor for some topics that you don't find intuitive.
+- Review the lectures & solved problems carefully.
+- Watch or even better attend professor's office hours. So far, this is the only course that the professor Tannen hosts two office hours/week and they are both during the weekend. This is extremely appreciated for a part-time student with a full time job.
+
+I didn't really take full advantage of TA from this class. The answers on Ed sometimes are even passive aggressive to the learners, which I find pretty annoying. There are a lot rules around how much they can answer our questions. So, you may want to come to private office hours of various TAs with really good questions and find out yourself who is your best resource moving forward. I couldn't find one myself and it was the most disappointment part of this course.
+
+And do not forget to review your homework after it's graded. You will learn from your mistakes so much (hint - good for the exams) and you may find some regrading opportunities!
+
+Summer 2024
+Hard
+Liked
+18 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+1/16/2024, 8:08:18 AM
+The last math class I took was Calc II over a decade ago. I don’t have an engineering background. The class has changed, and I believe it’s a better process now.
+
+Pros: cheat sheet on exams(8x11 front and back), 50% overall grade to pass(he used to not tell the cut off), noncumulative exams, Tannen a day or two before the exam opens will give the topics on the exam(ex: “The first problem is a proof that can be done by _____”.) This semester I don’t think he is condescending, nor rude. He seems to be having fun, and has given kind answers to students in the OOH. The practice packets with solutions now come out with the modules, so it feels like there is plenty of time to work on them/look to see how problems are done. (used to be ~2 weeks before the exam, packets were released without solutions. ~1 week before the exam solutions were posted).
+
+Cons: Head TA is condescending(to students and to the topics, so maybe it’s just how they talks), homework due 2 days after the exams, lectures are mostly taught in jargon and difficult to understand, there are PDFs that cover new content instead of lecture videos, the homework instructions are constantly evolving such that you have to read through Ed Discussion to receive all the points because the original written instructions are not specific enough. It’s a marathon of a class, hw due every week is a brutal feeling.
+
+I really wish Tannen could find a textbook, or pdfs that he liked that explained the material. That way when I didn’t understand a lecture, I could just read, instead of spending hours on Youtube trying to find the exact concept.
+
+Tips: Youtube - trevtutor, Valerie Hower, Eddie Woo, MIT’s 6.042J. Books: Book of proof(Part 1), Discrete Mathematics and Its Applications - Rosen(Part 2),
+
+My plan was:
+Mon-watch OOH, modify my hw
+Tues-Th: watch lectures, recitation
+Fri: attempt hw
+Sat-Sun: find a couple of hours to type up my hw
+
+Fall 2023
+Medium
+Disliked
+12 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/5/2023, 4:23:59 PM
+I have taken Linear Algebra and Calculus before as prior background. However, 592 required the discipline to adapt to a different way of approaching problems. I have never had a theory course before and I found the course to be quite challenging.
+
+The content of lecture does not prepare you entirely for the homework assignments as it encourages you to think about how you can apply theorems and lemmas from lecture in different ways to prove claims/statements. From someone who is used to grinding practice sets and computational problems, I had to supplement my learning with YouTube creators such as TrevTutor/Kimberly Brehm for Exams 1/2 and WrathOfMath who has a whole playlist of Graph Theory for Exam 3. A lot of the practice problems in Discrete Math books such as Rosen are simpler problems to develop mastery over concepts, however are not the same difficulty as the homework sets.
+
+My advice as someone who did average on the exams but took a LOT of time to do the homework would be as follows:
+- Make sure that everything is explained and your work/logic process is shown in your proofs.
+- Do not assume anything prior for the problems that are not in the problem statement itself.
+- Attend Professor OH and recitations or watch the recordings. They are invaluable to getting the most points possible for the homework
+
+Overall, the class was very challenging and took a majority of my time between taking 591 and 592 at the same time. However, I felt I learned a lot and developed a sense of intuition from the course on how to approach problems and learn topics conceptually. Tannen is a great professor and I highly recommend anyone who takes this course to take advantage of all the resources available to them!
+
+Spring 2023
+Hard
+Liked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+4/26/2023, 6:28:56 PM
+I am not particularly enjoying the course but I understand this is an important course. It does help me become a more logical person.
+
+Spring 2023
+Very Hard
+Disliked
+20 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/9/2022, 5:40:36 AM
+Having studied mathematics many years ago, I found this course to be relatively straightforward. The first part of the course was challenging, since it took some time to re-acclimate to formal mathematical reasoning. Most of the real learning takes place working out the homework solutions. The exam problems are generally less difficult than the homework problems. Also, the latter half of the course is more straightforward than the first half. Overall, I liked the course, I liked the instructor, I found the teaching to be clear and accessible.
+
+Spring 2022
+Medium
+Liked
+6 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+8/22/2021, 8:59:24 PM
+This course has a steep learning curve in the beginning, mainly because I had never learned discrete math before (though I've taken many calculus classes). The first midterm was tough because of this, but it gets easier as the key concepts are reiterated throughout the course. HWs are the best I've encountered; they take time to unpack, but their connection to the course material is very clear. Exams are also fair and the final was easier than previous midterms, which was a nice way to cap off the semester.
+
+Spring 2021
+Medium
+Liked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+1/4/2022, 2:57:37 PM
+Coming from an engineering background, I found this course to be very difficult. The lectures were not adequate and external resources were required to fully grasp the topic. I did not find the recorded lectures very helpful. It seems like the professor has such a deep knowledge of the topic that he struggles to bring it down to our level. That being said I did like the professor. The homework took on average 10 hours a week and is due every week. The TA Recitations were helpful as were the Professor's open office hours. The grading is all over the place and multiple times correct answers were graded as incorrect. The grading also took multiple weeks to be returned which leaves you wondering if you are approaching problems correctly as there are often multiple approaches to the same problem. I found Book of Proof by Hammack to be a helpful resource. The exams are closed book which I found difficult as I have not had to memorize anything since undergrad.
+
+Fall 2021
+Very Hard
+Neutral
+18 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+11/23/2020, 7:20:10 AM
+I come from a STEM background and am constantly amazed every week at how difficult this class is. I've done well in the class but only with a huge amount of time and effort. Homework is so difficult sometimes it takes me a day to just get started (aka just reading through them all and starting to understand the questions). Lecture notes have felt like French to me at times (I don't speak French).
+
+Advice: Be prepared to spend a ton of time on this class. Try different textbooks, youtube channels - anything to help you understand the materials. Don't let any concept pass by, no matter how small, without deeply understanding them because you will be tested on them. Prof Tannen is very helpful but he can only be as helpful as students' questions go - meaning he can't give out free hints at every question thrown at him. So come to the OOH with thoughtful questions and your life will be a little bit easier with the homeworks.
+
+Fall 2020
+Very Hard
+Neutral
+25 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/3/2021, 8:19:45 PM
+Great course, I think. Quite a rigorous introduction to (mostly) discrete mathematics. I thoroughly enjoyed the experience, it felt like weekly GRE logic exercises at times (but you have to also do the proofs). Maybe a bit hard if you have not touched math for some time or are coming from a non-quantitative major.
+
+Fall 2020
+Medium
+Liked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+3/21/2023, 4:11:13 PM
+The first 1/3 of this class was the hardest. The math is very foreign and it's easy to feel overwhelmed. TA recitations were outstanding--they were a huge help and I couldn't have passed the course without them. I found that the pacing of this course was very difficult. Every week there is a set of lecture videos, a quiz (unlimited attempts), and a homework. However, when the midterms come along there is no pause on those weekly assignments. So the workload goes drastically up and down throughout the semester, which I found frustrating and doesn't reflect the fact that many online MCIT students are part-time students who have other obligations. I think the course would be greatly improved by slightly condensing the material in exchange for a dedicated exam week.
+
+Spring 2023
+Hard
+Disliked
+20 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+7/19/2023, 5:43:39 PM
+For background, I have taken up to college calculus but nothing more. This class takes high school level math and makes it unreasonably difficult with complex and unnecessary notation, but once you give in to the frustrating rules and grading and learn to play by the classes rules, it becomes a lot easier.
+
+The feeling is that it gets easier as you go, and I think that's less of a product of the material getting easier, and more a factor of getting used to notation, proof patterns, and the way the graders want you to answer problems. By the middle of the semester I started finding the proofs to be rewarding and that helped a lot in driving motivation.
+
+On Ed, the TAs are responsive, and in office hours the professor is helpful in explaining concepts and giving homework hints. However the head TA is really rude to students on Ed, within a week I felt uncomfortable asking questions on Ed since I knew I would get a confusing and condescending response.
+
+Overall, the content is not difficult but the class is, and the earlier you can view the class as an exercise in logic and solving questions with proof patterns and notation, the earlier you'll succeed.
+
+Summer 2023
+Hard
+Disliked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/11/2021, 8:21:30 AM
+Great course, cemented combinatorics and probability, both topics I found quite tough throughout high school and undergrad. First third of the course (combinatorics and proofs) was more time-consuming at about 15-20 hours per week, and then second two thirds (probability and graph theory) were less, requiring around 12-15 hours per week.
+
+Exams were well-written and fair. The TAs/graders can be harsh but definitely go to TA office hours if you need help on an individual homework problem (they'll nudge you in the right direction), and watch recitation videos! The recitation problems were a bit harder than homework/exam problems but really helped drive home the concepts. I never attended recitations/instructor office hours live, and only watched instructor OH recordings for the weeks before exams, when Val went over the practice problems' solutions.
+
+I didn't find I needed outside resources to study and really focused on understanding the lecture videos while carefully taking notes. If a recorded lecture was 10 minutes long, I would spend about 30 minutes watching/rewatching/pausing to take notes. I felt this approach really helped because I'd then understand what the professor was intending me to and follow a similar approach as presented in the course to the homework/exam problems. Everything you need is within the course if you can figure out what to hone in on (this will take a bit of getting used to the first couple of weeks of course).
+
+Make sure you directly state/apply all the terminology/concepts mentioned in lecture in the homeworks/on the exams for full points! Be as comprehensive as possible, and don't let the whiners/complainers on Piazza/Slack get you down. Be confident, and you got this! I definitely felt annoyed at some points in the course due to unfair grading etc. but if you consistently work hard, you can get a good grade! (I got an A+ and it definitely was rewarding at the end of my first MCIT semester). The class is justifiably hard but I think it lays a good foundation.
+
+Spring 2021
+Medium
+Liked
+16 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/7/2022, 12:50:07 PM
+Awful course from start to finish. Prof Tannen is frankly bad at this job and should be pleased he's still employed. You can be terrible at explaining stuff, or you can be sensitive and unreceptive to students (ie. the customers). Doing both just makes you hilariously unfit to be an instructor. The grading is abysmal and inconsistent. Prepare to ask for a regrade on everything because the unintelligent TAs can't understand any answer which isn't 100% what the rubric says (even if it's still correct).
+
+Spring 2022
+Medium
+Strongly Disliked
+10 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+11/17/2020, 4:13:53 AM
+Using latex for the first time can be painful, but you will get used to it after the first few weeks.
+Homework was difficult but it felt great when you finally solved a problem after staring at it for an hour.lol. Open office hours were super helpful for getting homework hints. And most of the time, recitation can help you out of those annoying math terminology with more intuitive explanation. (Depends on the TA)
+
+Overall, I think the lectures were pretty well structured and intense.
+
+Fall 2020
+Hard
+Strongly Liked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+12/11/2025, 12:46:05 AM
+I liked this class a lot. Watching lecture materials was manageable each week. Class had weekly problem sets of about 5 problems of varying difficulty, which felt like a good way to practice while still being a manageable amount of work. The grading for this class is a little annoying so the main thing is just be as thorough as you can when writing out proofs and explain even things you think are obvious. The professor gave many practice problems prior to exams, which made studying relatively simple -- just do all the practice problems he assigns prior to exams and you will be fine. In general, exams felt a little easier than the practice problems, which was nice. Overall, I think if you put in the work in this class, you'll do great. I felt prepared and like I knew what to study.
+
+Spring 2025
+Easy
+Strongly Liked
+12 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/4/2023, 2:40:39 AM
+The lectures are somewhat helpful, but many people use outside resources to supplement their learning. If you are not familiar with proof writing or logic, this course can be a rough start since the assignments are proof-based questions. This course is challenging as the grading rubric is unforgiving. Overall, the class is difficult (in part of the grading), but once you understand how to write proofs and understand what the graders are looking for, it becomes a bit easier.
+
+Spring 2023
+Very Hard
+Neutral
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/3/2024, 12:28:19 PM
+Overall is a good class. The TAs are answering questions in time on Ed. The material alone is not particularly difficult and if you do your homework and read the practice questions, you should be prepared for the exams.
+
+The only thing that I don't like is that some of the assignments and practice questions have errors in them and were causing a lot of confusion The professor was addressing a lot of problems at the last minute which wasted me a lot of time to work with wrong information. The grading can be improved as well. Some TAs were giving grades quite literally just based on the scoring rubrics without understanding understanding the question itself. Request regrading whenever you feel you have a point.
+
+Spring 2024
+Easy
+Liked
+8 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+12/4/2021, 8:41:16 AM
+This is a very tough class that is all proofs and theoretical math. I did not enjoy it and did not find the concepts useful to my career. Although, I understand you have to include a class like this in a Masters in CS program
+
+Fall 2020
+Very Hard
+Disliked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+7/19/2023, 4:47:24 PM
+Is 592 hard conceptually? Not really.
+Is it hard to get a good grade? Not really.
+Is is hard given the resources and course structure? 100%
+
+I’m sure in the long run the application of the math will be even more evident (especially in 596), but it seems the cost outweighs the reward. The three parts of the course felt disjointed from each other and from actual code. The proofs we graded strictly - only if you didn’t follow their precise way of thinking or writing. And some of the course employees were just downright rude and unhelpful.
+
+Val is an enthusiastic and seasoned lecturer (it shows). However, the aforementioned issues all detracted from what should have been an otherwise interesting and fun course.
+
+My best advice to the program would be to try to actually compress the modules more and add some application in. My best advice to students would be to learn early what they’re looking for and how to think - it will serve you well come grade time. Even if your grades aren’t what you want them to be, the curve helped significantly as well.
+
+Spring 2023
+Hard
+Disliked
+8 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/27/2022, 1:06:05 AM
+I liked the content of course. In my opinion, it covers a fair amount of the most important concepts. I guess for a person with a soft spot for math (not a necessarily a math background), the course is definitely feasible.
+I strongly disliked the grading though. Occasional grading mistakes happen--no problem. But in my case, it turned out to be my job in way too many regrading requests to make sure that I am graded fairly. Based on the forum, it was similar for peers as well.
+
+Spring 2022
+Medium
+Disliked
+10 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/3/2021, 9:46:34 AM
+Honestly, the last time I studied math was in high school but I must say I liked 592 with prof Tannen! This course are basically split into 3 parts, with timed assignments to test how well your learned during the semester. The first and second parts were nothing outside of high school concepts (sets, combinatorics, basic probabilities that does not involve derivates or complex probability models). If one puts in 5 hours weekly in videos, recitations and office hours, he/she should be grasping the concepts. Now, homework is another beast. For most of the weeks there are 5 questions that covers the concepts for that week. For most of the time (and being a non native English speaker), I found the questions rather ambiguous and require a lot of the follow-ups to really understand what the questions mean and want. Also writing the assignment in Latex is another thing you have to cope with as it added additional time spent for this course.
+
+Luckily, the professor and TAs of 592 are very helpful and always responsive in Piazza. By going to a private office hour or just watching the recordings of office hours you should generally get some hint on how to solve the problems. I personally found the homework being graded under stricter standards at the beginning of the course for missing to mention certain concepts, to a loosen standard when we are in graph theory and most the answers are lengthy proofs.
+
+Spring 2021
+Medium
+Strongly Liked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/1/2023, 6:29:58 PM
+I haven't taken a true math course (i.e., Calculus, Geometry, Algebra) in ~10 years. This course required a lot of work from me to understand/review the concepts. Even after this course, I still don't particularly enjoy proofs and am taking at least 1 semester off to give myself a "brain break" before taking 596. For HW, don't be afraid to ask questions. The language of the problems can be unclear at times. For HW and Exams, explain every little step you do. For example, 1 rule used is the multiplication rule. When using the rule, ensure you state that you're using the rule AND why you're using the rule, specifically right when you use the rule. Also, there is a HW assignment due 2 days after Exam 1 and 2 (there are 3 Exams). I'd recommend learning some of the new concepts the week before the exam to help prepare you for the HW due right after the exams.
+
+Professor Tannen can definitely seem a bit cold at first but is super nice and willing to help. Try to go to his OH or watch them afterward when possible as it is helpful to understand course concepts and the HW. Most of the TAs were extremely helpful. I'd recommend going to various OH to find TAs that work for you. I'd say this is similar to every class where some TAs don't explain things in a way that make sense for your or don't understand the concepts to the extent to which you wish to.
+
+Don't be afraid to request a regrade for assignments. I had a couple times where I couldn't understand how I got points off as I thought I clearly explained the concept the TA took points off for. At least 1 time, the TA that regraded my assignment said they did not understand why the original grader took points off as I definitely clearly explained the concept correctly.
+
+Spring 2023
+Very Hard
+Disliked
+16 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+11/19/2020, 12:39:01 PM
+The homework is hard and time consuming. Waive the course if possible.
+
+Fall 2020
+Hard
+Liked
+12 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/11/2021, 8:58:54 AM
+This course is divided into three distinct sections, 1. Counting and proofs, 2. Probability, 3. Graph theory. IMO, this first section was interesting, I hated probability, and then I absolutely loved graph theory. This class really is hit or miss for a lot of people. Some love it and the material makes a lot of sense to them, others hate it and have trouble grasping the topics. If you're struggling, office hours, recitation, and piazza are key. This class gets a bad rep, but honestly if you put in the work, seek help when needed, and try not to stress too much, I think it's a very manageable class.
+
+Spring 2021
+Medium
+Liked
+10 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/2/2022, 10:34:25 AM
+I found this course to be consistently challenging but never prohibitively so. Weekly assignments are a healthy level of difficulty -- almost like solving riddles or puzzles. The tougher problems are both frustrating and rewarding. All told, I learned a lot, and my thinking in all things mathematics feels clearer having completed the course.
+
+
+There seems to be significant variation in student perception of this course. The subject matter is not rocket science but the exposition for each topic can be terse, so having a grasp on the "language" of mathematics is helpful. For those without a strong math background, I'd recommend spending some time reviewing related online materials beforehand. I worked through part of a MOOC called "Introduction to Mathematical Thinking" (free on Coursera) before taking the class, and it helped me a lot.
+
+Spring 2022
+Hard
+Liked
+12 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+9/19/2023, 10:08:30 PM
+This class is hard to review because the material is very interesting, the professor is good, and at the end you will be a better problem-solver BUT it has major flaws.
+
+Even if you master all the material you could fail. You are graded mostly on interpreting problems (if English is not your first language, good luck), in writing arguments in the forms of proofs, and in time management writing multiple mini essays in homeworks and in exams (the latter with a time limit). There are so many ways to poke holes through these arguments even with perfect math so it is very easy to get unexpected deductions. On that note, over half the class was failing exams. It got very hard to do work in this class when you are failing so I reached the point of debilitating anxiety due to this course which almost forced me to quit the program. This has not been my experience in any other course, including electives. Most students depended on the curve, which we knew almost nothing about.
+
+At the end, I don't see how it's ok to have a class where your grade is not reflection of your knowledge of the class material unless the point is to gatekeep students, making them drop early.
+
+PS - This semester we had Proctor U which meant if you booked your test slot late, you could end up taking it at a very inconvenient time which likely affected grades (it definitely hurt mine). Now with Honorlock, it should be sligthly better.
+
+Fall 2021
+Hard
+Strongly Disliked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+1/9/2023, 6:35:02 PM
+This was a great class. Most of the topics covered were new to me, but the lecture videos were thorough enough to cover all the pertinent information, but also concise enough to be digestible and easy to follow. Some questions on the homework assignments felt particularly tricky or overly difficult, but not impossible. There were times where I would spend hours working on a single HW question which was frustrating, but helped me understand the topics thoroughly. The exams were easier than the homework assignments.
+
+Fall 2022
+Medium
+Strongly Liked
+20 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+10/18/2022, 10:43:49 AM
+The entire course is proof base so be ready to write. That said the professor is not open to student feedback and prefers to scale the students grades at the end instead of making changes in his teaching style.
+
+By not open, I mean he will not just say no, because x. He simply says this is how it has been done for this course for years now, not changing it now.
+
+This is the only course in the program of the 5 I have taken which was like this.
+
+The homeworks will take up more time then most course if you do not come from a heavy Math background. Even coming from Economics I found the coding courses more able to go from 0 to 100, instead of this course feels like it goes from 50-100 skipping over early content.
+
+Spring 2022
+Very Hard
+Strongly Disliked
+20 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/3/2021, 7:38:40 AM
+This course is definitely challenging; the course material itself is actually very straightforward once you understand it, but the way that the professor presents the material in his lecture slides can be unintelligible at times, especially for individuals with little mathematical background. Coming from a STEM background, I personally was able to navigate the material with just the lecture notes; however, many of my coursemates had to seek additional sources outside of the classroom to grasp the material. The second part that adds to the difficulty of this course is the fact that you don't know what the TAs are expecting for your assignment and exam answers. I spent a huge chunk of time towards the beginning of the course trying to be as comprehensive as possible in my answers in fear of losing marks. Don't write five-page answers, but do expect to spend some time towards the beginning of the course gauging the TAs' expectations.
+
+Spring 2021
+Hard
+Neutral
+20 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+4/17/2024, 9:41:22 AM
+I really like this course, the professor was so nice, and I think I really learned a lot. Maybe because my math foundation was good, I think this course was very easy and everything was not really hard for me.
+
+Fall 2023
+Very Easy
+Strongly Liked
+7 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+12/26/2020, 10:39:19 AM
+I really enjoyed everything about this course - the topics were very interesting, the lectures were well done, and the assignments were pretty fun. Some of the homework questions were definitely tough, but I enjoyed thinking about them overnight and then having a 'eureka' moment the next day when I came back to it. I also didn't think it was as time consuming as some other people. I never attended office hours live, but would look through the videos when I was stuck on a problem. Overall, a great course!
+
+Fall 2020
+Medium
+Strongly Liked
+12 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/4/2022, 8:59:34 AM
+There is no flexibility. You can't miss any assignments. I think some of the topics are not very useful for CS. It goes too deep into specific cases that are not relevant in my opinion. The HW assignments are hard. Exams are way easier than them, so that's good. Overall is not a bad course, but I think they could make it a little more flexible and relate it to CS more. Also, if you have math background then you can skip the videos, go straight to assignments and go back to materials as you need them for clarification. I ended up doing that because of time constraints.
+
+Spring 2022
+Hard
+Neutral
+8.5 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+11/17/2020, 12:20:49 PM
+Professor Val is an amazing teacher, slides can be intimidating but in OH he would take the time to explain anything at length. I came without discrete math background and materials were challenging every week, only when studying for exams I realized how much I was learning. Content doesn't feel connected to CS at times but everything will make sense in more advanced courses. Used text books and TrevTutor Youtube channel. Do not let any module pass without complete understanding as each topic builds on the previous one.
+
+Spring 2020
+Very Hard
+Strongly Liked
+20 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+3/26/2021, 10:51:06 AM
+This is one of my favorite of the six core classes. I found the material challenging but do-able. I found most of the lecture materials to be sufficient to do the homework. I did use a few textbooks to supplement the lectures and the recommended textbook, but I didn't feel the need to search for other resources. After having taken 595 and 596 (which for me involved a ton of time searching for good and relevant external resources), I really appreciate how the lecture/professor office hours prepared me for the homework, and how the homework set me up for success on the exams. Although I don't like passive learning (lectures), I felt like the homework assignments were well designed and allowed me to learn the concepts quite well.
+
+Spring 2020
+Hard
+Strongly Liked
+20 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+8/15/2022, 4:23:03 PM
+This class was a beast for me. My highest level math class was pre-calculus in high school over 10 years ago, and stats in college.. So this class was extremely difficult for me to grasp. I tried to attend every recitation and office hour, but nothing was getting through to me. The level of "math speak" was too much for me. I could never really get the hang of understanding anything the professor was talking about. I nearly failed the class as it is exam heavy, but miraculously passed the final with a 96.. I attribute this to my private tutor that I hired to teach me the concepts and review for the exam. I would not have been able to do this class without a tutor to help me, since my math background was so poor. I struggled terribly with this class and it was traumatizing LOL. I had a mentor who told me this class was easy, like HS level math.. That was definitely not my experience. My recommendation to anyone similar to me is to find a tutor early on. There is no shame in getting extra help where you need it. In MCIT we all come from different backgrounds, making the experience different for all. Contributing my experience to even out the reviews.
+
+Spring 2021
+Very Hard
+Disliked
+20 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+1/9/2023, 2:50:48 PM
+I would recommend taking this class alone and not pairing it with another course. The workload to be successful in this class is very intense and overwhelming. The assignments are 5 questions each (give or take a few multi-part questions) and in my experience each question required an essay long answer or else I faced the risk of losing points for missing a critical piece of verbiage that aligned with the TA rubric. HW assignments took up the majority of my week and I often spent anywhere from 20-30 hours weekly just on the assignments.
+
+The lectures and professor were not helpful for me and I instead had to rely on outside sources like TrevTutor, Wrath of Math, or MIT lectures on YouTube to gain somewhat of an understanding of the material. When I did attend prof OH, I would see students mocked for not understanding concepts that created a very unwelcoming learning environment.
+
+The exams are intense and we were not permitted any reference material or resources. Class averages on exams tended to gravitate towards the low 70s and high 60s with the exception of the final exam being in the 80s/90s (this will be your saving grace). Three 3 hour long exams that are similar in formatting of the homework assignments, but greater in length and often times difficulty made it hard to be successful during testing or to provide a complete response on each prompt.
+
+I disliked how difficult the course was given the lecture quality we were provided and felt underprepared for the exams with the given material, recitations, and resources of the class. It's possible to have an assignment average in the 90s and tank the exams, but still end the course with a B or higher thanks to the curve.
+
+Overall, I do feel like the course successfully taught me how to approach critically thinking about problems and to craft proofs mathematically that did come in handy when taking 596, but I do not feel significantly stronger in math concepts, outside of writing proofs, from this course.
+
+Spring 2022
+Very Hard
+Disliked
+30 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/8/2022, 6:15:19 PM
+This is a hard one to review. To start off, Professor Tannen is a fantastic professor, his office hours are great! He is very approachable and explains the concepts extremely well. Personally, I enjoy learning with professor Tannen a lot. However, besides professor, many aspects of this course need some major improvements. First, the grading timeline was previously communicated as 4 days after submitting assignments. However, the grading ended up taking almost a week (or longer than that). The same case applied to the final exam, when the grading was also delayed for more than a day. And when grading experienced delay (which is totally understandable), there wasn't enough communication to ensure that students are aware of situation. Also, the difficulty level of exams (timed assignments) seems too easy compared to the homework assignments. A lot of methods covered in assignments and practices were not even tested in the exam. I hope the exams could cover some more challenging questions to test students' effort on mastering the topic. Besides, the limited support from course staff (mainly TAs) is also a major pain point. There are a couple of TAs who were responsible and great in explaining the concepts. However, the overall quality and amount of TAs were not as ideal as other classes. Piazza questions were answered in a very long time. Some of the TA recitations were skipped for no reason and no prior notice. Some TAs didn't prepare for recitations well, and provided wrong solution to recitation questions. These all had negative impacts on students' learning process. Overall, I like the professor a lot, but didn't enjoy the course quite much due to the lack of TA support and timely feedbacks.
+
+Spring 2022
+Very Easy
+Disliked
+8 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+11/19/2020, 2:44:47 PM
+The type of thinking required in 592 (proofs) is very different than most students in this program likely use on a regular basis. The open-ended nature of hw/test questions and having to explain yourself in great detail both in English and in proper mathematical notation means that it's hard to predict how long or how difficult a particular problem/hw will be. More often than not, the majority of my time and energy was spent just trying to get started with a problem. Once you identify the correct approach to take, tackling the problem itself wasn't too bad. The video lectures are okay. They do typically give you enough to get started and are structured well, but they definitely don't give you all the detail needed to adequately tackle the hw. I definitely recommend attending open office hours with prof Tannen or watching the recordings as there are tons of extra tips and nuggets that he drops in those videos. I would also say the hw does prepare you well for the exams. I did not do any of the exam prep except reviewing notes and previous hw. For most other courses, I haven't needed to attend office hours very often and haven't needed many TA sessions, but I watched almost every office hour for this course and had quite a few TA sessions as well. If you're willing and able to put in that level of time and effort than you can do well (I got an A+ in the course). It's also worth noting that I took this course by itself and was simultaneously starting a new job and have a toddler. Oh last thing - I basically didn't use the textbook at all.
+
+Fall 2019
+Hard
+Liked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+11/24/2020, 8:14:20 PM
+Homework problems offered some good enlightenment opportunities and the lectures and recitations were great learning resources. It’s not easy but well worth the effort and not time consuming to the point of busy work. All homework is purposeful.
+
+Summer 2020
+Medium
+Liked
+10 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/8/2021, 9:13:59 PM
+Overall, I enjoyed my learning 592. Val is very approachable and knowledgeable. The TAs are very helpful as well. I didn't use any external materials to help with my learning, but other students have found Trev Tutor helpful. 592 really requires you to be focused as Val would assume that we remembered whatever he taught us before.
+
+Spring 2021
+Medium
+Liked
+8 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+11/20/2020, 1:20:09 PM
+The recorded lectures are decent at introducing the concepts but unfortunately aren't a very good indicator of the difficulty of the homework or timed assignments, which are quite a bit more difficult. That being said, Professor Tannen's Office Hours are probably the most useful out of any course I've taken so far. He does a good job of clarifying what the problem is asking for and provides some helpful hints on how to set up the problem or even works through an analogous problem so you know what to expect for the homework solutions. So I would highly recommend attending those when possible or at least watching the recordings.
+
+The course itself is like 3 mini-courses: the first is on counting on proofs, the second is on probability, and the third is on graph theory. There is a timed assignment (like a midterm) after each section. They are non-cumulative but the concepts sort of build on each other, e.g. a lot of the graded material for graph theory involves proofs. The first exam was definitely a lot easier than the second.
+
+Fall 2020
+Hard
+Liked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+4/18/2021, 9:53:52 PM
+This course laid a very good foundation for writing proofs and algorithmic thinking.
+
+Here's my quick tips that may be helpful for future students:
+1) If you don't have a strong Math background, try to take this course on its own so that you can allocate more time to slowly walk through the lectures and think through the hw and practice problems.
+
+2) Form a small study group to bounce back ideas.
+
+3) Watching prof office hours is very important in solving hw problems. Watch all of them. Make sure you bring questions about hw problems to the OH. Problems in exams are very similar to hw, so make sure you understand (and memorize if needed) the hw solutions pattern.
+
+Fall 2019
+Hard
+Strongly Liked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+12/27/2020, 2:38:00 PM
+Be prepared to struggle if you are not from a quant-heavy background. For someone with a limited math background, this course was intense. Although I understood the concepts and theory, the application eluded me. Prof. Tannen's office hours are key to getting help on homework, and recitations were helpful as well. I wish there were pre-course materials to familiarize oneself with proofs and how algebra is integrated into the problems. I felt completely clueless, and it seemed like everyone else breezed through it. I was surprised with how much I learned during the semester though, but I do not want to repeat the experience. Recommend attempting every extra credit to get a small grade bump at the end.
+
+Fall 2020
+Very Hard
+Neutral
+20 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+4/29/2023, 5:48:54 PM
+The quality of this course made me rethink if I should continue with MCIT or not and made me regret whether I should have just gone with Georgia Tech's online program instead.
+
+The course content is what you will just get any other college level discrete math. Like others have said, the presentation is really bad and unnecessarily hard. All that professor does pretty much just read off a slide and go through proof and with no examples. Worst part is that he is really bad at going over the proofs. I think this course would have been better if he left proof part for us and just solve more questions.
+
+The homework problems seem to be made by students in previous semesters that did well on this course. So the quality and language of these problems are subpar. Many times, you just have to assume things and solve the problem. Kind of funny for a class that emphasizes accuracy in language and taking off points if you aren't clear.
+
+It really pisses me off that I had pay money for this class. I would have been happier if they pirated a whole course on Youtube by someone named Kimberly, her content is so much more well put together and is better communicator.
+
+Spring 2023
+Medium
+Strongly Disliked
+10 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+6/13/2023, 7:22:07 PM
+This course is difficult but extremely rewarding. The math is unlike most math classes I've taken before and my philosophy background was more useful than my math as this class primarily focuses on logic and explanation. Professor Tannen explained material thoroughly and clearly, however, attending/watching office hours is a must to get a complete understanding. I do think that the course itself provides enough information/practice to fully learn the subject but some students in the class prefer some youtube channels to better explain concepts. This is mainly personal preference and up to how you learn best. The workload is heavy and require discipline to not fall behind, especially for exam weeks as you typically have homework due alongside the exam. TAs are also extremely helpful/friendly and try to help you as best as they can, short of giving you the answer. Overall, this class provides a great introduction into how to think like a programmer and its themes recur throughout almost every class in the program.
+
+Fall 2022
+Medium
+Liked
+20 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/4/2023, 1:04:35 PM
+There is no getting around it. This class is difficult. Most of the math I have taken is not proof heavy, so this was my introduction to proofs.
+
+This class is very important to succeed in 5960 in that you need to to understand proof patterns and each component of the class well. The math itself is not difficult but coming up with proofs is time consuming. The only way you will succeed in the class is by doing all the practice problems they provide as well as doing extra problems yourself.
+
+Overall the course is well taught and structured. The first third of the class is proofs. You learn different ways to prove statements. This is definitely the hardest portion of the class. The second half is the probability portion and the third half are graphs. I feel like these two sections were generally easier than the first both in terms of the exams and the concepts. All the homework problems are difficult and require significant time to complete, but are necessary to understand all the concepts surrounding each topic. Exams were a bit easier than homework and were fair.
+
+You have to watch/attend Dr. Tannen's OH and TA recitations to succeed. There is a very significant curve at the end. It is a guess but it seems the class average was curved to B+/A- range.
+
+Fall 2022
+Hard
+Liked
+17 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+12/29/2021, 6:24:17 PM
+The current format is still weekly homework + quiz and 3 non-cumulative tests on counting, probability, and graph theory. The recitation videos are great summaries and 1 per week must be watched.
+
+
+The problem with the course is that they (intentionally) do not cover all the basis necessary for you to really fully understand the material. By this I meant alike not giving you all the ingredients to cook a dish on top of having to figure it out how to cook the dish.
+
+
+People relish the fact that they feel they learned a lot and grew, I agree on this, but it is nevertheless a poorly planned course. There were countless times when I had to screen cap a slide in the video and ask how did they reach a conclusion that was an obvious logical leap. There were exceptions and caveats to every other thing that I had to find myself and it just feels dang bad.
+
+
+To give you a taste of how poor the course is structured, there was one homework question that was so easy it could be solved without taking the course at all. I thought this was a trick (as you'll get used to be suspicious soon enough), and spent like 7 additional hours on just this one fucking question. It turned out that the question only required brute force solution and nothing mathematical really. I was furious and wrote a hopefully-calm note to the instructor complaining about this misleading question. Hopefully you won't see it.
+
+
+Would HIGHLY recommend go over some discrete math courses on whichever platform beforehand, even just glancing through.
+
+
+The course should be curved and the last test should be easy (I got 50 on the second, 100 on the last, go figure lol). I am somewhat grateful for mercy but can't help but feel that it is like covering their asses for not teaching the material well and slightly felt a little manipulative like a boyfriend who slaps you and then shower you with gifts.
+
+Fall 2021
+Hard
+Disliked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/2/2022, 9:21:51 AM
+I passed this class without a math background, so it can be done! If the lecture content alone is not enough for you as it wasn't for me, here are my biggest recommendations: 1) buy one of the recommended textbooks(!!!!), 2) make sure to watch the TA office hours for the example problems, 3) make sure you're understanding the material in the lectures and not just watching just to watch, 4) when solving the homework, state everything EXPLICITLY, 5) if a homework question is difficult, you don't understand it yet. In most of the assignments, the question seems daunting, but generally there is a "trick" behind it that simplifies solving it immensely. Also, don't forget to consider corner cases. The questions in each homework do relate directly back to the material, even if on the surface it is difficult to see how at first glance. If you're using a particular theorem, you had better well state it. Make sure every possible logical leap is well-explained and accounted for. Finally, be prepared to fight for every point. If your answers are carefully justified, you will get a whole lot of points back on homework problems by requesting regrades. Overall, I learned a lot through this course, but it didn't come easy or naturally for the first 6 weeks on proofs, that's for sure.
+
+Spring 2022
+Very Hard
+Neutral
+16 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+9/13/2022, 6:22:42 AM
+The crippling anxiety induced by this course almost broke me. I felt impossibly lost in the first half of the semester, even after attending every office hour and TA sessions regularly. Impenetrable lectures gave way to incomprehensible assignments. I cried at least once every day I worked on this class for the first 6 weeks. Ironically, I found the week on induction to be the easiest week of the semester - induction problems are always identified and always follow the same step by step process. The class does get easier over time although the firehose of mathematical terminology never abates. Probability was the easiest segment of the course for me, because it's always possible to gut-check your work in a way that's not easy with the other two segments. Non-cumulative exams are a blessing, as is the curve at the end. The material in this course needs to be taught in the opposite direction - first high level concepts and intuitive explanations as much as possible, then examples of usage, and only then formal mathematical definitions and how to apply them. Towards the end of the semester I stopped watching the lecture materials - I would skim them to see what concepts were covered and what terminology was used, and then I'd attend recitation, read the textbook, and supplement with YT to learn the material enough to approach the homework. Grading towards the end of the semester is more lenient. Through blood, sweat, and many, many, many tears, I managed an A. If I never have to take another class like this again it will be too soon.
+
+Summer 2022
+Very Hard
+Strongly Disliked
+17 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+12/26/2022, 8:48:37 PM
+Course structure is good and covers most important topics of Discrete Math that set you up for future success. Homework assignments, though words are obfuscated to prevent cheating, were well thought and provided a good amount of practice with the topics covered in class and helped you prepare well for the exam. The grading bar is not clear very frequently, and many regrades requests could result in score improvement if you feel unfairly graded.
+
+However, I did find that the lectures could benefit from a revisit. I needed to supplement my learning with outside materials to fully understand the material (props to Discrete Mathematics: An Open Introduction by Oscar Levin and TrevTutor YouTube). This is not necessarily a reflection on the instructor, as discrete math can be a challenging subject to teach. Dr. Tannen has been very helpful in his OOH, so attending or reviewing it could be very helpful to your exam preparation.
+
+The course itself is hard but doable with a lot of practice and outside material readings. Tips: make sure you understand homework solutions and also go through all practice problem sets for the exams - it could account for 80% of exam success.
+
+Fall 2022
+Hard
+Liked
+16 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+4/29/2021, 7:42:09 PM
+Class was harder than it needed to be and the course materials were insufficient. I heavily relied on outside materials like khan academy and trev tutor to understand the concepts from the lectures, as I found the lectures mostly a waste of time and incompréhensiblement. The teaching style leaves a lot to be desired.
+
+Spring 2021
+Very Hard
+Strongly Disliked
+18 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+11/19/2020, 2:32:50 PM
+Enjoyed overall - lectures were all you needed. Consistent pace and difficulty ramp. Well taught. Studying for exams when homework assignments are due are the only rough spots.
+
+Spring 2020
+Medium
+Liked
+10 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+8/14/2023, 1:44:13 PM
+There are not enough materials and practices covered in the course to do homework alone, need spend a lot of time to study extra by myself. And TAs grade homework irresponsibly. A good math course should encourage different solutions and creative thinking. But every time I have a different way to solve the problem than solution, I got punished for different thinking. I have to request regrade all the time to have TAs take a look carefully.
+
+Summer 2023
+Medium
+Strongly Disliked
+10 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+12/9/2023, 4:12:45 PM
+This class isn't easy. But, it's not as difficult as people make it out to be. Maybe my tolerance for suckiness is high, but you just have to kinda deal with it.
+
+The hardest part of the class is the homeworks. You spend 5-10 hours every week on the homework alone. Yes the HW is tricky/difficult. Yes, I've used ChatGPT for most of these questions. No, it is not cheating because the answers ChatGPT spits out is wrong 95% of the time. But, they are helpful in getting me on the right track to finish the problems myself. Think of ChatGPT as stack overflow on steroids. I'm fairly certain 95% of the class does this too but I have no reference lol.
+
+The exam questions are about the same difficulty as the HW questions (except maybe graph theory), but the difference is that after you suffered thru the HW, the exam questions seem a lot easier because you have more experience with it. Very fair exams. No curveballs. Exams pull from HWs (mostly), practice problems, recitations, and lecture notes in a very elegant way. I was impressed tbh.
+
+The last portion of the course (graph theory) ironically had the most difficult HWs but the easiest exam imo. This brings me to my last point. I think this class is sorta watered down all things considered. My personal opinion here but if you look at the undergrad version of this class (CIS 160), it is ALOT harder with more HW problems and harder ones too. Moral of the story: don't be too scared of this class.
+
+Fall 2023
+Medium
+Neutral
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+12/27/2022, 2:13:07 PM
+I found this course to be fairly difficult, especially the first section. The material itself was not necessarily difficult and I generally enjoyed learning it. Some of the proofs and concepts from lecture were difficult to follow, but the main issue I had was with the homework. Some questions were a leap in difficulty from lectures and quizzes. It was not always clear how to solve a problem and I would spend countless hours on just trying to find the right way to do it, and sometimes the questions were not clear. They seemed hard for the sake of making this course more difficult, and I didn't feel they offered much in helping my understanding, but certainly added to my stress and made the course much less enjoyable.
+
+The recitations and professor open office hours are critical to success in this course. The recitations helped clear up the concepts in an easier to understand way, and the open office hours professor Tannen would answer questions about the homework, sometimes offering valuable hints.
+
+The exams were fair, and overall easier than the homework. While they are not cumulative, concepts from earlier sections will be needed to solve some of the problems. If you have a firm understanding of the concepts, you should do well on them. I found the third exam to be the easiest, followed by the first and then second. The practice exams are lengthy and at times even more difficult than the homework. This really affected me on the first exam, as I believed I was not ready. I didn't make any effort on the next two practices due to this and did fine on the exams.
+
+I needed outside resources a lot for the first section. I mostly used TrevTutor (youtube) and Book of Proof. I used very little for the next two sections.
+
+As far as a time commitment, I spent about 17 hours a week. A few weeks were bad, and I spent closer to 25 on them, while a few easier ones, only 12. The exam weeks also have a module to complete, so plan ahead. Fortunately, these modules are introducing a new section and were generally easier than the remainder of that section.
+
+Fall 2022
+Hard
+Neutral
+17 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/4/2022, 1:20:38 PM
+Incredibly frustrating course. Those with quantitative backgrounds or prior exposure to the subject will find the course to be easy. Those of us without that background spent a considerable amount of time augmenting the course material with external resources. The lectures and recitations do not prepare you for homework or exams, where the grading is pedantic, punitive, and unpredictable. Solutions that are 80% correct may lose 90% of the points because of rubrics designed to inflict the most damage. The homework problems were generally highly obfuscated brain teasers, meant to deter cheating. I've never worked so hard for such poor grades. I believe most reviews for this course would much worse if not for the "curve" and for a much easier third exam.
+
+Spring 2022
+Very Hard
+Disliked
+20 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/11/2021, 8:54:18 AM
+This course is very thoughtful and challenging. I enjoyed working out my math muscles (my last math class was in high school) and seeing how concepts from discrete math tie into computers and programming. The workload did not vary between weeks, and the homework assignments were puzzles that were very satisfying to solve after I spent enough time with the week's materials.
+
+Spring 2021
+Hard
+Strongly Liked
+15 hrs/wk
+CIT-592: Mathematical Foundations of Computer Science
+5/8/2022, 5:05:57 AM
+Overall… I enjoyed this class, and found it to be an interesting introduction to math topics I hadn’t really learned as an undergrad (aside from probability). Tannen’s teaching style maybe wasn’t for everyone, but I thought the lectures were adequate and the homework problems were scaffolded in a way that felt very intentional. I really liked him as a professor… a bit abrupt at times perhaps…but pedagogically knowledgeable, witty, and an incredible mathematician. Attending his office hours was always worth the time spent. There weren’t enough TAs, but the ones they did have did a great job.
+
+My only real criticism of this class was the use of the proctoring service HonorLock. I had two major technical glitches, one of which ultimately took over 2 hours to resolve and I did poorly on the test as a result (I didn’t have time to get through all the questions). I never got the opportunity to retest, which was frustrating. Honorlock just doesn’t run smoothly.
+
+Overall though…. I enjoyed this course and the content was fun, approachable math that I didn’t have much previous exposure to.
+
+Spring 2022
+Hard
+Liked
+15 hrs/wk

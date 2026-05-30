@@ -1,0 +1,764 @@
+Reviews
+
+62
+Avg. Difficulty
+
+4.52
+Avg. Workload
+
+19.84
+Avg. Rating
+
+3.34
+CIT-596: Algorithms & Computation
+8/28/2023, 7:26:40 AM
+This was a class that I absolutely despised while I was taking it. Now that it's over, I'm glad I learned the things I did. I took the class with Dr. Lutz, and he was very helpful and responsive to students in my experience.
+
+My main qualm is that a lot of the content is presented in the least accessible way possible for folks without more math-y/theoretical CS backgrounds. The lecture videos, especially later in the course, are often so hard to follow that I'd have to consume hours of additional content (shoutout to Abdul Bari) before I could even begin to understand what the professor was explaining. There's also a very noticeable decline in lecture quality as the semester progresses.
+
+All in all, this class is very hard. The work feels extremely rigorous, and some weeks it was a struggle to gather the motivation to do the homeworks, which are all Latex-formatted proof-heavy assignments. I did think some of the algorithmic problems were kind of fun to solve, but then I'd remember I have to type everything out in Latex and provide a proof of correctness and a runtime analysis. Having a good group to work on the assignments with can be a godsend.
+
+My advice would be to take this class alone or pair it with something lighter if you're not working full-time. I took this class alongside 595, which was a challenge at times, but totally manageable.
+
+Taking 596 will be challenging, and unless you're a masochist, the vast majority of the experience won't be fun or enjoyable. The concepts I've learned have helped me get better at solving leetcode problems, which is definitely a valuable skill if you're looking for SWE jobs. Overall, a good chunk of the material taught in this class is good to know, but learning it is awful.
+
+Summer 2023
+Very Hard
+Neutral
+15 hrs/wk
+CIT-596: Algorithms & Computation
+5/3/2023, 6:49:58 PM
+This course is as hard as advertised. Even though I did well, it depleted me and caused me to take the summer off afterwards to recharge. If you work full time, take it by itself. The central issue is that the field of theoretical computing (the subject of 5960) is deep and wide. This course, by necessity, only scratches the surface of many important topics in this field. As a result, you never feel secure in your mastery of the subject matter. I imagine it would take a year or two of total immersion in the field (probably as a Ph.D. student) to gain real competence and confidence.
+
+The average on the exams and assignments is supposed to be in the 60’s, and the final grade is curved to a B average for the class. But if you happen to be taking the course with a bunch of brilliant people (as in Spring 2023, when the Final average was 80 and homework averages were routinely above 90), you have to work very very hard for that A. Conversely, it would be easy to do poorly if you slack off.
+
+One peculiar thing about this course was the lack of a sense of community. The Slack channel was eerily silent for days in row. The clustering into teams of three and the competition for the curve result is a Hunger Games vibe. On the plus side, the abundant communication with your team members more than fills this void.
+
+I cannot think of any suggestions to improve this course. The course is well-organized, the lectures are coherent and relevant to the assignments, grading is fair without much nitpicking, and the course has two good textbooks. So instead of criticizing the course, I have some suggestions for surviving it:
+
+1. Work hard but reduce your expectations. The sooner you come to terms with feeling of flying by the seat of your pants, the happier you will be.
+
+2. There are 2 non-cumulative midterms and a commutative final. It is not sufficient to understand the lectures and complete the assignments to do well on these exams. You must practice on as many problems as you can get your hands on until writing a particular type of algorithm becomes a matter of pattern recognition. You don’t have the luxury of spending 1-2 days on each problem as you would with a homework problem. Attempt all the recitation problems on your own, do extra problems found online from various universities, and review the answers to the quiz questions repeatedly until they become second-nature to you.
+
+3. Assemble a team of 3 people as soon as possible, preferably before the semester starts, by reaching out to people you may have gotten to know in previous courses. Your team is what will sustain you through this course, so get to know them and communicate frequently on Slack. Have a weekly one-hour Zoom meeting to discuss the homework problems. Agree not to share your grades so as to maintain healthy and collaborative team dynamics.
+
+4. Establish an asynchronous communication platform to share you thoughts with your team-mates. We used a shared Notion page, which worked beautifully. Each assignment had a separate Notion subpage, and for each question we had a toggle list under which each of us posted his solution. This way we could choose when to look at our teammates’ solutions by revealing the toggle. Notion also allows you to use LaTex to comment on each other’s solutions. We extensively discussed our solutions but, for the most part, submitted independently.
+
+5. Abandon coding. Theoretical computing is to programming as theoretical physics is to applied physics. There is a tendency early on to code and test your algorithms, but this becomes quickly intractable, and no one is interested in your code. For instance, to write a dynamic programming algorithm, you are expected to provide a recurrence relation. Learn to dwell only in mathematics. Accordingly, this course will not make you a better Leet Coder. It would be nice to take some time after the course to code some of these algorithms and do some serious Leet Coding.
+
+6. I liked the Roughgarden books, which are essentially transcripts of videos freely provided on YouTube. I highly recommend these videos. His eloquent matter-of-fact style helps strip the mystery off difficult concepts.
+
+Good luck. We all get through it.
+
+Spring 2023
+Very Hard
+Liked
+25 hrs/wk
+CIT-596: Algorithms & Computation
+5/1/2023, 9:19:28 AM
+This class in NP complete. The class itself can be solved in O(n) time, where n is the hours of lecture videos (frequently cracks the 2-hour mark), I need to spend 10 hours per hour of video lecture, so we have O(10n) = O(n). Thus the class is NP. Every other classes are subset of algorithms covered in this class. Wanna take database? Better get your CNF right. Wanna take networked system? Gotta know max-cut min-flow. Wanna have start a junior position as a SWE? Be good at sorting/DP/greedy algorithms. Wanna learn machine learning? Better know linear programming, better yet dynamic programming. Thus we prove there is a certificate and the class is NP-hard, therefore the class is NP complete.
+
+No matter what I say you gotta take this class as your core, so hopefully this answer can get your 30-point NP question on your final exam. To prove NP completeness, you need a certificate (an example you can solve the problem in polynomial time (that is, O(n^c) where c is a constant, in our example is O(n^1)). Then you need to do a "reduction", take existing NP question and show that said question is a subset of our problem (it's the hardest of 'em all). You can then conclude that the question is NP complete.
+
+Yes I got the question wrong on the finals. Yes the class is hard. Yes people get 100s on exams. Yes your finals will be at least 30/100. Yes you can correct me in future reviews. Yes it was torture.
+
+But if all reviewers can explain some algos in their reviews maybe we can save some souls and make the world a better place or something idk.
+
+Spring 2023
+Very Hard
+Neutral
+25 hrs/wk
+CIT-596: Algorithms & Computation
+8/27/2021, 9:43:30 AM
+I took this class over the summer with Arvind and I'm happy that I did. Changing the grade weighting to favor HWs definitely helped lower the stress of the exams, but more importantly Arvind is an excellent teacher and he did a great job demystifying the difficult material in this course. If he ever decides to teach this class again, I highly recommend you take it with him. As for the course itself, the material is definitely both interesting and relevant, but having to come up with solutions under the pressure of a 3hr exam takes away a lot of the fun. I don't know if this would ever be possible, but IMO switching to take home exams would fix the problems with this class (apparently this was tried on campus but they had to stop due to cheating). Also, I wish there was a companion class that focused on the actual implementation of the algorithms taught in this course. I feel like that's what 594 is supposed to be, but it really misses the mark.
+
+Summer 2021
+Very Hard
+Neutral
+20 hrs/wk
+CIT-596: Algorithms & Computation
+5/18/2021, 10:27:15 PM
+There is no getting around it, this course is hard. You will spend a lot of time on it. There will be times when you will hate it. But I would be disappointed if, when progressing through a grad program at UPenn, there weren't at least one or two courses like this. I know I am a better software engineer having taken the course.
+
+There are lots of things that could be done to improve the quality of the course, but I think the hardest thing for some people to get around is the grading scheme. Prof Kannan explains that a 60 on an exam is good, and he's not lying (our final had an average score much lower than that). Once you get used to that, I feel like it frees you up a bit. You know on a 5 question exam you can completely miss two questions and still get a good score.
+
+Even though it is expensive, I would buy both the required and recommended texts. They were immensely helpful.
+
+You are given the opportunity to work with a partner on the homework assignments. I chose to go it alone. Although my HW grades were average, I feel like being solely responsible for the HW helped with the exams, since all my exam scores were better than the class average.
+
+I am glad it's over, but I'm also happy with what I learned.
+
+Spring 2021
+Hard
+Liked
+15 hrs/wk
+CIT-596: Algorithms & Computation
+8/15/2023, 7:34:18 AM
+This class is such a missed opportunity. The subject matter is vital and probably fascinating to most students in the program, but many students seemed overwhelmed with stress and fear that they might fail the course because of one bad exam.
+
+1. Made intentionally difficult and incredibly stressful.
+2. Pre-recorded lectures are weak and completely insufficient for preparation for homework and exams.
+3. There's very little actual teaching.
+4. If any teaching actually happens, it will be from a TA, not from a Professor.
+5. Everyone jokes that they're paying tuition to learn from YouTube.
+6. Too much material packed into one course.
+7. It only gets more challenging as the course proceeds (as do the exams).
+8. Like 592, it's very difficult to know how good is good enough on an answer.
+9. Everyone talks about how similar the course is to 592. I would say proofs are much more prominent in the first third of the course, and gradually diminish in the required rigor. The correctness of the algorithm is what matters the most.
+
+
+Advice:
+1. Find two great partners for the homework and collaborate often. A solid team will help make sure you understand what you're doing, and make sure you get high marks on the homework. These will be your "study buddies": since you can collaborate on the homework, you can have real conversations about the concepts and how they apply to the problems.
+2. In preparing for the exams, make sure you really understand the homework, recitation, and exam review solutions. Don't memorize the solutions, but understand the methodology.
+3. While this class does not require writing code, I wish I had consistently done more LeetCode problems in each section (there will be some listed in the Module Key Takeaways).
+4. For each concept (say Greedy Programming or Dynamic Programming), there's probably only 3-4 "archetype" problems that can be reformulated in different ways, just make sure you know them all.
+5. Use Ed and Office Hours regularly and often. If a TA doesn't give you an answer that helps, try someone else.
+6. For me (older student, a ton of programming experience), most of my time on homework and exams was spent on understanding the problem and how to map it to an algorithm that was correct and met the stated runtime. I think more LeetCode practice could have helped with that (even if it's just trying to answer the LeetCode questions with pseudocode).
+
+I'm glad I took this class, but even more happy that I finished it. It dominated my life for 14 weeks. If you're working full time or have other obligations, I highly recommend finding a semester to do this course when you can minimize those obligations.
+
+
+Summer 2023
+Very Hard
+Disliked
+30 hrs/wk
+CIT-596: Algorithms & Computation
+8/30/2022, 9:52:16 AM
+This class was very conceptually challenging. The lectures were mostly high quality, but the homeworks were so hard I had to ask for help on most problems. There were 3 exams but no break in homework assignments, so you just have to somehow find an extra 15+ hours to study those weeks. I felt like the material just kept getting harder the entire semester. It seems like they are trying to adjust based on feedback though, so the grading was wayyy friendly than I expected. So don't worry, you can do it, but you might feel burnt out by the end of it. Also, I took 515 as well as 596 and I would highly recommend against skipping 596 and taking 515 if you have that opportunity like I did. I think 596 is crucial. Also, Lutz was extremely responsive on Ed Discussion which was so helpful.
+
+Summer 2022
+Very Hard
+Neutral
+20 hrs/wk
+CIT-596: Algorithms & Computation
+4/20/2021, 10:52:53 AM
+I really liked this class. It has some serious flaws, for sure (the main one IMO being poor lecture video quality and the inordinate amount of time I spent looking for appropriate substitutes), but I really wish
+I hadn't had so much anxiety going into it, because it turned out not to be nearly as bad as I thought it would be, and because having that anxiety made the first part of the course more stressful than it
+needed to be. I put a ton of time into this class, and I was fortunate to find a HW partner who also put in a ton of time and who was a great source of moral support. I learned so much from doing the assignments and from preparing for the exams, perhaps more than I've learned in any other core course. I found it liberating not to sweat about my grade so much (I took the class for a letter grade). It was nice to be freed of the mentality that I needed to strive for perfection, a bad habit I've picked up from other classes (thank you, autograder:)). This freed up some brain space to concentrate on learning. Leetcoding is still harder than I'd like it to be, but I feel like I have a solid foundation for interview prep and starting a junior SWE position. I tried not to sweat the small (and not so small) stuff too much, and in the end, it worked out.
+
+Fall 2020
+Very Hard
+Liked
+20 hrs/wk
+CIT-596: Algorithms & Computation
+11/22/2020, 7:14:10 PM
+This course has a reputation for being one of the hardest core courses in the program, and that reputation is deserved. However, if you're taking MCIT, you will need a strong foundation in data structures and algorithms. This is the course to excel in if you're interested in a career as software engineer or any technical role where technical coding interviews are part of the process.
+
+Content is taught well and covers most major algorithmic paradigms. Think the only feedback on my part is that the deliverables are too theoretical (writing up algos in Latex only). This led to me to be able to think of algorithmic steps when presented a technical problem, but in terms of actually turning algos to code required more independent self-study on my part. If we could learn both the algorithm, write it up in Latex and do some LeetCode-style questions as part of the assessment it would have further enhanced our skills coming out of the program.
+
+Coming out of this, I liked the material for how important it is in this degree. But the way we were taught could have been improved by requiring answers in code too.
+
+Summer 2020
+Medium
+Strongly Liked
+15 hrs/wk
+CIT-596: Algorithms & Computation
+1/1/2023, 5:32:31 PM
+This was no doubt one of the hardest courses I have ever taken. We were able to work in groups of 3, which made the course much more manageable and made learning far better since we were able to discuss the homework and the subject matter with our peers. Dr. Khanna is a gem. His teaching style made understanding so many of the topics easier. I cannot recommend taking 596 with him highly enough. The homework assignments were challenging but fair. The exams, on the other hand were very difficult and the time to complete them wasn't fair. 2 hours (Midterm 1 and 2) just isn't enough to solve these problems.
+
+Fall 2022
+Very Hard
+Liked
+20 hrs/wk
+CIT-596: Algorithms & Computation
+1/9/2023, 3:30:12 PM
+This class may be considered 592 on steroids for some.
+
+I had expected 596 to be a continuation of 594 further exploring algorithmic design, but was caught off guard when it was cousin to 592. However, unlike 592 students were permitted to work on assignments in groups of 3 and were allowed a one page written (or 2 page pdf) cheat sheet for each exam.
+
+Working in groups made the class much more manageable and I was able to learn more by teaching group members concepts I felt strong in and learning other concepts from them. The assignments are a similar format to 592 using LaTex, but I found that the material was more understandable than in 592. I would still have to write extensive responses to each prompt to avoid missing any points from the rubric. Writing proofs for why an algorithm works came easier to me than writing mathematical proofs.
+
+You will not have to do any coding in this course, although you can code your algorithms for your own testing if you so wish.
+
+There are 3 exams for this course. The first and second midterm are 2 hours long and the final 3 hours. Unfortunately, the final exam for this course was cumulative and I felt very underprepared for it. In my case, the curve ended up being pretty similar to 592.
+
+Fall 2022
+Very Hard
+Liked
+40 hrs/wk
+CIT-596: Algorithms & Computation
+5/4/2021, 3:20:56 PM
+Summary: Very difficult yet fascinating class that receives way more negative press than it deserves.
+
+The pros: Professor Kannan is highly knowledgeable and does a great job explaining things in office hours and on Piazza. The TAs were very responsive on Piazza and were helpful to me when I used their office hours. The course content is interesting, and I especially liked the optional section on cryptography.
+
+The cons: The lecture videos were often simultaneously long and hard to understand. Many times when explaining a concept or proving a theorem, the professor (or TA) would skim over specific logical steps they thought to be trivial, but were not necessarily trivial to the student. Or sometimes the content on the slides was not well prepared (inconsistencies with what was shown vs. what was said, video abruptly getting cut off, etc.).
+
+Btw, I only ever felt like I needed supplemental support from Abdul Bari (MIT prof on YouTube) during modules 9-10 (Dynamic Programming). During lecture videos, I took handwritten notes and rewatched certain parts of the videos until I understood them. If you did well in 592 and stay on top of the material, you will be fine..
+
+Spring 2021
+Very Hard
+Liked
+18 hrs/wk
+CIT-596: Algorithms & Computation
+3/21/2021, 11:46:19 AM
+I really enjoyed the course since it is very intellectually challenging. Office hour held by the professor helped clear some confusion with the video lectures. Many complained about no coding assignments with this class. But I found it very rewarding to pair this class with Leetcoding on the side. So that I have both theoretical and coding experience of algorithms at the same time. Also during coding interviews, it is very important that you are able to communicate complicated solution processes with the interviewer, so the LaTex assignments really forced you to always come up with better explanations of your thoughts. The Fall 2020 semester has different exam format comparing to Summer 2020, for example the exam question would specify the expected time complexity instead of simply ask you to give answers with "the best time complexity". This little change really simplified the questions a lot since once you write down a solution with the target complexity, you don't need to carry the doubt that it may not be "the best". As a result, there are always students who get 100% in the exams and more students are in 80% or 90% range.
+
+Fall 2020
+Medium
+Strongly Liked
+16 hrs/wk
+CIT-596: Algorithms & Computation
+5/1/2023, 9:19:24 AM
+This was a very challenging but rewarding class. The lectures are pretty high quality and cover all of the material well. The material is complex so there were times where I had to rewatch the lectures a few times or get outside help, but overall I felt prepared for homework questions.
+
+Only issue is that sometimes on the HW/exams, there were questions that seem impossible to figure out, and then once you see the solution you think "how on earth am I supposed to know that?". It could be a case where you understand the specific algorithm really well, but the implementation of the algorithm really requires some out of the box thinking. And to be fair that is an important skill, but it can lead to you getting stuck on homework problems for much longer than they are designed to be.
+
+Spring 2023
+Hard
+Strongly Liked
+20 hrs/wk
+CIT-596: Algorithms & Computation
+12/18/2022, 7:44:55 PM
+This class was somehow even worse than 592, which was already pretty rough for me. 592 at least gets easier over the semester - this course just turns up the heat right until the final exam. This semester was taught in tandem by Anindya De and Sanjeev Khanna, but most of the lecture materials were still by Kannan, with a few videos by Lutz and De sprinkled in. Lectures minimally prepared me for the homework assignments, each of which took about 25 hours each week. Individual problems could require 5+ hours of frustration, including office hours, before I reached a solution that seemed right. Working with 2 partners was helpful, but in the end you have to know the material for the exams so it's best to attempt everything on your own as best you can before discussing as a group. Exams were terrible - I was rarely able to come up with a satisfactory answer in the tiny amount of time provided. Problems that would take me several hours on a homework assignment we were expected to solve in 20 minutes on an exam. Many people praise Khanna's office hours, and they definitely were helpful in clarifying the sometimes impenetrable lecture material, but I don't think his OH were a huge factor in the end. As one person this semester so aptly phrased it, "this class is such a beat-down". I studied 40 hours for a final exam where I was only able to answer one question fully - I feel like I might as well have not even bothered studying. Never before have I worked and studied so hard just to fail anyway in the end.
+
+Fall 2022
+Very Hard
+Strongly Disliked
+35 hrs/wk
+CIT-596: Algorithms & Computation
+4/18/2021, 9:36:14 PM
+This course is one of my favorite core courses because I think the assignments and lectures are challenging enough to prepare me for a more advanced level of algorithms courses. Being able to discuss homework assignments with a partner help a lot in deepening the understanding. For easy reference here are the tips I posted in Slack:
+1) Watch Abdul Youtube videos alongside the lectures but don't skip lectures.
+2) Find a hw partner early on. Hw is better done with a partner.
+3) Read and reread many times the recitation/hw solution + practice problem solutions before the exams to gain an intuition of repeating patterns of solutions.
+4) No need to spend too much time in textbooks, instead of trying to spend too much time in understanding things, spend more time trying to solve problems, you can search for relevant problems online from other universities' algorithms course. Seeing more types of questions is more helpful than reviewing lecture content for the exam.
+5) Even if you don’t know the answer, write your assumptions and best guess in the exam.
+6) Memorize the solution steps and proof patterns so that you can follow the exact same structures in the grading rubric. This is especially important in questions like NP-Complete proof.
+
+Spring 2020
+Hard
+Strongly Liked
+10 hrs/wk
+CIT-596: Algorithms & Computation
+8/27/2021, 8:54:54 AM
+**Took during the Arvind Semester**
+I feel the need to point this out, as this is the only semester Arvind taught, and as of today is the only semester he intends on teaching. The HW assignments contribution to the course average was significantly raised, and the Exam weights significantly lowered. In my opinion, this made the HW assignments extremely important, as each individual HW assignment has a larger contribution towards your average than the first two midterms individually, and only slightly less than the final. I also believe this was a positive change, as struggling through the HW pouring sometimes upwards of 20 hours into 4 to 7 questions, was rewarded with boosting your overall average. It was also very clear that Arvind very much cared about the success of his students. I will also note that I enjoyed the legacy lecture materials from Professor Kannan. They are dense, but a careful reading of the weeks texts prior to watching will set you up nicely. The TA's were great, and I felt well supported. Overall, a very demanding and rigorous course, but a course well worth the effort that has meaningful learning outcomes.
+
+Summer 2021
+Very Hard
+Strongly Liked
+18 hrs/wk
+CIT-596: Algorithms & Computation
+5/4/2023, 1:49:18 PM
+I have very mixed feelings about this class. In general I think it gave a good understanding of important algorithms involving sorting, searching, graph search, MST, shortest path, flow, greedy, dynamic.
+
+This portion of this class involving sorting, searching, initial graph algorithms (DFS, BFS), and even greedy minus the proof patterns were well done. The lectures were coherent and I could follow lectures without blanking out.
+
+Then we started getting into dynamic programming and the lectures started become difficult to understand. Analysis was just slides of math rather than visual representations like they had done. There was an entire section on segmented regression and counting paths which felt impossible to follow and honestly I still don't really know what it is. These concepts are difficult and probably even harder to teach, but I feel at this point the course quality dipped a little. I needed to use significantly more outside resources (pdfs from stanford/UIUC/Princeton are life savers by the way). I think the lectures go back to decent quality at NP-completeness but the concepts are just difficult and still require significant outside resources to understand.
+
+Homework is as hard as 5920 if not harder. I completed all homework solo and it took me nearly 20 hours (4/5 questions) to complete each homework with resources. Exams are also much more difficult in that time is short and you are expected to think and give algorithms to 2-3 questions. It felt unnecessarily hard, but the course is curved so it is okay. Average on exams was ~75% for our cohort with the second exam being the lowest average.
+
+How to survive? Do all the practice problem you can. You need to be able to intuitively think of an algorithm pattern to use in a couple minutes after reading a problem statement. The only way to do this is to have seen most of the algorithm questions and find patterns in them. So my only tip is do a ton of practice problems and get used to identifying what algorithm to use in what case.
+
+Textbooks, especially Roughgarden, are actually very useful so I would recommend 'buying' them.
+
+Another thing that might be good to do is code the algorithms yourself. This class feels very disconnected from programming and in fact I think the course should be combined with data structures where algorithms are introduced and data structures that could be used in the algorithm are introduced together. This would provide a better class experience as well as provide more time to introduce each algorithm as well as prepare us for job interviews which require actually programming the solution rather than writing an English description.
+
+Lastly, this course is draining. I took this course with 5930 and 5940 and I was falling apart by the end just because of this course. I just wanted it to be over.
+
+Spring 2023
+Very Hard
+Neutral
+25 hrs/wk
+CIT-596: Algorithms & Computation
+5/12/2024, 7:14:03 PM
+Along with 593, my favorite course in MCIT (out of 9 so far). Not sure why so many of the reviews are so negative. Biggest advice is to get good homework partners, and that'll make the whole experience much better.
+
+Spring 2024
+Medium
+Strongly Liked
+10 hrs/wk
+CIT-596: Algorithms & Computation
+12/21/2020, 1:27:53 PM
+One of the best things I can say about 596 is that it is not immediately clear how much of the misery is inherent to the subject and how much is unique to this particular course. Let's begin with that first part. Algorithms are notoriously difficult at most universities, with success (or lack thereof) resting on three pillars: (1) excellent intuition for discrete math; (2) comfort with the associated notation and proof-writing; and (3) a solid grasp of data structures. The keywords here are intuition, comfort, and grasp: doing well in 592 and/or 594 is necessary but not sufficient, since those classes reward effort while 596 will require you to creatively apply their concepts under pressure to much more intricate problems. In addition to these conceptual challenges, algorithms seem to epitomize the tension between computer science as an academic discipline and a professional degree. Yes, they are essential to technical interviews and more prestigious roles in industry, but universities typically emphasize the more theoretical aspects of the subject, with 596 featuring plenty of advanced algorithms and exactly 0 lines of actual code. All of this contributes to a grueling workload. In the case of 596, the syllabus lists 3 (!) separate textbooks: one required, one necessary, and one optional. Where other courses in MCIT might have "heavy" weeks with 50-80 minutes of lecture videos, 596 regularly cracks the 100-minute mark in consecutive modules. All told, I spent considerably more time on 596 than 594 and 595 combined and could have probably spent nearly twice as much. 593 has a reputation as a demanding course, but 596 blows it out of the water.
+. . .
+Now for the bad news. The problems with 596 extend beyond what one might reasonably expect from an upper-level algorithms course. In my mind, they fall into two broad camps: (1) grading and culture; (2) the course materials. In terms of the former, I'll be the first to admit that students complaining about grades is cliche, but the approach in 596 is both draconian and directly tied to an antagonistic culture unique among the MCIT core. My favorite example is from the first exam, where I wrote a perfectly functional O(n^2) algorithm incorporating material from the lectures for a problem with an O(n^3) brute force solution. It turned out that this question, a LeetCode "medium" problem, had an O(n log n) solution, which essentially combined my answer with a more efficient search strategy. As a result, I got… 0 out of 20 points. Now, when you crunch the numbers, there's a pretty significant difference in efficiency between my answer and the optimal solution, but the rubric meant that I could have just as well left the page blank or doodled a unicorn and received the exact same score. Moreover, because exams count for 70% of the overall grade, that one "mistake" docked me 4% in the *entire course*. It's just one example, but it set the pattern for the rest of the class, with student averages on the different exams ranging from roughly 50% to 70% (on our second midterm, only one person got above 78%). Course staff justified this approach by vaguely referencing a curve, which did come out to a solid 10-15% in the end, but it meant that the bulk of us spent the entire semester trying to learn with massive uncertainty about our performance hanging over our heads. In the final tally, my raw grade in 596 came out to over 30% lower than my average in the other 5 core classes. Grades are ultimately just numbers and I'm happy to keep it as a battle scar from a legitimately rigorous computer science education, but I can't help but feel that I and other students would have learned the material better and taken far more away from the course under even a slightly more generous scheme.
+. . .
+As other reviewers have highlighted, this grading setup directly contributed to a borderline toxic atmosphere between students and course staff. At one point, apparently inundated with regrade requests, the head TA sent a class-wide notification claiming that they were already extremely lenient in their grading and admonishing us for writing answers that wouldn't pass muster in "even an introductory undergraduate class." With all due credit to the few unusually kind and helpful TAs, this sort of condescending and unprofessional attitude appeared often enough for me to suspect a systemic issue from the top down. One TA in particular would literally eat dinner during office hours, memorably munching on a burrito while I tried to discuss dynamic programming. In sharp contrast to the many other wonderful courses in MCIT, I got the distinct sense that the course staff spent more of their time and energy on keeping the students in check than on making the material more accessible, whether by expressly cracking down on perfectly-innocent Slack study groups and threatening to report them for academic misconduct or, more recently, choosing not to make previous semesters' open office hour recordings available to students taking the class under different Professors (standard practice in 595 and elsewhere). By the end of the semester, I and many others avoided asking questions on Piazza or scheduling private office hours—there was just no point.
+. . .
+Then there are the course materials. The lecture videos feature very few representative worked examples, choosing instead to string together multiple 20+ minute segments that cover every nook and cranny of proofs for canonical algorithms. As a result, there is a huge gap between the problems in lectures and exams, with the former appropriate to those embarking on graduate-level research and the latter, while still very difficult, often requiring just a few targeted sentences. Together with the grading philosophy, it really gave 596 the feel of a weeder course for students considering academia rather than a capstone course in a professional Master's degree. As a visual learner in particular, I found very little to latch onto underneath the notation, even putting aside the "half-baked" feel of much of what we were working with. Course slides would often contain errors or retain administrative comments on how they needed to be improved, key lecture segments would be inexplicably missing, and exam templates would contain superfluous problems that were confusingly left in and simply commented-out in LaTeX. In fact, students have literally taken the wrong midterm two semesters in a row now (it feels surreal to type that out, but what's even crazier is that it's true). Given these issues, many rely on outside materials—even though, unsurprisingly, the Professor technically forbids that as well—with Abdul Bari essentially co-teaching the course. Some courses in the MCIT core are models of computer science pedagogy, others do an admirable job of covering as much ground as possible in 14 weeks. 596 is the only one where I honestly believe I would've done better with simple self-study.
+. . .
+My advice to future 596 students would be to take it P/F if possible, otherwise take the Professor that semester into account, and avoid taking it over the summer or pairing it with other classes regardless. Beyond that, go into it with 594 under your belt and keep your expectations low—both for your grade and the course itself. If you are in the minority that comes in with a strong math background and found 592 easy, take comfort knowing that many of the issues with the course won't affect you nearly as much. If not, know that you should still be able to earn a half-decent grade after the curve given enough time and independent study, though it might require substantially more of both than what you've come to expect. It's not much of an endorsement, but I hope that others will have a better experience than I did and that 596 can one day soon meet the standards set by the rest of this otherwise terrific program.
+
+Summer 2020
+Very Hard
+Strongly Disliked
+25 hrs/wk
+CIT-596: Algorithms & Computation
+4/20/2023, 3:28:44 AM
+1. Algorithm is hard.
+2. Algorithms taught in this class are in line with what most universities taught.
+3. However, 596 has very limited lecture content: usually less than 1 hour per module. This may be enough for courses with a lighter workload. This is definitely not enough for understanding algorithm+proof+runtime analysis.
+4. Since lectures are short, you will struggle to understand concepts. TA availability and recitations become very important. If you cannot get enough help from Ed posts and recitations, you may have a very hard time doing homework -- even with partners. They might feel the same as you.
+5. Even if you fully understand the lecture content, homework questions are still challenging.
+6. Exams usually consist of some relatively easy short-answer questions and 3 algorithm questions. Time is very limited. If you were unfortunate enough and had 0 a-ha moments, you might get a score as low as 30. Each enlightenment during the exam might give you a 30-point boost since most algorithm problems are worth 20-30 points.
+7. This is not the most time-consuming class but definitely a class that generates a lot of anxiety. There might be times when you stare at the monitor for 5 hours for some less than 100-word homework problem without bringing up any constructive ideas. Trust me, you are not alone. It will be all worth it when you finally come up with a valid solution.
+
+Spring 2023
+Very Hard
+Strongly Disliked
+25 hrs/wk
+CIT-596: Algorithms & Computation
+12/24/2020, 3:29:43 PM
+Highly recommend taking this course with Prof. Sanjeev Khanna if you have the opportunity. I agree with the other reviews that the lecture videos and course content provided are sparse and haphazard in this class.
+
+The saving grace was Prof Khanna this fall. He painstakingly prepared two hours of open office hour lecture per week that were able to teach everything from the lecture videos... but much more clearly. Because of his open office hours, I feel confident in being able to reason out unfamiliar algorithms and has paid off in my ability to solve Leetcode problems for technical interviews as well. Prof Khanna and the TA team also responded quickly and kindly on Piazza this semester.
+
+Fall 2020
+Hard
+Liked
+12 hrs/wk
+CIT-596: Algorithms & Computation
+8/19/2022, 8:22:01 PM
+The course can be structured better. The difficulty of course content and exam problems are not on the same level. A lot of recourses outside the course are required. But Professor Lutz provides in-time responses to questions.
+
+Summer 2022
+Very Hard
+Liked
+20 hrs/wk
+CIT-596: Algorithms & Computation
+5/4/2023, 11:52:28 AM
+The course content is awesome. The proofs take some getting used to but after a few, you get the hang of it. Make sure to form a homework group with 1-2 other classmates and start early on the lectures so you can dive into the homework several days before it's due. One of the best classes I've taken through UPenn.
+
+Spring 2023
+Very Hard
+Strongly Liked
+25 hrs/wk
+CIT-596: Algorithms & Computation
+11/20/2020, 10:59:33 AM
+Topics are a great curation of algorithms and greatly enhances MCIT program. Gives a great perspective of why CS is a math discipline. Course was a self-fulfilling prophecy of declared to be hard and the instruction team actively working to make it hard. Lectures are unnecessary complex for topics that can be exposed much simpler. The TA staff was not respectful, giving harsh feedback and answers in Piazza (e.g. "unclear -10 points", "this is obviously incorrect", "students are not expected to ace the exam", "course is very lenient, if this were any on-campus class you would get worse grades"). The instruction team does not follow the same high standards asked from students, there are errors on every module lectures, carried over from several semesters, either not improved or with poor quality amends, exams had errors, showed commented out questions, latex that did not compile, posted incorrect exam in Coursera, and a log list of issues. Grading was unfair as exams philosophy is "run as far as you can on a constrained time" but there are unpredictable ProctorU and exam issues that consume time unevenly.
+
+Summer 2020
+Very Hard
+Disliked
+20 hrs/wk
+CIT-596: Algorithms & Computation
+5/2/2021, 7:35:01 PM
+The worst class I have ever taken in my life. Lecture materials are poorly done so the test questions are ridiculously random. I have to learn using the materials from 2 other colleges and Youtube. Might as well not have a professor for this course. Also, the professor won't release answers for exams do you don't even know what you did wrong.
+
+Spring 2021
+Very Hard
+Strongly Disliked
+20 hrs/wk
+CIT-596: Algorithms & Computation
+5/8/2023, 8:19:12 PM
+The good: The concepts covered in this course were extremely interesting to me and I found it fascinating to dig into the conceptual/theoretical side of algorithms. Homework grading wasn't too bad as long as you were able to articulate yourself clearly.
+
+The bad: I think there can be massive improvements to this course. I felt there was a significant jump from the lecture materials to the actual homework assignments. The homework assignments were challenging as I felt the lecture materials didn't adequately prepare you for them. I think many of the lecture videos can be revised; it's difficult to understand what the professor is intending to say when he is constantly correcting himself - just re-record and read off a script. The course management is the worst I ever experienced. TAs would CONSTANTLY cancel OHQ sessions or just not even show up without posting on Ed Discussion. Zero accountability. The lack of accessibility to the professor was also an issue for me throughout the semester. His open office hours were on Mondays 4PM and Thursdays 1PM which is difficult to attend if you work full-time as many part-time students do. He cancelled his Thursday sessions mid-way through the semester due to lack of attendance. It would have been great if he was available even at least once a week outside of business hours.
+
+Spring 2023
+Very Hard
+Disliked
+25 hrs/wk
+CIT-596: Algorithms & Computation
+11/29/2023, 10:47:56 AM
+Content is important and super interesting. It's also pretty complex, but not impossible. Just takes some slogging to understand.
+
+However, the lecture quality is abysmal. You'll basically just use the lectures to tell you what you look up in the textbook / youtube, and then try to figure out how to adapt youtube explanations of concepts to help you address the HW Problems. MIT Open Courseware is especially good (which begs the question of the value of MCIT). TAs have canceled office hours at the last minute about 80% of the time I've tried to attend, and I don't think my experience is unique.
+
+Fall 2023
+Medium
+Strongly Disliked
+20 hrs/wk
+CIT-596: Algorithms & Computation
+8/23/2022, 8:03:26 PM
+It's a hard course, no doubt. However, the hws and exams are manageable and overall it was way better than I expected. Class average in the last weeks was above 90%, so the redesign of the course helped. Also, Pr. Lutz is a great professor and I highly recommend taking this class with him.
+
+Summer 2022
+Hard
+Liked
+15 hrs/wk
+CIT-596: Algorithms & Computation
+12/19/2022, 5:43:22 AM
+I like the main concepts. They helped me to become a better programmer.
+Slides are not as rigorous as you would expect for such a course.
+Too many exams. Dont let student write exams, if homework are not even due or graded.
+
+Fall 2022
+Hard
+Neutral
+12 hrs/wk
+CIT-596: Algorithms & Computation
+1/8/2022, 5:34:54 PM
+I took this class in the Fall of 2021 with Prof Kannan. I'll start off by saying that I think this course had a pretty bad wrap for awhile, but the MCIT staff, professor, and TA's seem to have done A LOT of work to improve the students experience for this class. I rarely had to use outside resources (which I think previous classes had to spend significant time using), and found the office hours with the professors and TA's to be enough clarification on questions/concepts to complete the homework assignments. I also really enjoyed that homework was only due every other week which gave you extra time to make sure you really understood all the material for that two week segment. The first half of the course I found relatively easy, but it definitely ramps up in difficulty about halfway through, and I wish there was a bit more time to spend on the concepts in the second half of the course. I felt like the content did a great job of teaching you how to think about programming "outside the box", and train your brain to think about how to solve a program or write a function in a new (and usually much more efficient) way. My main negatives for the course were that the tests were a really significant portion of your final grade and were very tough for the amount of time you had to think of solutions. Also, grading could be somewhat inconsistent since some of how you write-up your algorithms could be subjective (they want you to explain in English instead of pseudo-code which can sometimes lead to frustration/disagreements in the grading process). Most of the TA's I dealt with were always extremely nice and helpful though if I reached out to them.
+
+Fall 2021
+Very Hard
+Liked
+20 hrs/wk
+CIT-596: Algorithms & Computation
+10/2/2023, 7:36:09 PM
+I took this course with Neil Lutz. The material was challenging, but manageable with enough effort and focus. The professor and TAs provided timely and adequate support when I had questions. Grading was not overly harsh, and average scores on homeworks and exams were usually in line with other MCIT course.
+
+Summer 2023
+Hard
+Liked
+13 hrs/wk
+CIT-596: Algorithms & Computation
+9/1/2021, 12:37:54 PM
+I was in the lucky batch who took this notoriously difficult class with professor Arvind Bhusnurmath this summer. He changed the weighing of the class so that exams (2 MTs non-cumulative, 1 cumulative final) only accounted for 35% overall. The rest were made up of bi-weekly assignments and 2-attempt quizzes. This allowed me to not stress so much on exam scores but actually focus on learning and understanding the materials. As someone who never felt very comfortable with math and struggled through 592, I thought this was a very difficult class indeed and lived up to its reputation. In the beginning of the course, I had zero confidence in my ability to solve any of the questions on my own. They seemed to require my mind to bend in a certain way that was impossible. However throughout the semester, with the help of a knowledgeable and capable TA team, everything started to make sense. While still being very challenging, it stopped feeling impossible. My strategy was to watch all of the videos twice, make my own notes, watch related videos from Abdul Bari, and take advantage of the fact that we could discuss hw questions with our hw partner. While I had copies of the textbooks, I didn't read them and got by just fine. Exam averages were in the 60-70% range and the marking was very lenient on some questions and very harsh on others. It was easy to bomb an exam because there were only 5-6 questions and if you get a couple of the harshly marked questions wrong, you may quickly end up scoring below 50%. However again the lower weighing of exams softened the blow. Some things I didn't like were the lecture videos which were hard to understand as many details were missing so Bari came to the rescue, and also the last portion (3 weeks) of the class being on NP-Completeness just seemed unnecessarily long for an algorithms class. It's my understanding that most undergrad CS programs don't spend much time at all on this topic. I would've loved to go more in depth with the materials up to midterm 2. Overall, I learned a great deal from this class which has enabled me to feel a lot more comfortable with harder leetcode questions. Professor Arvind and his team of TAs were just amazing and I really wish he'd teach this class again for future cohorts.
+
+Summer 2021
+Very Hard
+Liked
+20 hrs/wk
+CIT-596: Algorithms & Computation
+5/2/2023, 3:05:33 AM
+It's tough to review this course. Algorithms is a hard subject no matter where you go. Overall I think the professors have done a decent job of trying to make this a good course. I do feel there are some changes they can make to improve it though:
+* The videos just aren't effective enough for some people. They were good about recommending textbook sections, but at times I felt like it was an afterthought as opposed to a deliberate dovetailing. Some students simply learn better from textbooks.
+* Additional videos/lectures should be recorded as supplemental. Perhaps choose a sample problem and work through it on the whiteboard. This would be far more effective than poorly done powerpoints.
+* The exam questions were fair, but the amount of time given to answer them was far too compressed.
+
+Professor: I really like Sampath Kannan as a lecturer; he is very articulate and good at explaining. That said, I do sometimes feel like he gets a bit bored. He also wasn't very active on EdD for a while.
+
+Tips for Success:
+* Find a good partner or two (you can work in groups of 3) and meet/communicate frequently. During our class, the 596 Slack channel was silent, as all work was done in small groups. If you don't find a good group, you will likely feel lost and isolated. The fact that we could work in groups made all the difference.
+* Watch the videos twice. They are dense and sometimes just not enough, but watching them a second time will help. In theory, they *should* contain everything you need to succeed; for most learners though, they are not enough.
+* Read the textbooks. Algorithms Illuminated (parts 1 - 4) are recommended throughout. They are relatively cheap, so buy them and read them. I personally did not like them all that much, but they were helpful, and I know a lot of other students liked them. "Introduction to Algorithms" (CLRS) is a great book that provides rigorous proofs and in-depth analysis of nearly everything; if you can spare the time, you will learn a lot by reading it. There is another book called "Algorithms" which is a Java-focused textbook which is not as difficult as CLRS, but it would only be useful if you want the added focus for Java (might be worthwhile for SWE's using or wanting to learn it).
+* You can possibly skip the recitations. Depending on the TA presenting, they could be helpful, or they could be a painful waste of time.
+* If you are strong in math and proofs you might be able to get by on only 15 hours per week. If you are weak in math and proofs, you might need as much as 25. Try to program in enough time to give yourself breathing room to enjoy the puzzles.
+
+Overall I liked this course, even though it was an absolute grind.
+
+Spring 2023
+Very Hard
+Liked
+22 hrs/wk
+CIT-596: Algorithms & Computation
+12/22/2022, 12:08:31 PM
+I really enjoy CIT 5960. I’m so lucky to take it with Prof. Sanjeev Khanna. He is definitely the best professor I’ve met in the MCIT program. His office hours are fantastic, which go through all the important concepts of the chapter and help students develop the intuition behind different kinds of algorithms. Thanks to Prof. Sanjeev Khanna, as someone who had no previous algorithm background, I was able to establish a holistic view of different algorithms through this class and do well in all the assignments and exams. I really hope that he could teach this course more often. It’s definitely one of the most memorable learning experiences in my life.
+
+In terms of TA support, I was very lucky that I met a couple of fantastic TAs in this class. They are patient, nice and knowledagble. It’s been such a pleasure working with them.
+
+When it comes to exams and assignments, they are extremely well designed and very fair. Questions are on the challenging side, but definitely solvable with solid understanding of the course materials and creative thoughts.
+
+In general, thumbs up to all the course staffs! Thank you for making CIT 5960 an extremely pleasant journey for us!
+
+Fall 2022
+Hard
+Strongly Liked
+18 hrs/wk
+CIT-596: Algorithms & Computation
+12/8/2020, 3:42:19 PM
+Without a doubt, for me, this has been the most difficult core course. The professor's office hours, reading the textbook and being proactive about getting help were essential to my learning. While I think it would have been helpful to my learning had I tried to actually code many of the algorithms we learned about, there just wasn't enough time with the pace of learning. Overall though I felt like the curriculum was jam packed with lots that I need to know going forward and I appreciated how it incorporated many of the concepts we were introduced to in previous core classes (especially 594 and 592). It is clear that the MCIT put a lot of effort into the development of the core classes and integrating the various essential topics to give us a strong computer science foundation.
+
+Fall 2020
+Very Hard
+Liked
+20 hrs/wk
+CIT-596: Algorithms & Computation
+8/16/2023, 7:56:17 AM
+I was somewhat terrified to take this course based on prior reviews. However, I actually wound up enjoying this course and thought the amount of work was manageable/fair. That isn't to say it is easy, because plenty of the subjects are quite challenging (looking at you NP...). Here are a few things that stood out to me:
+- The expectation on the math/proofs was significantly less rigorous than 592. This was a huge relief to me, as I struggled with that part of 592
+- Finding a good group is a huge part of doing well in this course. The interactions with my group definitely led to improved understanding of the materials and better grades.
+- In terms of the grades, the scores on HW/Exams in Summer 2023 were quite high (I think most were in the 90s). We haven't gotten final exam scores or final grades yet, so TBD on what they do with a curve.
+- Having HW every 2 weeks felt manageable and honestly part of me thinks that it should have been every week given the institution we have chosen to 'attend' (I'm sure I'm in the minority on that though).
+- We had an amazing head TA, which definitely helped. I also thought Prof Lutz was responsive to questions from students, though it is still a little weird to me to have a Professor who isn't leading the lectures.
+- Like other reviewers, I relied heavily on YouTube videos. It probably does indicate an opportunity to improve the proper course materials, but this also isn't the only class that I've relied on self-study of non-course materials.
+
+Summer 2023
+Medium
+Liked
+10 hrs/wk
+CIT-596: Algorithms & Computation
+12/28/2021, 11:58:09 AM
+Algorithms is definitely a fundamental course for computer science, and it's worth taking the time to really understand and think through the material.
+
+I found the course load to be manageable; a combination of videos/readings/office hours/youtube allowed me to better comprehend the material. Having 2 weeks to work through the homework was also less stressful compared to 592.
+
+Fall 2021
+Hard
+Strongly Liked
+15 hrs/wk
+CIT-596: Algorithms & Computation
+12/31/2022, 10:59:23 AM
+I thought the material was very interesting and really stretches your brain. However, I don't think the teaching quality was all that great. The lecture videos took a really long time to explain concepts. I'm looking at some youtube videos and MIT's videos right now, and they're able to explain the same concepts succinctly and clearly. I really wish I had the time to use these external resources during the semester because my conclusion on the lecture videos are that they are a waste of time. I wish the teaching staff would just give an outline of what we needed to know and students could explore external materials, rather than sitting it out and watching confusing lecture videos.
+
+With this in mind, it's not a surprise that my opinion of the exams is that I felt extremely unprepared for them.
+
+The exception to the lackluster teaching quality is Khanna's OH. His explanations are amazing.
+
+My advice to future students is watch Khanna's OH (assuming the course is taught by Khanna), speed through lecture videos and find external resources to actually learn the material, go to TA private OH for HW help (they really do help walk you through the problems!), and don't fret about bombing on tests because there's usually a curve.
+
+Fall 2022
+Very Hard
+Disliked
+25 hrs/wk
+CIT-596: Algorithms & Computation
+12/8/2023, 9:32:55 AM
+This class presented some challenges that, in my opinion, could have been addressed more effectively. It felt particularly demanding, almost like a rite of passage. The overall management left much to be desired, and the difficulty level seemed unnecessarily high. Given that it's a required course for the degree, it felt like something everyone simply had to endure.
+
+The material, though conceptually challenging, was hindered by poor explanations, especially from the dynamic programming module onwards. The class hours didn't contribute significantly to enhancing my understanding, and considering the cost of $3,000, this felt unacceptable. The teaching method relied heavily on verbose PowerPoint slides with dense mathematical notation, which, in my view, lacked intuitive explanations. The use of phrases like "this is trivial" seemed counterproductive and akin to proof by intimidation, which is not a valid technique.
+
+My experience with the TA team was less than satisfactory. Private office hours were frequently canceled or disrupted by no-shows. Even when available, the TAs struggled to solve assigned homework problems and lacked a general familiarity with the material. There were instances where incorrect explanations were provided during review sessions, contributing to the overall sense of frustration.
+
+Grading was a slow process, with a two-week wait for midterm feedback. The delayed homework grading, coupled with a packed schedule, meant we couldn't review assignments before exams. This contrasted with my experiences in other MCIT Online classes, where TAs were more competent and responsive. The lack of care from the teaching team, including the professor, stood out as unusual in comparison to my previous MCIT courses.
+
+The homework and tests were undeniably challenging, sometimes leaving me feeling ill-equipped based on the materials covered in class. The written solutions were difficult to understand, adding to the overall complexity. Despite these challenges, the group work aspect was a positive experience, allowing me to form meaningful connections with my team, a model that I believe other MCIT classes could benefit from.
+
+Despite the difficulties, the material itself remained fascinating, making it all the more frustrating that the class felt like a missed opportunity. I initially enrolled in this course to delve into these topics within computer science. While I managed to grasp the concepts through self-study, it felt more like I succeeded in spite of the class rather than because of it. While it served as an incentive to learn, the course did little to facilitate that learning process.
+
+With the hope that the course is behind me, I'm relieved not to have to dwell on it any longer.
+
+Spring 2023
+Very Hard
+Strongly Disliked
+20 hrs/wk
+CIT-596: Algorithms & Computation
+12/29/2021, 6:49:42 PM
+I entered the program with zero discrete math and proofs background and really struggled especially when it came to dynamic programming. But, Prof. Kannan (though he had some tough reviews in the past) was actually very supportive of us. I prefer those videos with him on the lightboard and OH than the normal course material lectures so make sure to check out the OH recordings. Prof. Kannan is also very open to students' concerns like when we had difficulties in ProctorU scheduling and also during the first few weeks of the course when there was not enough TAs (he held his own POH to fill in). The TAs are also very supportive and very considerate in grading. I also chose to write my answers in the way they prefer it (in words) than pseudocode (my comfort zone) so I could practice more on how they want it structured and in that way I could get more comfortable when the exams came.
+
+Algorithms is a tough course so be prepared for a heavy semester. In the second half of the course, I had a lot of personal and health issues so I was not able to supplement the course materials with reading CLRS and K&T (If you have the bandwidth, do read the books and you will do great in this course!). But, I just made sure to watch the TA sessions which helped me survive the course.
+
+Fall 2021
+Very Hard
+Liked
+40 hrs/wk
+CIT-596: Algorithms & Computation
+8/28/2021, 6:38:29 PM
+The content introduced in this class is super dense. Lecture videos tend to focus more on the proof of different algorithms, which makes it hard to understand what the algorithm is doing at the first place. I would recommend not to fully rely on the lecture material. In fact, some walk through examples on youtube had helped me a lot. Having said that, I believe that the lecture videos have already tried its best to convey the idea behind those algorithms. It is just impossible to explain everything in detail given the limited lecture hours for each week.
+
+The curve tends to be pretty generous for this course. So don't get demotivated even if you receive some bad grades in the exam. It was a struggle that we all went through. :)
+
+Summer 2021
+Very Hard
+Neutral
+18 hrs/wk
+CIT-596: Algorithms & Computation
+12/21/2022, 8:14:01 AM
+Overall, this class was a good experience. Unfortunately due to my work schedule I was never able to attend Khanna's office hours in person, but I watched the recordings religiously and they were excellent.
+The course was difficult but manageable... being able to complete homework assignments in groups made it more engaging and less intimidating. I didn't find the material to be insurmountably hard, but it definitely relies heavily on concepts from 592 (and to some extent 594) - so make sure you feel comfortable with the topics from those courses before taking this one (particularly set notation and intro to graph theory). I attended several TA office hours, and the TA staff did a great job clarifying tough concepts. My only regret was not having (or setting aside) the time to complete more Leetcode (I was working and taking 594 this semester - so at some point I just ran out of time/bandwidth). I think completing more Leetcode problems would've enhanced my overall understanding and been a good use of time... and I wish I had taken this course with less on my plate. Overall though - it's a good class and a solid intro to algorithms!
+
+Fall 2022
+Hard
+Liked
+20 hrs/wk
+CIT-596: Algorithms & Computation
+11/20/2020, 8:51:02 PM
+This course feels like a colossal missed opportunity.
+
+By far one of the worst courses in the core. What's frustrating is that the material is explained so poorly several students have shared that its routine to finish watching 2-3 hours of lecture with no grasp of the concept material. The professor(s) suggest that you pause the lectures and repeat the concept over and over until you understand each slide completely/can derive it yourself. As a student, it honestly comes across as a lack of willingness to put in the effort to give a thorough explanation. There are YouTube videos that explain the concepts simply and clearly. Personally, it's those videos that have made me excited about the material and even gotten me to flirt with the idea of going down an academic path. And it depresses me to think that this excitement is an exception to my course experience - one that I'm experiencing when I am digging through free, widely available sources on the internet, rather than my paid-for, thousand-dollar class.
+
+Similar to what other reviews have expressed, the staff course, with some exceptions of course, have led to a brutally demotivating experience. Some examples are marking 'wrong, -20' on homework problems without any context or explanation, getting noticeably annoyed on Piazza when students asked for an extension, making unusable practice exams whose questions are unreasonably difficult and answer key frustratingly unclear, and providing very few worked examples whose logic can be applied to other problems.
+
+
+This course could improve with 1). more clear and concise lectures. I shouldn't need to watch all the lectures, recitations, and all professor office hours to understand a concept Abdul Bari can explain in 10 minutes. By the end of the semester, students start to question if watching the lectures are even worth it anymore, or if they should instead go immediately to outside resources. 2). More worked example whose logic can be applied to other problems. Most examples seem to be very specific. The one off the top of my head was the one about filling in a rectangle optimally. Cool brain teaser, but hard to apply outside of that use case. 3). Revamped tests. It's difficult to tell if the tests are truly difficult or if the students are just so ill-prepared to tackle these concepts on the tests. What's more, is that they are weighed so heavily students genuinely fear failing the course due to test performance despite a fairly decent homework average.
+
+Algorithms covers AWESOME material. Dynamic programming, sorting algorithms, compression, it's like your brain gets a little tickle every time you learn about the clever ways people have learned to optimize computation. Moreover, as someone who has always had a passion for math, seeing its application in computer science has been a thoroughly fulfilling experience. Finally, I don't think I have met a 596 student yet that hasn't expressed some degree of fascination in the concepts covered. These are the reasons algorithms is such an important opportunity for students to flesh out, explore, and fall in love with a less-well-known side of computer science; that is why I believe we should hold ourselves to a higher bar for this course.
+
+Fall 2020
+Very Hard
+Strongly Disliked
+20 hrs/wk
+CIT-596: Algorithms & Computation
+12/19/2023, 11:46:50 AM
+To be honest, I feel that this course's difficulty is heavily dependent on the quality of your group. I had two very smart and collaborative team members that made learning and reinforcing the concepts more natural. The last few weeks of class were absolutely brutal though because the quality of the lectures fell off a cliff and I honestly don't know if I would've learned anything during that period if I didn't take it upon myself to research for an additional couple hours a week. Actually, now that I think about it, you'll need to definitely utilize outside resources to excel in this class.
+
+Fall 2023
+Hard
+Neutral
+15 hrs/wk
+CIT-596: Algorithms & Computation
+8/27/2021, 9:46:20 AM
+I imagine that you've already heard that 596 is a difficult and challenging class, long before you set eyes on this review. That reputation is true and well-deserved. If possible, you should take 596 by itself because it is an immense amount of work.
+
+That said, I learned a lot and ultimately found the class to be a rewarding experience that improved my problem-solving skills. I learned a lot from Dr. Kannan and really didn't have an issue with his lectures. But obviously, not everyone will have the same reaction, and if that's the case, I would recommend Tim Roughgarden's Algorithms Illuminated videos (based on when he taught Stanford's equivalent of 596) or Abdul Bari's videos, both of which you can find on YouTube.
+
+Spring 2020
+Very Hard
+Strongly Liked
+20 hrs/wk
+CIT-596: Algorithms & Computation
+8/30/2023, 3:29:17 AM
+596 is a very challenging class for two reasons: (1) The content & concepts are simply difficult to digest and the homework assignments are tough. Be prepared to spend an ample amount of time working through the problem sets by yourself and your teammates. (2) The video lectures drop off in quality roughly halfway through the semester. Be prepared to supplement your learning using YouTube videos (Abdul Bari is great).
+
+In my opinion, the biggest predictor of success in the course is finding a good group that is collaborative and supportive. It's much better to find people who work well with others (and may not necessarily be the strongest in algorithms) than be in a group with toxic members. My group was fantastic and got me through this class.
+
+Looking back on this class, it was overall challenging but a huge accomplishment for finishing this course.
+
+Summer 2023
+Very Hard
+Neutral
+15 hrs/wk
+CIT-596: Algorithms & Computation
+8/31/2021, 7:58:01 AM
+I'm just happy I'm done with this course and our instructor was Arvind, the most considerate and thoughtful teacher you could ever ask for a course like 596. He taught us to not focus too much on the grades, and released our burden by reducing the weights of the exams. I couldn't appreciate enough how patient he was for sparing a total of 3 hours for open office hours every week to answer our questions.
+
+Going back to the course itself, it is a hard course and no one can deny it. My advice would be attempting the homework earlier than its due date, and really try to read the book as well as ask questions if there's any for the materials or homework questions. TA are big help for this course. They hold private office hours to answer questions. Also, your homework partner is another resource you could refer to when it comes to writing down the homeworks. Edge cases are important for the algorithms so you should always be thinking about that before submitting your work.
+
+Every week, I went through the course materials (readings and videos), re-watched office hours and recitations, then go to homework problems. I probably spent around 15-25 hours weekly, and I feel that's a fair amount spent. Now I feel more comfortable doing Leetcode problems and prepare for interviews.
+
+Summer 2021
+Hard
+Liked
+17 hrs/wk
+CIT-596: Algorithms & Computation
+11/21/2020, 7:09:20 AM
+If I finished this course and felt confident coding "medium" difficulty Leetcode problems, all my suffering would have been worth it; unfortunately, I have yet to feel that I can apply most of what I learned in a real-world scenario. The hostile learning environment in this course caused substantial harm to my mental health resulting in depressive episodes. Instructor posts and announcements on Piazza were condescending and emphasized punishment for mistakes: "we will grade your worst solution" discourages creativity, TA response to student question "obviously no" is mean, "the reality is that the grading in this class is already very lenient. In many instances where we give partial credit...you would receive an absolute 0 in any on campus algorithms course at PENN, even introduction undergrad...regrade request can result in further deduction". Mistakes/questions are part of learning and should be met with warmth and kindness. Worst Piazza response time + quality ever in this program; I am a TA, there is no excuse for the low-effort responses and sense of neglect on the question forum. Felt like questions were discouraged. This material is too difficult to have so many errors on slides; prof used examples from material not yet covered in the course to explain current material. No transparency on grading and it is unclear what is needed to pass the course. I had no idea whether I was meeting the learning objectives because the curve is so big and the grading so harsh. This creates massive performance anxiety for myself and many other students who want to do well. Transparency around grading for participation would help. So hard to stay motivated when you feel like everything you do in the course is a mistake and instruction team is clear that requesting feedback inconveniences them. I've heard students describe working on this course as "taking out the garbage" and that feels fair. Huge jumps from lecture material to assignments meant I had to supplement my own learning every week; that's not what I'm paying for. Some lectures were 20 or 30 minutes and could have been cut down to 10 or 15 and slides have tons of errors which added to the carnival of confusion. In researching the concepts to get through assignments I often stumbled on the answers unintentionally. Sometimes we only got the answer right because my partner had seen the problem before on Leetcode etc. Scientists spent years trying to come up with some of these clever algorithms and I am supposed to come up with them on my own for the assignments? That's like expecting mind-reading. Exams are pure luck on whether I memorized the solution to a problem; not even a formula sheet for the Master Theorem, really? I took the incorrect exam template because there were 2 uploaded to Coursera. Prof seldom related the content to real-world problems and programming, which failed to spark my interest in the material. I already struggle with imposter syndrome as a woman in tech and this course made me feel so stupid and destroyed my self-confidence. I hope by the time you read this they have improved this course; it is salvagable but it has a really long way to go to be on-par with courses like 593, 594 and 595. If the instructors were just kinder that would be a great start. Some good things I have to say: 1. collaboration always improves my learning experience and you get a partner for the homeworks; unfortunately they are worth less of your grade than exams despite the long hours you will pull trying to write them up in LaTeX perfectly so that you don't lose points for silly reasons and 2. I respect the Prof's knowledge; perhaps he's a great teacher for on-campus courses and online is just a poor fit.
+
+Summer 2020
+Very Hard
+Strongly Disliked
+20 hrs/wk
+CIT-596: Algorithms & Computation
+11/16/2020, 2:42:34 PM
+Took with Prof Kannan. Conceptually very tough, solving the problems often requires some creativity. You learn a lot of useful algorithms that help in job interviews, a few job interview questions that I had were essentially identical to hw questions in 596.
+3 exams - first one was pretty tough, second one easier (I liked Greedy Algorithms and Dynamic Programming), final was in between.
+7 hw assignments, you have 2 weeks per assignment and get to work with a partner. Start early on these, you'll often be stuck for a few days on a problem or two.
+Lectures, Recitations, and Office Hours were all useful, attend or watch the recordings if you have the time.
+
+Spring 2020
+Hard
+Strongly Liked
+12 hrs/wk
+CIT-596: Algorithms & Computation
+12/4/2021, 8:42:44 AM
+I'm so grateful I took this when pass/fail was still an option. I'm sure this class will be useful for whiteboard interview questions but beside that I found it to be very convoluted and not a valuable use of my time.
+
+Spring 2021
+Very Hard
+Strongly Disliked
+15 hrs/wk
+CIT-596: Algorithms & Computation
+8/26/2022, 12:22:53 PM
+There’s no way around the fact that the content itself is very challenging. The course redesign for Summer 2022 with Dr. Lutz, however, certainly made it feel like I’d avoided some of the horror stories from past semesters. The quizzes (10% of grade) were unlimited-attempt. The homeworks (40% of grade) were pretty tough and time consuming but graded very leniently — plus, you were allowed to work with a partner, which was a huge help. And the two midterms (15% each) and final (20%) were challenging but fair. The second midterm and final were curved upward generously. I did not find TA office hours particularly helpful, would definitely say extra work is only going to help on assignments and exams. Do the textbook readings — they’re SUPER helpful. I typically watched the lectures (which can be a little lengthy and dry), then did the readings, then watched the lectures again. There are a ton of online resources on YouTube that cover the same concepts and are worth watching. Optional weekly Leetcode problems put context around a lot of what you learn and make the concepts more fun / applicable. The weekly recitation questions are really helpful to prepare for the exam. It’s a beast of a class but in my opinion you'll get out the time and effort you put in.
+
+Summer 2022
+Very Hard
+Liked
+20 hrs/wk
+CIT-596: Algorithms & Computation
+5/2/2021, 8:23:20 PM
+I actually enjoyed this course although I can see where a lot of the other reviews are coming from. If it's your first time being exposed to algorithm design paradigms, the lecture videos tend to go everything at a really high level and maybe make things seem easier than they are. The professor definitely doesn't go into depth about the nuances of these algorithms but it's hard to in 1-2 hour videos every week. The course format is very similar to 592 - problem sets due every other week that are about 4-6 problems long and require writing out proofs in LaTeX, and 3 exams of similar length with questions that are about the same difficulty as the average homework problem. You can also work on the homework with a partner but I did not and maybe that helped me pick up the material better. Also, if you've done Leetcode before these questions tackle similar topics but at a more abstract high-level approach, where you describe the algorithms instead of writing code or even pseudocode. The class appears to be curved quite generously as the exam averages are quite low, but this seems like the math classes in my undergraduate.
+
+Spring 2021
+Medium
+Liked
+10 hrs/wk
+CIT-596: Algorithms & Computation
+8/17/2023, 9:33:13 AM
+I'll preface this review by noting I took this course with Neil Lutz as the instructor.
+
+As others have indicated, the reputation of the course is well deserved. It is conceptually difficult and will require a lot of effort and consistency on your part to absorb the material and prepare effectively for the exams. In retrospect, my feelings on the course are neutral.
+
+The material itself is interesting; you will learn and apply canonical algorithmic approaches to solve different types of practical problems. There is opportunity to practice on provided LeetCode problems (found in the 'key takeaways' document that accompany each module) and on recitation problems worked through in a TA-led session each week. In the semester I took the course, it seemed most students would have liked to complete the given LeetCode problems but were limited by the time required to complete the lectures, recitation, and homework.
+
+The presentation of the material leaves a lot to be desired. I understand the course was reworked at some point during 2021-2022 to provide a more solid foundation to students. You might find the lecture quality variable as a result; I found the lectures by Lutz and Khanna to be the most clear. There is a tendency otherwise to feature a significant amount of mathematical notation and gloss over details. As a result, I found there was a fair amount of outside materials needed to support understanding of the topics, particularly in the later weeks.
+
+The course pacing is manageable until week 7 or so, and then it becomes absurd. You'll pivot from graph theory to dynamic programming, the second midterm, and then NP-completeness and approximation algorithms at a speed that may leave you barely hanging on and doing your best to manage. It's not your fault if you find learning complex concepts under these conditions to be difficult.
+
+As students have noted, you'll be able to work with two classmates to complete the homework. Form your homework group as early as you can and build a rapport and a regular meeting schedule. This group will be the main contributor to your experience in this class; if you have a communicative and supportive group, you'll still feel the anxiety of 5960 but it will be much more manageable. Our group would attempt each problem on our own and then convene to discuss and clarify. I learned as much if not more from my group at times than from lecture and Ed Discussion.
+
+The required text is worth purchasing. Roughgarden helps to clarify some of the less-than-clear topics in lecture, though there are a few chapters that suffer from the same "wall of notation" issue as the lectures. There are accompanying Youtube videos on the book website that help overcome this issue.
+
+Professor Lutz and the TAs were stellar in the semester I took the course. I didn't attend Lutz' office hours very often but he is patient and helpful. The TAs generally provided a lot of helpful advice on Ed Discussion and in recitation. My one issue is at times in recitation the presiding TAs would speed through topics that I thought merited more attention, so you'll want to make sure you attend so you can ask follow-up questions.
+
+The exams are unpleasant. The two midterms (2 hr 15) were each focused on four weeks of the course and the final exam (3 hr 15) focused on the last five weeks of the course only (in previous semesters with other profs, it appears the final was cumulative). Each followed the format of the homework, with 4-5 questions to be completed during the exam timeframe. Of course, this is where students – myself included – become stressed, as the homework provides you two weeks to work through 5 questions while the exams certainly do not. I did not find the experience of writing exams became any easier as we moved through the semester, though certainly by the final, you'll generally know what to expect in terms of pace.
+
+Some practical advice for the exams, as others have spoken to their difficulty already.
+- Write a good cheat sheet such that in a pinch where you don't have a solution to a question, you can copy over some detail from your sheet to explain the general concept and gain partial credit.
+- Review the homework solutions and make sure you understand the general approach to solve the given problem (and then copy the approach to your cheat sheet as a reference).
+- Practice writing solutions for the recitation problems and, if you have time, the LeetCode problems. There is a tendency among students to spend a lot of time thinking about problem practice and seeking outside materials from other universities, and while that is laudable, it's not very practical for many students. There's enough work to do in the course without having to spend the additional time. I "over-practiced" problems in preparation for the second exam and went into the exam tired and burned-out (and it showed).
+- The practice exams are helpful but aren't always indicative of the format of the exam. I found it sufficient to attend the exam recitation and see the workflow to solve the problems rather than solving them myself.
+- Don't leave any question blank. Write down your intuition, a naive solution (and explain why it is naive), or copy your cheat sheet if you're absolutely stuck. Even if your proposed solution isn't perfect, write it down. This 'maximalist' approach to writing the exams will keep you afloat.
+
+Our cohort routinely scored in the 80s - 90s as an average on the exams, and 90s on the homework. While I can attest to our cohort being hard-working and smart, I think Lutz and the TAs took a reasonable approach to grading where not finding the ideal solution but showing your reasoning (and being in the same ballpark as the solution and the required time complexity) would receive partial credit.
+
+In sum, take the course with Lutz if you can, be collaborative with and supportive of your teammates, put aside any grade expectations you might have (you can still be positively surprised!), and do your best while understanding the material is hard. Equally as important, build some time into your schedule – whatever that looks like – to not work on the course and do something that helps keep you grounded. This becomes much harder towards the end of the course, however.
+
+It is a difficult course but know that you can get through it with hard work and cooperation with your colleagues.
+
+Summer 2023
+Very Hard
+Neutral
+25 hrs/wk
+CIT-596: Algorithms & Computation
+8/23/2022, 5:34:58 AM
+The course was redesigned in Summer of 2022 to be significantly less punishing than previous incarnations, and while I never took those incarnations, I think it's clear that it's been a success.
+
+I did not find the course videos to be haphazard, and seldom if ever needed to refer to material beyond the course videos. Other students are correct that 100+ minute modules are commonplace, and you should expect to spend many, many hours on each of the seven assignments, as it's likely that your natural intuition will giftwrap you solutions to two or three of the problems on the assignment, and the remaining two or three will take you several hours to think through and write up. The exams in this redesign are difficult but fair - the first required no curve and had a high median, and the second was generously curved to produce a high median.
+
+Algorithms are a challenging topic. Unless you are much cleverer than I am, you will likely struggle, and have to work quite hard, but they are a critical part of understanding the field, and I think you will find this course very helpful for doing so.
+
+It's worth noting that you will not write a single line of code, but I gather this is entirely standard with such courses, both at Penn and elsewhere.
+
+Summer 2022
+Very Hard
+Strongly Liked
+20 hrs/wk
+CIT-596: Algorithms & Computation
+5/9/2023, 12:27:18 PM
+Pros:
+- The material is actually very interesting at its core, and if/when you finally understand the material there's a great "A HA" moment that you get after studying the lectures/content for so many hours. It's extremely satisfying after putting in so much time.
+
+Cons:
+- Lectures are extremely dense and poorly explained, such that most (if not all) of the students sought out external resources to actually explain the concepts to them. I really don't think that we can say these lectures are clear and robust if, for every assignment, most students were asking "does anyone have any other resources to understand X concept?"
+- The assignment problems have a distinctly large disconnect from the lecture content. I never really felt adequately prepared for the homework assignments or the exam problems based on the lectures and assigned readings alone.
+- There was a constant cancelation of TA office hours with little to no notice for the students. Of course the TAs have lives outside of work, and life gets in the way, but the frequency at which it happened made for a very poor experience in the class from the perspective of the student.
+- There was an insane delay with the releasing of grades, so much so that grades were often released after the next assignment or exam was due - this even got to the point where some students were asking for grades to be released to help them determine if they should withdraw from the class. Unfortunately the teaching staff was unable to accommodate the request, which for a class of this difficult of a caliber I felt was pretty wrong. Again, I understand that the TAs have lives outside of the course, but feel horrible for the students whose decisions may have been impacted by the untimely releasing of grades. And the fact that this was a constant issue throughout the semester - if this was a one off thing, it would be more of an unfortunate occurrence.
+- On the topic of releasing grades, I felt that I frequently received unhelpful feedback from the graded assignments - often times my answers were docked points without an explanation as to why my answer was wrong. This, combined with the untimely releasing of grades, made it nearly impossible to improve before the next assignment - which added to the overall frustration of my experience in this course.
+- This class would not be possible to take without grouped homework. Some student reviews discuss something to the effect of "you can stare at the screen for hours and make no progress on one problem" - this is 100% correct. I don't see how this class would be possible to do without having other people on the homework - which, to me, speaks to the incredibly high expectations of this class.
+
+Overall, the content of the class really is good and important - algorithms is such a crucial CS skill. However, I found the class to be very disorganized and unnecessarily time consuming as it relates to a requirement of searching for external resources, the huge disconnect between the lectures and the assignments, and the unresponsiveness of the teaching staff at times.
+
+Spring 2023
+Hard
+Strongly Disliked
+25 hrs/wk
+CIT-596: Algorithms & Computation
+12/28/2021, 4:24:03 PM
+The only thing I did not enjoy about this course were the grades only being curved at the end of the semester, so it was "tough" to gauge what my letter grade was aiming towards during the course. Great TA staff was a big plus as well for this course. I also found the "every other week" HW load to be very enjoyable compared to other courses that require HW every week.
+
+Fall 2021
+Medium
+Liked
+10 hrs/wk
+CIT-596: Algorithms & Computation
+12/19/2022, 11:26:36 AM
+The course was interesting but very challenging. Lots of different and new topics that didn't always build on each other. Lots of extra resources needed to get a good grade. Like other math/theory classes, it always seemed like HW and Tests were a step or two beyond what was taught in Lectures and Recitations. Dr Khanna had awesome OOH though which were a big help, and we got to work in teams for our HW which was nice. Interesting subjects though, I think in hindsight I enjoyed the class. But it's a lot of work.
+
+Fall 2022
+Very Hard
+Liked
+20 hrs/wk
+CIT-596: Algorithms & Computation
+12/19/2022, 8:21:59 AM
+This course is as difficult as advertised. (Take it during a semester when your work, family, and other course commitments are comparatively light.) It's an appropriate level of difficulty, though --- MCIT is a CS masters program at a prestigious school. It would be concerning there were no courses that demanded high-level abstract reasoning skills. This is not a coding bootcamp!
+
+Homework assignments are challenging but rewarding. The exams are extremely hard, with raw grades averaging in the D or C range. You only get 2-3 hours to solve 5-7 problems, and the open-ended nature of the subject matter means that it's easy to get stuck.
+
+I personally learned a lot, especially in terms of the "language" of math. I now feel more confident communicating with my colleagues who have PhDs. At the bare minimum you will come away with sharper logical reasoning skills.
+
+Fall 2022
+Very Hard
+Neutral
+17.25 hrs/wk
+CIT-596: Algorithms & Computation
+8/24/2022, 1:17:23 PM
+Very difficult course structure, limited interaction with staff. Did not feel set up for success for the HW/ exam
+
+Summer 2022
+Very Hard
+Strongly Disliked
+40 hrs/wk
+CIT-596: Algorithms & Computation
+8/22/2021, 9:11:29 PM
+I took this class with Arvind, so exams were weighted at 35%, assignments at 55%, and quizzes at 10%. A lot of people seemed to like this, but I was indifferent. I work full-time, so there are invariably weeks that I fall behind and consequently my HW grade dips. But because of the high weighting, the effect on my overall grade is non-negligible. Conversely, I usually take a few days off prior to exams, so I fare better on them and might've been better off with a higher exam weighting. Regardless, this class is brutal so it's going to suck either way. The material is extremely dense and high-paced. Assignments are extremely difficult and take a really long time to unpack. Even then, the nature of algorithm design is such that you're never really sure if there are no holes in your logic. I'm fortunate that the TAs in my semester were very helpful and lenient in grading. But there's no getting around it - you'll have to suffer through this course as a rite of passage. But don't be disheartened. All of us who have come before you have gone through the same trials and come out battered but alive. Knowledge about algorithms is absolutely essential and I'm glad that I learned it.
+
+Summer 2021
+Very Hard
+Neutral
+20 hrs/wk
+CIT-596: Algorithms & Computation
+8/30/2022, 4:46:34 PM
+Well-done lecture videos (except for maybe the last 2 weeks). Challenging homework problem sets that I really enjoyed which required some creativity. If you do all of the homework material on your own, get the correct solutions, and understand why your answers are correct, you will be in a good position to succeed on exams.
+
+As for the professor, Dr. Lutz was very responsive. I only went to a few of his office hours; he wasn't the most dynamic professor but was able to quickly answer my questions. I didn't attend too many of the recitations and mainly supplemented my learning with MIT OpenCourseware lecture videos on Youtube.
+
+Overall, I found the material to be interesting, the homeworks to be a lot of fun, and the course to be well-run.
+
+Summer 2022
+Medium
+Liked
+12 hrs/wk

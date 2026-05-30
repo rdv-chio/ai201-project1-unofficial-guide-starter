@@ -1,0 +1,378 @@
+Reviews
+
+34
+Avg. Difficulty
+
+3.26
+Avg. Workload
+
+15.31
+Avg. Rating
+
+4.18
+CIS-521: Artificial Intelligence
+5/3/2023, 11:52:34 PM
+Interesting course! I generally liked the lectures. They give a broad overview. For future editions of the course, it would be great to slim down the "old" AI stuff such as BFS, DFS applications and focus more on contemporary applications of AI for instance cognitive cloud services.
+
+I was disappointed in the quality management of the course. Latex expressions not properly compiled in most of the HWs, errors in exam questions, errors in master solution of the exam, inflexible autograding.
+
+Spring 2023
+Medium
+Neutral
+10 hrs/wk
+CIS-521: Artificial Intelligence
+12/28/2021, 10:34:50 AM
+Great curriculum and assignments that are relevant, fairly graded, and just the right amount of challenging. Assignments require a ton of Python. The class is admittedly more algorithm-based than statistical machine learning (there's only a couple weeks of reinforcement learning and neural nets), but still a fantastic course to take for aspiring DS or MLEs. I think the final grade reflects effort, as it is heavily based on homework, which you could reasonably get 90+ on all with effort.
+
+Fall 2021
+Hard
+Strongly Liked
+12 hrs/wk
+CIS-521: Artificial Intelligence
+11/23/2022, 8:16:33 AM
+This is a great class that allowed me to become comfortable with python and also laid out the fundamentals of machine learning algorithms.
+
+Each assignment was a thoughtfully crafted puzzle, and the TAs were very helpful when I got stuck. The first 1-3 weeks focused on getting a solid foundation i python, and afterwards the assignments were focused around translating algorithms into code.
+
+Fall 2022
+Hard
+Strongly Liked
+15 hrs/wk
+CIS-521: Artificial Intelligence
+12/28/2021, 3:06:35 PM
+Interesting subject matter and reasonable workload for an elective. If you have a decent grasp of Python the first several assignments are fairly simple - mostly writing functions to perform different arithmetic operations and/or searches. TAs held recitations where they more or less went over the expected answer in Pseudocode and these were immensely helpful. The course does a great job of introducing you to a variety of concepts in traditional AI (A* Search, Minimax, etc.) and some of the more interesting concepts going on in Machine Learning (Reinforcement Learning, Neural Networks, Natural Language Processing). It was also good exposure to a variety of helpful Python libraries like NumPy, PyTorch, and several NLP libraries. There were also a ton of extra credit opportunities, but the course itself was weighted so that you could already have a very high grade from just doing the HW and weekly quizzes - unlimited submissions were allowed for both.
+
+Fall 2021
+Easy
+Liked
+5 hrs/wk
+CIS-521: Artificial Intelligence
+11/29/2022, 1:48:06 PM
+My favorite elective course so far. I felt I have learned a lot and I especially enjoy the weekly assignments.
+
+Summer 2022
+Hard
+Strongly Liked
+10 hrs/wk
+CIS-521: Artificial Intelligence
+12/19/2023, 7:45:08 AM
+Like so many of the courses, this one is a bit hard for me to rate. From the aspect of theory and concepts, I thought that this course was amazing. The textbook is thick and dense, but quite complete. If you liked CIT5960, you'll probably love this course. If not, then you may not like it as much as the ratings would lead you to believe. From the aspect of practicality, I think that it was highly practical for my personal learning goals, but likely not practical for the average student's goals. From the aspect of quality control, the course needs a bit more of that.
+
+For time and "difficulty": You can probably get away with an average of 10-12 hours per week and still get an A or high B in this course, if that's your thing. That puts this course slightly on the "easier" side. However, if you actually want to learn the material such that after 4 months you can confidently say that you have a firm grasp on AI, then this course is on the "harder" side. It really comes down to your attitude and how much effort you put in. I watched all of the lectures, read all of the assigned chapters (as well as some of the unassigned ones), and put a bit of extra effort into the homework. I did not attend office hours, but that was due to being busy. I would say that on average, I spent a solid 15+ hours per week. Some of those hours were spent slogging through some of the less exciting content in the book (some chapters took me nearly 4 hours to read). I would rate the course as medium-hard. Anyone who claims this course is "easy" is either A) happy with mediocrity and not trying very hard to actually learn beyond the bare minimum required to pass, or, B) overqualified for this program. I say this because many people in my cohort found the course to be far harder than its reputation implies.
+
+The homework for the first 2/3 of the course are excellent. I felt that they did a really great job of reinforcing the concepts in the book for a variety of algorithms. The instructions were generally clear and the autograder worked pretty well. The last 1/3 of the course was NLP focused, and this homework suffered some of the problems that abound in CIS5210. I felt that the last homework, which focused on LLMs, was a wasted of time, especially since there is whole class dedicated to NLP (CIS5210). Additionally, the NLP-focused homework had a lot of bugs and typos, leading to a bit more frustration.
+
+Quizzes were generally pretty easy, but this, I felt, sets the students up for failure on the brutal exams. Prior to our class, exams were weighted as 10%+10% of the final grade. For our class, the professor was trying to bring down the number of A's, so the exams were weighted 15%+ 15%. That would have been fine, but the exams were far harder than we anticipated they would be, mixing multiple choice and long-form constructed response. The class averages for these exams were probably around 50-60%.
+
+Overall, I think this is a great course and a must-take if you are more interested in the computer science side (i.e. more theoretical). If you want more practical skills for SWE, this might not be the best course for that.
+
+Fall 2023
+Medium
+Liked
+15 hrs/wk
+CIS-521: Artificial Intelligence
+12/13/2021, 8:12:30 AM
+Professor Chris Callison-Burch is fantastic. He is charismatic, genuinely kind, and actively giving his all to improve each iteration of the course. When changes are made that are broadly unpopular he takes the student bodies concerns into account, and truly is trying to provide a high quality course.
+
+If you are new to Python the first couple of weeks can be very heavy. The weekly assignments vary in length and in complexity. In my experience with the course, the longest assignments took 20ish hours, the shortest took 3-4 hours. I would say the average was 8-10 hours total. The assignment are engaging and interesting and well worth the effort to complete.
+
+Fall 2021
+Medium
+Strongly Liked
+14 hrs/wk
+CIS-521: Artificial Intelligence
+9/13/2024, 1:37:43 PM
+I agree with all the positive reviews, and at the same time, feel the same for those negative ones. Course is 90% similar to UC Berkeley CS188. Assignments are heavily python and very interesting. Exam includes textbooks content that never mentioned elsewhere. So if you didn't read & memorize them, you lose points. Grading is fair and there are a lot extra credit opportunities. The management should be improved.
+
+Summer 2024
+Medium
+Neutral
+18 hrs/wk
+CIS-521: Artificial Intelligence
+5/8/2023, 9:46:48 AM
+What a fun class!
+This course was an approachable introduction to AI concepts and made me a much better Python programmer. The weekly assignments were put together well and (for the most part) pretty straightforward if you read the book/watched the lectures.
+
+I wish I had taken it with CCB only because he's so well reviewed and so engaging... but overall it was a still a positive experience. Assignments allowed for unlimited attempts to the autograder, and the tests were hard but only accounted for 20% of the overall grade... which made things very manageable. The concepts were tough but the class was definitely structured for student success.
+
+Overall I would recommend - particularly if you're looking to up your Python chops.
+
+Spring 2023
+Medium
+Liked
+15 hrs/wk
+CIS-521: Artificial Intelligence
+12/29/2021, 5:57:28 PM
+Not going to delve too deep (others have mentioned a lot of comprehensive reviews) BUT if you are interested in finding out how to solve the likes of Sudoku, Pacman, finding paths -- creating a mini Google Maps of your own with different levels of difficulty -- among others, and doing so the right way (!) this is the course for you. I found the variety of tasks that AIs can do to be fascinating! A pretty steep learning curve, but a lot of extra credits so that balances out. Super enjoyable, BUT don't sleep on the extra credit assignments until it is too late (which was what I did).
+
+Fall 2021
+Medium
+Liked
+15 hrs/wk
+CIS-521: Artificial Intelligence
+12/30/2021, 8:54:09 AM
+It is quite a lot of work both in terms of length of the recorded videos as well as coding homework especially if you’re not Python savvy. But contents are very well structured and fun like other reviews have mentioned, and staffs including professor CCB were super accessible. There were also a LOT of extra credit opportunities. Quizzes were unlimited attempt, homework was unlimited submission and usually ppl get 100. Two exams 10% each, mean at ~70. One double sided cheat sheet allowed but it really doesn’t help much.
+
+Fall 2021
+Hard
+Strongly Liked
+14 hrs/wk
+CIS-521: Artificial Intelligence
+8/21/2023, 11:13:43 PM
+For someone who has no prior CS experience before taking MCIT, expect a workload of 20 hrs for the first half of the semester. The second half of the semester will be relatively less challenging as you are more familiar with python. CCB is a very good lecturer and you should always watch the lectures instead of just reading the slides. If you are unlucky, you might find yourself trapped in some bugs for a long time. However, you never find the class boring as the homework topics are super interesting and the bugs you have never let you feel completely hopeless. TAs in this class are super helpful. Extra credits will be given and you should always take them because the final exam will drag your grades down.
+
+The course content covers a lot of 'old' topics. I doubt this class will give you the ability to talk about modern AI with your CS friends. Nevertheless, the class is well structured and interesting. It gives you just the right amount of challenge.
+
+Summer 2023
+Medium
+Liked
+20 hrs/wk
+CIS-521: Artificial Intelligence
+12/10/2023, 5:14:04 AM
+The first half felt like an extension of 596, with a focus on implementing complex search algorithms. The second half is a rapid fire delivery of many different areas of AI/ML, with a ridiculous amount of content. Some weeks had full chapters from both the AI textbook and the NLP textbook.
+
+Highly recommended class, but be prepared to spend a lot of time on homework in the first half. And be prepared to do a lot of very careful reading in the second half.
+
+
+- Interesting, challenging assignments with unlimited, auto-graded submissions.
+- Assignments in first half often had big cliffs in functionality/grading.
+- Second half of the course tries to cover too much.
+- Module materials were often incorrectly numbered after changes to the course.
+- Exam weight was changed from 20% to 30% during the first week of the course.
+- Notes for exams were required to fit into a particular Colab notebook. Allowed for a lot of notes, but was not the easiest to work with.
+
+Fall 2023
+Hard
+Liked
+15 hrs/wk
+CIS-521: Artificial Intelligence
+8/22/2023, 1:46:13 PM
+This has been the best elective I've taken so far. Heavy workload towards the beginning of the class but evened out after a few weeks. I liked the content quite a bit. Certainly a broad overview. The exams are a bit tough since they are based entirely of the textbook readings which can be long. Thankfully the exams aren't weighted very heavily. No final project either. Good class to take after 596.
+
+Summer 2023
+Hard
+Liked
+15 hrs/wk
+CIS-521: Artificial Intelligence
+5/2/2022, 1:58:10 PM
+This class was mainly effort based because the quizzes and HW were multi attempts. The two exams were only worth 10% each.
+
+This course was more math heavy than I thought it would be. You don’t have to understand all of the math to get a good grade in the course but to truly understand what is happenings requires math - which I thought the lectures did a poor job at explaining, especially towards the end.
+
+The assignments vary widely in how much time they take. There are 2 (maybe 3) HWs in a row in the middle of the course were the TAs practically give you the code and therefore the assignments take less than 5 hrs. Then there are others were the instructions are vague and you have to find a lot of information out in your own. Some of the assignments have timeouts, so getting the right answer isn’t enough, the code also has to be efficient.
+
+Overall a good class. It just barely touches the surface of AI. Definitely an intro course. My Python skills really increased and my data structure skills really got locked down
+
+Spring 2022
+Medium
+Liked
+12 hrs/wk
+CIS-521: Artificial Intelligence
+12/8/2023, 9:06:48 AM
+I liked it on the whole! Really interesting course where I learned a lot. I felt like I got better as a programmer, and it was great to actually implement some algorithms from 596. CCB is a great professor (one of my favorites in MCIT) and I would definitely take another course with him. I think he explained things well. He was also very friendly and approachable in office hours. He seemed super fair as well.
+
+I thought it was harder than the overall reviews generally allude to. Earlier assignments took me a pretty long time to implement. This gets easier as the course moves on.
+
+On the whole, I think I have a much better understanding of how early and modern AI systems work (which is a laudable outcome!)
+
+Now onto the things I didn’t like:
+1. TAs weren’t great. They often canceled office hours, or didn’t know the answers to my question. Recitations were short and it seems like TAs were reading PowerPoint slides.
+2. Weighting of course changed in Fall 2023 so exams were worth more. This made getting a good grade harder.
+3. I liked the first half of the class much more than the second half. The second half becomes a 6 week survey course of machine learning techniques. It felt super rushed. There also wasn’t a great opportunity to practice based on the homework.
+4. I’m not sure the OpenAI assignment added much, unlike the earlier assignments. I would have preferred they kept the PyTorch assignment instead. The OpenAI assignment was also very expensive (wow I should buy Microsoft stock).
+
+Fall 2023
+Medium
+Liked
+12.5 hrs/wk
+CIS-521: Artificial Intelligence
+12/23/2021, 6:30:40 PM
+521 was a great class. CCB did an excellent job of balancing listening to student concerns with keeping a structured class. Considering the size of the fall semester class (570 students between online and on-campus!!), it was really well run. It's the only class where I felt like I just didn't have enough time to delve into everything I wanted to. Tons of extra credit, including EC assignments and participation in PhD projects. CCB has provided quite a bit of follow-up content for those wanting to continue on in their AI learning. I'm really happy I took this class.
+
+Fall 2021
+Medium
+Strongly Liked
+15 hrs/wk
+CIS-521: Artificial Intelligence
+12/17/2023, 8:53:26 AM
+Overall, it was a great experience, and I learned a lot from it. The first half of the course was excellent. The videos and homework were well-designed and helped me understand the power of algorithms to solve problems. It is a great course to take after 596.
+
+You can find the lecture slides online. Those slides were adapted from another AI course from Berkeley. The videos from that class are available on YouTube; you can check them and get an idea of the course.
+
+While the first half of the course on Artificial Intelligence was great, the second half was not so good. The videos could have been more straightforward, and there was no homework for some of the modules. It was an opportunity missed to reinforce our understanding of the topics covered in class.
+
+I took the course with CCB, and while I appreciated the effort put into the course, some improvements could be made to the second half of the curriculum. On a positive note, some extra credit assignments allowed us to follow seminars related to AI from the University through Zoom. CBB also shared the videos from the live lectures given each week at the same time at the university.
+
+I recommend this course, especially for the first half.
+
+Fall 2023
+Hard
+Liked
+15 hrs/wk
+CIS-521: Artificial Intelligence
+12/18/2023, 9:44:10 PM
+This is one of the most highly rated courses at MCIT, and its reputation is well-deserved. The subject matter is fascinating. The programming assignments are rewarding and help reinforce the theory taught in the lectures. Most importantly, CCB is just delightful as a professor. His lectures really bring out the excitement and the magic that is hidden in the algorithms.
+
+If you thought artificial intelligence was just machine learning, think again. If you thought that search algorithms are just good for things like map search, prepare to have your mind blown. You will learn to cast problems that don’t look anything like search as search problems and write the code to solve them. The first half of the course should be called applied algorithms. If the core curriculum were to be expanded to 7 courses, this should be the seventh course. Below are some specifics that make this course great. Do not mistake great for easy.
+
+1. CCB’s lectures and office hours.
+2. Great assignments that will challenge you and make you a better programmer. You get unlimited submissions to the auto-grader. If you allocate enough time for each assignment (8 - 18 hours for me), you will experience the pleasure of turning the auto-grader all green.
+3. Unlimited quiz submissions.
+4. Two non-cumulative open note exams worth 15% each. Because nearly everyone gets a perfect or near-perfect score on 2 and 3, the exams are the only way for the professor to broaden the grade distribution. So the exams are hard and stressful, but CCB is very fair about adjusting the final grade. In our cohort the letter grade distribution was 25 A+, 74 A, 29 A-, 28 B+, 18 B, 6 B-, 3 C+, 1 C, 1 D, 1 I.
+5. Extra credits that add 3 points to your final grade.
+
+The caveat about the open note exams is that the notes have to be taken in Colab, which may be great for many things but is by far the worst note-taking platform. The reason for this is that the Ph.D. students use your Colab notes as raw material for their language models research. The only other minor qualm is that the extra credits (except the ones awarded for attending guest lectures) are of little educational value and are basically free points. Aside from these minor issues, this is really a fantastic course. So don’t stress it out. Enjoy the ride but study hard.
+
+Here are some resources to help you succeed:
+
+1. For the second half of the course, some students in our cohort created a question bank of over 100 exam-like questions and answers derived from the lectures and the required reading. It is available as a public Notion page at https://mcit.notion.site/CIS-5210-Question-Bank-cf290053147a4662834f4ca47ea654d3?pvs=4. Consider encouraging your cohort to do something similar for the first half.
+
+2. The course is largely modeled after a course at UC Berkeley. You will find invaluable worksheets and solutions for many of the topics taught in 521 at https://inst.eecs.berkeley.edu/~cs188/fa23/
+
+3. If you want to get a head start on 521, visit its web site at https://artificial-intelligence-class.org, where you can find recorded lectures, assignments, and recitations.
+
+
+Fall 2023
+Medium
+Strongly Liked
+20 hrs/wk
+CIS-521: Artificial Intelligence
+8/21/2023, 8:30:03 AM
+One of my favorite courses in the program!
+
+Fall 2022
+Medium
+Strongly Liked
+7 hrs/wk
+CIS-521: Artificial Intelligence
+8/27/2021, 9:09:52 AM
+The learning curve for both python syntax and algorithm implementation was steep at the beginning of the course. Workload is steady; expect to write about 15 functions/week in this programming-heavy course. The prof is a GEM, he makes the course fun, he clearly has a passion for teaching that comes through in lectures and office hours. Although it was difficult for me, this was one of the MCITO courses I enjoyed the most.
+
+Summer 2021
+Hard
+Strongly Liked
+20 hrs/wk
+CIS-521: Artificial Intelligence
+8/28/2021, 6:34:46 PM
+This is a well-organized, quality course, but by no means an easy one. Python has a reputation as a relatively simple language, but the level required here goes well beyond nested for loops. If you're not already comfortable with, say, dictionary comprehension, OOP, and quickly getting up to speed with machine learning libraries, you'll have your work cut out for you. It's a programming-heavy class, with 10 assignments amounting to 70% of the overall grade. By contrast, the two midterms are noncumulative, open-note, and only count for 20% of the grade. These exams can still be quite difficult, though, since they go into the weeds of the course textbook and cite algorithms and concepts missing from the lectures. Bottom line: it's a class with either an assignment or a midterm due every week. For the sake of full disclosure, I wouldn't have minded a lighter course for my final semester, but I don't regret taking it either. The many positives include genuinely interesting material, fun and well-thought-out assignments, and an enthusiastic Professor. If you're really fluent in Python and looking to go into AI/ML professionally (or academically), this class is a no-brainer. If not, you should still enjoy and get a lot out of it, but be prepared for a more hectic pace and workload.
+
+Summer 2021
+Medium
+Liked
+15 hrs/wk
+CIS-521: Artificial Intelligence
+5/4/2022, 5:32:53 AM
+My favorite elective in this program. I'm glad I took it with CCB. He is expert in the field, yet his lectures were easy to understand. Not only did he find us opportunity to listen to seminars by different professors in AI world, he also offered lots of AI related research as extra credit. The homework was fun (for the first half of semester) and helped with my internship hunting since it covered some search algorithms and implementation. Exams were open note but since homework are 100% autograded, it's not hard to get an A if you put sometime into the homework. I enjoyed the course, and would recommend to anyone who's interested in practicing coding, learning introductory AI, or even just find a fun course.
+
+Fall 2021
+Easy
+Strongly Liked
+15 hrs/wk
+CIS-521: Artificial Intelligence
+12/17/2023, 6:58:12 PM
+Frankly, I have no idea where all the good reviews for this course could have come from based on the sentiments of myself and people who actually took this course this term. I took this course assuming the best thanks to these reviews but it ended up very very (very) differently. In fact, this is probably the worst course I've taken in mcit.
+
+Firstly, if you are taking this course expecting to learn something about modern AI developments, forget it. It doesn't teach you anything about that. In fact, expect a very poorly designed, old-ish curriculum where you are dumped entire textbook chapters with no prioritization of concepts. Also, you will also be told lectures do not cover all the concepts that will be tested, and that you need to read the textbook.
+
+Secondly, if you are hoping for an easy A, this course is also not it. This was my last course, and it was far from an easy A relative to all other electives I've taken. This was mostly thanks to the very badly designed and scoped midterm and final exams, whose weightages got raised this term to 30% of our grade. You are basically expected to study 200-300 pages of textbook into their specific details for the exam, because you are told anything can be tested. The exams themselves tested very specific definitions and or unimportant details instead of prioritizing important concepts. This is also why it was hard to learn - given the vast amount of breadth to cover, its not possible to understand any concept in depth unless you put in a lot of hours into it. This is not helped by the fact that the textbook is very hard to read. Basic concepts are explained so poorly or with such difficult language that I had to dump entire chapters into chatgpt4 to understand anything.
+
+Lastly, adding onto point 2, expect to spend a lot of time on this course. On top of the challenging exam prep, the weekly assignments are not easy as how the reviews have painted them out to be. In reality, they are time consuming, sometimes ridiculously challenging and hard to obtain full marks on thanks to obscure edge cases not helped by poorly worded test outputs like "False is True". Another contributor to the time expected is the exam cheatsheets, which you might expect to spend a few weeks summarizing. Instead of writing the cheatsheet in any way you want to maximize your learning or emphasize key concepts, we were forced to spend a few weeks to summarize each textbook chapter sequentially in a ridiculously long colab document which is not optimized for exams.
+
+All in all, I do not see any reason to recommend this course until they spend time improving the curriculum and exams.
+
+Fall 2023
+Hard
+Strongly Disliked
+20 hrs/wk
+CIS-521: Artificial Intelligence
+8/23/2022, 7:25:44 PM
+Great class that I would recommend to anyone. It has some of the best and most engaging assignments in the whole program. Chris is a great instructor and a very nice person. The textbooks used were genuinely interesting. The only negative thing I can say is that the exams felt a little unfair, yet each one only counts 10% of your course grade. Most assignments are autograded and the last assignment teaches how to use GPT-3 which is an absolutely fascinating tool. If you are considering this elective, do not hesitate to take it!
+
+Summer 2022
+Medium
+Strongly Liked
+15 hrs/wk
+CIS-521: Artificial Intelligence
+5/2/2022, 10:16:00 AM
+This class would be a great follow up class if you enjoy 594 (algorithm part) and 596. The structure of the course grade is simply fair. Heavier weightage for weekly Gradescope assignments that allow for multiple attempts if you really want to strive for good grades (plus extra credits AI assignments to cover up for your 20% midterm+final short fall). Though the assignment instructions sometimes require a bit of deciphering to get the final 5-20% test cases to pass, you would save a lot of time to ask or check in Piazza if you have dabbled on the problem for more than 1-2 hours. I personally have completed few AI/ML/Computer Vision courses elsewhere, but this class really wants you to get your hands dirty to understand how the algorithm works with exams to really check if you grasp the concept behind each topics to just rather know how to apply ML on dataset/problems. This is the course when you finished, you have the confidence and the mastery to visualize the problems and going through the steps to build your agent/perceptron/NN/NLP to solve those problems.
+
+Spring 2022
+Hard
+Strongly Liked
+12 hrs/wk
+CIS-521: Artificial Intelligence
+5/1/2022, 9:56:21 AM
+I overall enjoyed this course - it is challenging and sometimes absurdly time-consuming, but full of interesting projects and I appreciated the grading scale that focused on homework assignments rather than exams (midterm and final were only weighted 10% each). I struggled a bit in the second half of the course as things got more mathematical, but still feel like I learned a lot and have a good foundation for going deeper into particular areas of AI. My biggest complaint is that some assignments only took 1-2 hours, while others took over 20, so it was hard to plan for in that sense. Would still recommend to anyone as a great elective!
+
+Spring 2022
+Medium
+Liked
+15 hrs/wk
+CIS-521: Artificial Intelligence
+7/15/2024, 9:13:30 PM
+tyivhhfggfk
+
+Fall 2020
+Easy
+Strongly Disliked
+57 hrs/wk
+CIS-521: Artificial Intelligence
+5/1/2023, 11:43:34 AM
+This course is very easy for two reasons. First, the structure heavily weights auto-graded assignments: only 20% of the grade is exams. Getting an A+ on every assignment is straightforward. Second, the content is pretty shallow. It's a survey course, introducing you to a vast field of research. It would be impossible to go too deeply into any one topic. As a result, you can complete assignments without meaningfully understanding the material.
+
+Nonetheless, the course was interesting at times. In particular, it helped demystify neural networks for me, pulling back the curtain on LLMs. Understanding GPT is a real-life benefit for everyone, even if you're not working in machine learning or data science.
+
+I recommend taking this course directly after 596. Search algorithms and probability feature prominently. Having that material fresh in my head was helpful.
+
+Spring 2023
+Easy
+Neutral
+7 hrs/wk
+CIS-521: Artificial Intelligence
+12/12/2023, 10:32:56 AM
+First half of the course has some time-consuming assignments. Second half of the course, I often felt like I didn't fully understand the concepts, but was still able to do the graded assignments. In general, class has some hard concepts but grading is not too hard. For better or for worse, the class doesn't feel like it's changed at all based on the recent AI boom; it more so goes through a "history" of AI techniques. CCB is a nice professor.
+
+Fall 2023
+Hard
+Liked
+18 hrs/wk
+CIS-521: Artificial Intelligence
+7/27/2021, 7:15:09 AM
+Overall a great class. Its tough in the beginning if you're not strong in Python. It will definitely level up your Python skills. The assignments range from very easy to pretty difficult. In particular, the Week 1 intro to python assignment is a doozy, and one of the hardest in the course IMHO.
+
+For the harder assignments, I would say a lot of the difficulty comes from subtle implementation details in Python, and not the concepts themselves.
+
+This is a very broad overview of the field of AI, and the instructor makes it really fun to learn. The lectures help you understand the material, and the textbook is a must read (and also a good read). Generally, if the professor asks you to read something in this class, do it.
+
+Good to pair with another class, but pace yourself in the beginning. The exams are low stress and fair (MC and short answer).
+
+Spring 2021
+Medium
+Strongly Liked
+10 hrs/wk
+CIS-521: Artificial Intelligence
+12/28/2021, 4:37:12 PM
+Overall, I enjoyed this class, I am glad I took it, and I am glad it's over. IN GENERAL: I gained a working knowledge of Python and a basic understanding of search algorithms in AI and reinforcement learning. Much of the content was interesting to me because it built on concepts I learned earlier (search algorithms in 594/596). I liked the textbook: it's accessible and incorporates worked examples that make the content clear. I appreciate the professor's approach to grading: two exams are worth 10% each (the rest came from 10 HWs and weekly quizzes, which one could submit multiple times), and he was generous with extra credit. I found the content in last few weeks to be largely incomprehensible and didn't understand what I was doing in much of the last two assignments. TIME COMMITMENT: I am relatively new to programming, and Python was new to me when I began the class. So, the first three assignments took me 20-30+ hours each, and the last few took me 20+ hours each. Most other assignments didn't take nearly as long. For some of the earlier assignments, I started too early (before the HW recitations), which were helpful and would have saved some time, so I do recommend attending those.
+
+Fall 2021
+Very Hard
+Liked
+17 hrs/wk
+CIS-521: Artificial Intelligence
+8/27/2021, 9:36:06 AM
+This was an awesome class, and the most fun I've had in MCIT. The class provides a very good overview of AI, and Professor Callison-Burch is an excellent teacher. If you have a good grasp of Python, the workload will be moderate. If you're new to Python, you'll need to pick it up quickly and should treat this as a class with a heavy workload.
+
+Like most MCIT courses, the second half of the course tends to be more difficult, and there are a lot more math equations in the second half. While some of the algorithms discussed in the second half are ultimately based on linear algebra and multivariable calculus, the material is presented in a way that you'll be fine if you don't know/remember how to multiply a matrix or take a partial derivative. Finally, it's a good idea to start early on the final homework assignment, which will require getting up to speed on PyTorch--honestly, not starting early on that last homework is my biggest regret from this class.
+
+Summer 2021
+Medium
+Strongly Liked
+15 hrs/wk
+CIS-521: Artificial Intelligence
+8/23/2022, 8:53:22 PM
+Interesting material. Passionate and engaging professor. Assignments are fair and satisfying and most use an Autograder. Exams are tough but open note and only worth 10% each. Assignments are 70% altogether. Quizzes/Flash cards are the remaining 10% of grade. My semester, there were lots of Extra Credit opportunities.
+
+Summer 2022
+Medium
+Strongly Liked
+10 hrs/wk

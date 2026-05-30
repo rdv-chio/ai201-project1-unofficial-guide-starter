@@ -1,0 +1,890 @@
+Reviews
+
+90
+Avg. Difficulty
+
+2.58
+Avg. Workload
+
+11.61
+Avg. Rating
+
+3.93
+CIT-591: Introduction to Software Development
+5/4/2022, 9:43:24 PM
+I'm a light programmer in Python so I feel good about the first half of the course. I don't even have to go over the course to complete the homework and also it only takes less than 4hr/w or so.
+
+But the second half of the course is horrible to me. I barely know nothing about java and transition of the programming habits from Python to Java was harder than I thought. Normally it took me more time to understand how classes and methods works than really completing the programs and debugging.
+
+In this case, I have to say the contents of courses still need to be improved. Or it would be like this, not useful for a-little-experienced programmer and not understandable for completely starters.
+
+Spring 2022
+Medium
+Neutral
+10 hrs/wk
+CIT-591: Introduction to Software Development
+3/21/2021, 5:27:48 PM
+I came in with zero experience in coding and found this course to be very difficult. I like that Python was a very good introduction and overall the class is enjoyable. I feel as though the homework is very difficult for what we’re learning for the week though.
+
+Spring 2021
+Hard
+Liked
+25 hrs/wk
+CIT-591: Introduction to Software Development
+8/28/2022, 1:45:44 PM
+If you are someone who has already wrote another language for years(Python and R for me), it would not be a hard class for you.
+
+Spring 2022
+Easy
+Liked
+5 hrs/wk
+CIT-591: Introduction to Software Development
+5/3/2021, 8:23:43 PM
+I think it was a great course (and a great experiment). The Fall 2020 version of this course is, from what I was told, one of the first CIT 591 with both Python and Java usage. Python was generally easy, but then going to Java was quite challenging. The only downside is that the course only covered data structures in Java in like 1 or 2 weeks (while in 593 we had a full 2 months talking about each data structure) and thus for Java newbies creating such structures were a bit challenging, while in Python we can easily create lists/dictionaries/sets/such.
+
+Fall 2020
+Medium
+Liked
+15 hrs/wk
+CIT-591: Introduction to Software Development
+5/3/2023, 5:03:11 PM
+The hours required per week and difficulty level of this intro course can vary a lot depending on your prior programming experience. I did not have much prior experience and found some of the homework assignments to be challenging and time consuming. Guidance from TAs was really helpful and I was impressed with the quality and availability of the TAs in this course. The second half of the class focuses on Java and I found this section to be more difficult than the first half of the class which focuses on Python. I felt outside supplemental resources were valuable for explaining object-oriented programming concepts more clearly than the lectures. Overall, even if you don't have much prior coding experience, if you put in the time and effort and go to office hours to ask questions, it's possible to do well in this class.
+
+Spring 2023
+Medium
+Liked
+15 hrs/wk
+CIT-591: Introduction to Software Development
+11/19/2020, 2:30:51 PM
+Great intro to programming (had never formally coded before). Would be more challenging if I didn't have more detailed Excel experience. Good textbook, good lectures, projects were challenging but not impossibly so. Recitations were critical for success.
+
+Fall 2019
+Medium
+Liked
+10 hrs/wk
+CIT-591: Introduction to Software Development
+5/11/2021, 8:51:51 AM
+Loved this class! I came in with some light programming experience, but not in either of the languages covered in class. Python is so intuitive, it's a breath of fresh air if you're moving from more intense languages (I've only ever done a bit of C). The homework assignments were a lot of fun, and weren't too challenging. I thought the midterm was very easy, but struggled a bit on the final. Just because the final is open-book doesn't mean it's going to be easy!! The class itself seemed well structured, and I liked the way material was organized. I think this is a great introductory course to the program
+
+Spring 2021
+Easy
+Strongly Liked
+8 hrs/wk
+CIT-591: Introduction to Software Development
+11/22/2022, 5:39:54 PM
+A moderately light course to introduce students to software engineering in the MCIT program. First half covers Python while second half covers Java. Homework is fun but education. Of the homework assignments, the first 7 are solo projects while are last 2 can be done in collaboration with a partner. Grading is fair. The midterm and the final are take-home exams, and we are given more than enough time to complete them over the span of a few days. Overall well organised video lectures. I have found the recitation and open office hours to be very useful. Instructor is very approachable too.
+
+Fall 2022
+Very Easy
+Strongly Liked
+12 hrs/wk
+CIT-591: Introduction to Software Development
+11/16/2020, 10:38:55 AM
+Excellent introduction to programming course. I have previous programming experience so I did not find the assignments too hard, however, I can see why someone who has never programmed before can be overwhelmed a little by the projects. Great instructor and great depth of material covered.
+
+Fall 2020
+Easy
+Strongly Liked
+7 hrs/wk
+CIT-591: Introduction to Software Development
+12/16/2020, 9:30:56 AM
+591 is a good introduction to both Python and Java, but unfortunately lacks depth in both. The assignments were both challenging and fun, particularly towards the end of the semester. It's easy to do well in this class just doing the minimum (quizzes and assignments), but the optional practice opportunities are a great way to get more out of the class. Assignments are bi-weekly and took me around 10 hours each.
+
+Fall 2020
+Easy
+Liked
+6 hrs/wk
+CIT-591: Introduction to Software Development
+5/3/2021, 2:03:22 PM
+The assignments are fun, but the course is ineffective at teaching the material. The first half of the course is done in python, which I had a bit of a background in so it was not that hard, but the second half is in Java where we moved way too quickly through the material and the lessons were not great at helping students understand the material.
+
+Spring 2021
+Hard
+Disliked
+15 hrs/wk
+CIT-591: Introduction to Software Development
+5/7/2022, 5:24:37 AM
+CIT 591 is extremely well designed and supported by the course staffs. From professor, to head TA, to the entire TA Teams, the course staffs are fantastic. They offer tremendous support for the students. The assignments are designed perfectly, which enable students to further enhance coding skills and design skills. Most of the TA Teams are so knowledgable and helpful. I learned a lot from the private office hours. The only potential advice is that midterm and final can be organized in a more challenging way, for instance, placing a time constraint or making it closed book. The current open book take home offers great flexibility, but a little bit too easy compared to the difficulty level of the assignments.
+
+Spring 2022
+Easy
+Strongly Liked
+7 hrs/wk
+CIT-591: Introduction to Software Development
+12/29/2020, 1:30:41 PM
+Provided a great intro to a lot of topics with excellent assignments that really solidified the information. The course content, however, lacked context when introducing new concepts so the lectures themselves were abstract until you got to the assignments.Be ware of the autograder. It's a black box that has a major impact on grades and causes lots of frustration especially when passing all the provided unit tests and getting high marks from the TA. For your assignments, ask lots of questions about discrepancies between the TA grade and the autograder grade so you can develop a better intuition for how they craft the auto grader unit tests. Ultimately, this is something that needs to be addressed because it flies in the face of good unit testing practices, isn't reflective of how unit testing works in the real world, and doesn't provide a chance to learn why you're failing automated tests but still meeting the assignment requirements.
+
+Fall 2020
+Medium
+Liked
+10 hrs/wk
+CIT-591: Introduction to Software Development
+4/26/2023, 6:27:17 PM
+I love this course. I have 0 background in Java, which makes the course a bit harder. But I really enjoyed it and the lectures are well prepared. The TAs are almost always helpful. Thank you everyone for making this course great.
+
+Spring 2023
+Hard
+Strongly Liked
+15 hrs/wk
+CIT-591: Introduction to Software Development
+8/15/2022, 4:16:23 PM
+In retrospect this class was very decent (I am writing this in reflection upon graduating). Starting out in the program, this class is a very good introduction to "this is how stem classes work", and programming of course. I learned to be extremely detail oriented, test for every possible case, and to build stamina in preparation for exams. I remember being very overwhelmed taking this as my first class in the program while working full-time. 3 years later, I would say I am now just used to working weekends and nights to finish assignments and it doesn't feel nearly as terrifying and stressful as it did that first semester. If you have concerns, they are valid. Have a good support system, meal prep, schedule your time. You can do this!
+
+Fall 2020
+Medium
+Liked
+20 hrs/wk
+CIT-591: Introduction to Software Development
+12/28/2021, 2:56:19 PM
+The Java portion of the class is definitely trickier than the Python section and the assignments get longer towards the end. But the grading is fair and it was a great intro to both languages.
+
+Fall 2021
+Easy
+Liked
+8 hrs/wk
+CIT-591: Introduction to Software Development
+12/9/2023, 4:23:31 PM
+If you did the Coursera MOOCs, this class is a gentle step up in difficulty. For someone who is completely brand new to programming, this class ramps up quickly and you could feel overwhelmed. I suggest the MOOCs and self studying before taking this class. I personally did not sweat at all for this class because I did the MOOCs and self-study.
+
+Fall 2023
+Easy
+Liked
+10 hrs/wk
+CIT-591: Introduction to Software Development
+11/20/2023, 11:16:35 PM
+I had some experience with Python prior to this course and no Java experience. I find this course very doable in terms of lecture content, but the homework assignments are exponentially harder and the learning curve shoots up week by week. The quality of the lectures is alright, but the course lacks immersive content. It's just lecture after lecture videos, so that can be improved.
+
+Biggest takeaway is that the homeworks take at least 10+ hours due to the length and requirements. I think this is unnecessarily taxing and students need shorter, immersive tasks like ones you find on bootcamps.
+
+Fall 2023
+Hard
+Neutral
+12 hrs/wk
+CIT-591: Introduction to Software Development
+3/24/2021, 8:46:48 PM
+The second half (Java) might be little bit challenging for those get used to the hassle-free Python
+
+Fall 2020
+Medium
+Liked
+8 hrs/wk
+CIT-591: Introduction to Software Development
+4/27/2021, 10:37:00 AM
+I came into this course having taken several MOOC's in the Python Programming Language and one MOOC in Object Oriented Programming with Java. While I was still exposed to new ideas and mindsets through this course, I believe this prior preparation made the course very easy. There were a few projects that ate up a lot of time (15 - 20 hours or so a piece) but by and large the content was digestible within a couple hours each week.
+
+
+For those interested in MCIT Online, and curious what MOOC's might be good to try on your path to this program, I completed the following MOOC's in the order listed:
+
+1)Python for Everyone Specialization - Coursera - University of Michigan - Professor is Fantastic.
+2)Python 3 Programming Specialization - Coursera - University of Michigan - Good Foundation.
+3)Introduction to Computer Science and Programming Using Python - edX - MITX - Very Rigorous.
+4)Object Oriented Programming in Java Specialization - Coursera - Duke University - Great Foundation.
+
+Spring 2021
+Very Easy
+Liked
+5 hrs/wk
+CIT-591: Introduction to Software Development
+5/3/2021, 7:24:29 AM
+I came into the course with a bit of prior programming knowledge and found the course to be relatively easy. However, I do agree with many others that the course material is lacking for those with little programming experience. For people taking the course in the future, it might be a good idea to take another introductory programming MOOC just to gain some familiarity with basic programming so that the course won't be too overwhelming.
+
+Spring 2021
+Easy
+Liked
+7 hrs/wk
+CIT-591: Introduction to Software Development
+5/3/2021, 7:16:22 AM
+The first half of the course is taught in Python and the second half in Java. My only experience with programming was from a couple months before classes began when I learned a bit of Python on my own. This helped me tremendously in the first half of the semester where I didn't have to spend much time learning new materials and just used my prior knowledge to do the assignments. If I had not learned Python beforehand, I'd say the learning curve would've been quite steep. There's a big leap from week to week, and I don't think the course materials were adequate. The midterm was in Python only and was take home so there was little stress.
+
+I started struggling a bit more when we started learning Java just because I've had zero experience with it. I ended up purchasing a Java class on Udemy which helped me get up to speed. The content provided by this class was again insufficient. They barely scratch the surface and rarely explain to students the "why". Definitely expect to look for outside resources when taking this class. It just seems so ironic that I learned all my programming through a $10 Udemy course rather than the $2500 class I paid for. The final exam was open book and on Java only, but due to bad integration of VS Code and Codio, I know many students had terrible technical issues (luckily I took it on the last day so most issues were ironed out by then). We couldn't even set breakpoints for most of our code though so it was back to print statements for debugging which was painful. I hope the technical issues get resolved for future semesters.
+
+I'm not saying the class was all that bad though. I thought the assignments were fun and the overall structure of a proper class have really motivated me to learn. The prof seems like a really nice guy and he is really willing to help during his office hours, which usually go for almost 2 hours. The TAs were also very helpful. I think there's a lot of room for improvement, and improvement takes time!
+
+Spring 2021
+Medium
+Neutral
+10 hrs/wk
+CIT-591: Introduction to Software Development
+1/9/2023, 6:28:50 PM
+It is effective at teaching you Python and Java. The assignments are pretty clear and serve as great practice for getting comfortable programming. They can become time consuming if you get stuck debugging, or if you go into the assignment without a good understanding of what you need to do. With that said, the grading is pretty generous, and the exams tend to be easier than the homework assignments.
+
+Fall 2022
+Easy
+Strongly Liked
+15 hrs/wk
+CIT-591: Introduction to Software Development
+11/15/2020, 7:36:21 PM
+This is a fantastic class, and Brandon is a fantastic instructor. Yes, you start fast and furious with Python in the first term and Java in the second, but the course structure and the quality of the instruction/projects makes it quite enjoyable. This is my weekly breath of fresh air after 592.
+
+Fall 2020
+Easy
+Strongly Liked
+15 hrs/wk
+CIT-591: Introduction to Software Development
+3/11/2023, 8:25:49 AM
+Overall a fantastic introduction to software development - well taught, well graded, and well paced. Coming in with some coding experience certainly made the earlier half easier, but at a certain point, the assignments become more robust and time-intensive. Plus, Java classes require you to think a bit differently. The problems may not always prove logically difficult, but the sheer practice and repetition even made the more seasoned developers better. Especially with the framework of most code already provided, it becomes more of a fill-in-the blanks practice. No regrets for me whatsoever.
+
+Fall 2022
+Easy
+Strongly Liked
+10 hrs/wk
+CIT-591: Introduction to Software Development
+5/11/2021, 8:47:47 AM
+I took advantage of the preview weeks for this course and found the course load very manageable until the very end of the course. I was a novice to programming at the onset of this course and left comfortable with the ability to pick up new programming languages in the future.
+
+Spring 2021
+Medium
+Liked
+10 hrs/wk
+CIT-591: Introduction to Software Development
+5/4/2023, 2:36:10 AM
+591 is a great introductory course to programming in Python and Java. The assignments were clearly written and the TA support staff is very robust. If you have programmed before, this class is straightforward! If you haven't programmed before, I would recommend learning a little bit of coding before class starts. For people completely new to coding, the class moves at a somewhat fast pace. The Java portion can be daunting if you are unfamiliar to OOP languages. Overall, this was a great class with fun assignments too!
+
+Spring 2023
+Medium
+Strongly Liked
+8 hrs/wk
+CIT-591: Introduction to Software Development
+5/2/2022, 9:12:20 AM
+Excellent content and instructor. Very much enjoyed the assignments. My biggest advice would be to not simply skim through the lectures. Make sure you understand the content.
+
+I went back a year or so later and read the recommended text book - Head First Java. I sorely wish I would have spent more time with this textbook while I was in the class! There are a ton of useful and memorable analogies within the book that greatly enhanced my understanding of Object-Oriented Programming.
+
+Spring 2022
+Medium
+Strongly Liked
+12 hrs/wk
+CIT-591: Introduction to Software Development
+12/28/2021, 11:56:00 AM
+Awesome and fun class. It's hard to judge how much time this class takes, some weeks are very light, some took me over 15h.
+
+Fall 2021
+Easy
+Strongly Liked
+12 hrs/wk
+CIT-591: Introduction to Software Development
+8/31/2021, 9:22:35 PM
+Brandon is nice.
+
+Fall 2020
+Medium
+Liked
+10 hrs/wk
+CIT-591: Introduction to Software Development
+4/1/2022, 11:09:29 AM
+I believe since this is the first course it seems like most reviews depend on the amount of programming experience the student has prior to the course.
+for me, I just had the MOOC problem solving and some python experience from Udemy.
+I had really put in the efforts and clocked about 25 hrs per week, and went deep on learning the intricacies of setting up IDEs and everything on the lectures. after all I believe it depends on what you put in for the results to show.
+I would recommend attending the intstructor office hours, The professor in Fall 2021(I am not sure if we are allowed to mention names here but he is pretty much the only one teaching the course until now) is super awesome.
+and often the professor's office hours have only 12-20 students attending at least for my cohort.
+Which is amazing it is even better than an in-person class to get that kind of face time.
+The professor is amazing at keeping everyone on pace, and taking all kinds of questions.
+Especially after the second half of the course, it gets better since the ones attending are pretty much sticking with it.
+I am glad I did not try to waive out of it, and I gained a solid base for CIT-5940, also another excellent class with another big brains professor, and amazing welcoming office hours.
+I highly recommend jumping and experimenting with your own ideas based on the course.
+
+Fall 2021
+Medium
+Strongly Liked
+25 hrs/wk
+CIT-591: Introduction to Software Development
+5/12/2021, 1:52:25 PM
+I've never coded before this class.
+
+I found the lecture content lacked any kind of grounding background information. The learn by doing didn't work for me because I wasn't equipped with all the tools I needed to succeed. There was little information about how to actually think about and solve the problems we were asked to do in our homework, and the grading feedback was infuriatingly sparse. I don't feel equipped to code successfully in other classes, and I worry about my ability to succeed in this degree because of the lack of support.
+
+The professor is good. But some of the TAs and their lack of feedback makes it near impossible to know what you did wrong or how to improve. Thankfully, I didn't fail the class, but I wish they'd make this more accessible to absolute beginners.
+
+And don't get me started on ProctorU.
+
+Spring 2021
+Very Hard
+Disliked
+30 hrs/wk
+CIT-591: Introduction to Software Development
+1/4/2022, 3:06:48 PM
+I came into this course with some Python experience and a background in Control System Programming. Overall the course was easy with my background. The homework varied in complexity and some required substantially more time than others. On average it was probably 10 hours or less per week (I believe one homework took around 20hours but we had multiple weeks to complete that homework). Starting the homework as early as possible is helpful. This class did not require any external resources. Creating your own cheat sheet while going through the lectures is helpful as you then have a nice quick reference to look at once you complete the course.
+
+Fall 2021
+Easy
+Liked
+10 hrs/wk
+CIT-591: Introduction to Software Development
+2/8/2022, 5:15:53 PM
+For context, I had taken introductory programming classes in college a few years ago and come from a mechanical engineering background.
+I really liked the introduction to Python. It's perfect as a first experience and provides the basic knowledge needed to further learn it by yourself once the course is done. In the middle of the semester there was a switch to Java which I didn't find extremely hard (the teacher provides the starter code and, with some observation, you can find your way around it). Assignments were medium difficulty, except one in the first half and the last two, but with office hour help they should be doable. Start early in the week. You can also drop your worst graded assignment so it's not considered for your final grade. I think the course was curved at the end as well.
+
+Fall 2020
+Medium
+Strongly Liked
+15 hrs/wk
+CIT-591: Introduction to Software Development
+5/7/2021, 9:55:40 PM
+Course difficulty is a bit subjective, however generally I think if you have any bit of programming experience (ex: took a class many years ago, etc...) the course won't be too difficult. However, regardless of background, the course is rewarding in helping one get acclimated to coding. Assignments were where most of my learning occurred as lecture videos were not too helpful. Lectures were simply too short and explanations sometimes lacking. Pacing was also a bit of an issue, as the jump from Python to the Pandas library to Java can be a bit much to handle if you don't have some prior experience in the latter two. In the end though, learning to program is really about getting reps in, so spending the time to do optional ungraded assignments was helpful for understanding concepts.
+
+Spring 2021
+Easy
+Neutral
+8 hrs/wk
+CIT-591: Introduction to Software Development
+5/3/2021, 7:31:34 AM
+The last two weeks were much harder than the rest of the course.
+The final was much harder than the rest of the course.
+I loved it, learned a lot.
+
+Spring 2021
+Easy
+Strongly Liked
+12 hrs/wk
+CIT-591: Introduction to Software Development
+5/10/2021, 9:39:48 AM
+Even with 0 experence in programming, this course was way too easy. Not enough coding practices and 30 seconds lecture videos.
+
+Spring 2021
+Very Easy
+Disliked
+10 hrs/wk
+CIT-591: Introduction to Software Development
+5/3/2022, 4:20:35 AM
+I really liked the first half of the course in which we did Python. It was just challenging enough to be accessible. However, the Java portion was a surprise, and I felt like the videos did not present the materials we were supposed to know in detail enough and that the assignments went beyond the level taught in the videos.
+Tips for future students:
+Brush up on both Python and especially Java, and use a lot of supplemental resources for the Java portion.
+
+Spring 2022
+Hard
+Neutral
+15 hrs/wk
+CIT-591: Introduction to Software Development
+5/4/2021, 11:51:46 PM
+If you have any prior experience in programming then this class will likely be a breeze. I took an introductory CS course previously and found 591 to be lacking in comparison. The lectures were mostly the professor reading off of slides and rarely went beyond definitions of concepts. These were followed by quite long example projects which weren't always the most helpful. While the Python section of the course was fine for the most part, Java was pretty unsatisfactory. Crucial OOP principles like encapsulation or polymorphism were brushed over and very little detail or explanation was given. Overall, the focus was more on Java syntax rather than good programming practices, and I feel like this is not the best way to set a good foundation for new computer scientists. The homework projects were pretty fun to work on for the most part, but many were quite long and it's questionable how useful they were as pedagogical tools. If you are new to programming and taking this class, I strongly recommend getting a textbook to supplement the Java sections in this course. It will likely explain concepts much more deeply and will give a lot more details do parts that were insufficiently covered in 591 but crucial to know.
+With that said, I do give credit to the professor and TAs for being very helpful in office hours, recitations, and Piazza. Definitely use all of the resources available to you if you have questions. If the course were more detailed was designed better overall, it has the potential to be a solid introduction to programming.
+
+Spring 2021
+Easy
+Disliked
+5 hrs/wk
+CIT-591: Introduction to Software Development
+5/4/2022, 9:02:21 AM
+This is a solid course. Very good introduction to programming. They cover all the fundamentals, from lists to object-oriented programming and connecting to databases. Overall I was pretty satisfied. The assignments take some time. I just feel some assignments require techniques that were not fully explained in the lectures, so we end up doing more research than we should. But that is a minor complaint. The course was pretty good.
+
+Fall 2021
+Hard
+Liked
+15 hrs/wk
+CIT-591: Introduction to Software Development
+11/24/2020, 8:11:33 PM
+Good introduction to oop. If you’ve had prior experience it may feel slow but if not it’s a very well thought out introductory course.
+
+Spring 2020
+Easy
+Liked
+5 hrs/wk
+CIT-591: Introduction to Software Development
+12/19/2022, 11:03:18 AM
+I came to this course with zero coding experience before, and found very comfortable to follow the pace of this course. No supplement learning materials is required for Python part. However, I do need to find some Youtube videos for the Java part to help me understand the materials better, especially some abstract concepts.
+
+Homework can be a bit challenge at first but it's not too hard. They are great to help consolidate the knowledge learnt in lecture. I didn't have time to go through all practice assignment (non-graded) since I am working full-time but they are also really well prepared.
+
+I didn't go to office hour or recitations often because I like trial and errors when it comes to programming (like if I only look at the coding example then I wouldn't feel like my brain is absorbing the information). But they do give demo or hint for HW so it's good to check out if you got stuck on HW. TAs are also nice and helpful.
+
+Fall 2022
+Easy
+Liked
+10 hrs/wk
+CIT-591: Introduction to Software Development
+4/6/2023, 7:10:00 PM
+Didn't have too much coding experience before this class so it took me hours to get through homework. Wished the lectures covered things more in depth as the homework is more difficult than what is covered. TAs are super supportive and helpful though!
+
+Spring 2023
+Hard
+Liked
+30 hrs/wk
+CIT-591: Introduction to Software Development
+5/3/2023, 7:04:15 PM
+Just too easy. Needs a complete overhaul. Maybe make this an optional class or offer a harder version for people who'd prefer that. I'd taken only one other CS class in my life but I didn't learn much new here.
+
+Class averages were way too high on everything, AND there is a curve up.
+
+Spring 2023
+Very Easy
+Disliked
+4 hrs/wk
+CIT-591: Introduction to Software Development
+12/28/2021, 4:36:11 PM
+Amazing lecture videos, good TAs and professor, fun and challenging homeworks, not sure how you could not enjoy this course to be honest, great way to start the program.
+
+Spring 2021
+Easy
+Strongly Liked
+15 hrs/wk
+CIT-591: Introduction to Software Development
+5/3/2021, 1:01:11 AM
+A good course to learn how to program with object-oriented language especially Java. The homework and exam have fair difficulty. However, if you want to learn more and truly want to handle that, I would recommend you to finish all the projects by yourself, even those that will not be graded.
+
+Spring 2020
+Medium
+Liked
+12 hrs/wk
+CIT-591: Introduction to Software Development
+11/19/2020, 12:37:46 PM
+The course will be easy if you know the concepts already. But can be tricky for the novice since the lectures didn't explain the concept very well.
+
+Fall 2020
+Easy
+Neutral
+6 hrs/wk
+CIT-591: Introduction to Software Development
+5/4/2023, 12:47:44 PM
+Note: I had significant python experience, and very limited java experience before starting this course.
+
+The first half of this course is python which I would say is very easy. The assignments take only an hour or two per week and the lectures are things you can find just by reading python documentation. What I wish is that they had covered OOP in python since I feel like it is an important concept to grasp. If you have no prior coding experience I think this is a good intro as it goes over some important primitive data structures and give simple applications of them, but it may take you 2-8 hours per week to do the homework. There is a midterm project in python which was almost exactly like the practice they give you to do and was really straight forward.
+
+The second half of the course is java. You start learning the basic java syntax as well as OOP. The course gets a little harder at this point and the last two homework assignments can take significant time since they are much larger applications of what you have learned, so start those early.
+
+I would say overall it was a good intro to python/java and provides basic understanding of how the language works for all skill levels. At the end of this course you would definitely be able to code basic programs (likely inefficiently), and will probably not fully understand how to apply OOP to system design.
+
+Fall 2022
+Easy
+Liked
+3 hrs/wk
+CIT-591: Introduction to Software Development
+5/5/2023, 4:12:34 PM
+This is a review of 591 coming from someone who knew Python very well but not inheritance or Java, so your mileage may vary.
+
+Resources were widely available through code examples from the lectures as well as using docs on the web for language/method specific help. The TA's were helpful on EdStem to address anything relating logistics or setting up coding environments and IDE's.
+
+The lecture quality was similar to the MOOC specialization and were short videos that showed basic examples of how concepts were applied in the course to certain scripts. However, for someone new, it can be overwhelming relying on the lectures alone. Therefore, make sure to make some time to research on YouTube if you are completely new to programming.
+
+Assignments and exams were very straight forward as the specs and template code they give you is very easy to follow. For someone new, some of the later assignments can be daunting at first, but are easier to approach once you plan it out via drawing/debugging your code output. A lot of the boilerplate code makes inserting the methods you code on your own very simple to run. One thing I found very helpful in the course was Test Driven Development. A lot of engineers I know in tech had an intro course in programming, but all the test cases were written for them. This doesn't help later in classes such as Data Structures and Algorithms where you need to test the data structures you implement. Therefore, I thought that was a great part of the course!
+
+Overall, I think that the course was well designed from the perspective of someone who already knew some programming,
+
+Spring 2023
+Very Easy
+Strongly Liked
+7 hrs/wk
+CIT-591: Introduction to Software Development
+5/3/2021, 10:11:52 AM
+First of all, since I have no programming experience, I am fully aware that I will need to spend additional efforts to learn this intro course. But the course content and the materials are not as helpful as the other MOCC (free online course resource) I found online. Especially when I found out that the Java part of the course content is identically the same as another course from Udemy, I have not been clicking on those links from 591 anymore. (Not gonna lie, even the course examples are the same examples from the Udemy course, but 591 is a 20% subset of that course).
+
+Brandon and our TAs are the reason why I give a Neutral rating. TAs are always responsive from Piazza, and Brandon usually willing to stay longer during the office hour to ensure all the student's questions got an answer.
+
+Spring 2021
+Medium
+Neutral
+20 hrs/wk
+CIT-591: Introduction to Software Development
+5/3/2021, 9:34:39 AM
+I'm someone who came into the program with limited programming knowledge (my degree was in literarature and business, but I took some introduction Python courses before applying to MCIT). Honestly, the homework were my favorite part of this course. They aren't too hard, but definitely pushed students to learn more than what the course materials delivered. By saying that, I meant most of the codes are not directly derivable from the slides, and the predetermined stubs given by the instructor have not been clear in what and how functions should interact with each other. Every homework has such great leap from the prior one and I can see someone who's completely new to the language spending over 20 hours trying to learn a new concept that's not properly delivered by the slides/lecturer reading off the slides.
+
+
+With all being commented on the course, I understand that the lecturer Brandon is new to this course, and he and TAs are indeed very dedicated to 591 if you notice his public official hour recordings are normally over the 60 minutes guideline. He actually put in a lot of efforts providing students with what they need to learn. However, as the whole idea of oMCIT was for students being free to learn the course content under all conditions, I know there are a lot of folks who aren't able to attend to every recitation and office hours, which put them into a less advantaged position.
+
+
+For me, I feel that there are 3 homework that takes more time but most of the time outside of homework I did end up spending less than 5 hours per week on this course.
+
+To sum up, 591 is an introduction course so maybe it is why most of the course was on the easy side. But if someone comes in with 0 background, he/she will not be able to finish the homework and practice assignments without referring to material outside of the class. The homework projects were fun and the course support was phenomenal, but the course is due for a completeness review and maybe supplementing additional texts and codes demos rather than keeping the current 15-20 second videos that just reads off the slides. It's purely waste of time and I'd rather just read the slides myself.
+
+Spring 2021
+Easy
+Disliked
+7 hrs/wk
+CIT-591: Introduction to Software Development
+11/17/2020, 5:02:33 AM
+This class covered a lot, but the material was not that well-structured. Several times the homework assignments required extra knowledges that was not being taught at the time but would be taught in the coming one or two weeks. But I still really like the assignments. They were pretty challenging and each of them can take you to the next level. However, I think the amount of workload was not consistent and was reduced to some degree during the second half of the course.
+
+Fall 2020
+Easy
+Neutral
+5 hrs/wk
+CIT-591: Introduction to Software Development
+5/4/2021, 8:34:05 AM
+For those who have zero to little coding background like me, this is a good introductory course. The lecture videos, practice coding assignments are good and enough to prepare for the exams (which I think was fair in terms of difficulty). Attempt all the homework assignments and as much as possible, apply best coding practices in your submissions (not just coding for the sake of passing the grading rubric) - ask Prof. Brandon and the TAs for help. I have taken advantage of private OH, piazza, and make time to attend the instructor OH twice a week. If you feel that you have enough OOP knowledge, take a waiver exam instead. Otherwise, this course is designed for those with zero to minimal coding background.
+
+Spring 2021
+Hard
+Strongly Liked
+25 hrs/wk
+CIT-591: Introduction to Software Development
+8/28/2023, 8:16:10 AM
+It was a good introduction course to programming. As long as you spend decent amount of time each week and practice the assignments and homework in a timely manner you should be able to do well.
+
+The course is well-rounded, I personally did minimal additional reading to supplement my knowledge and pass the course. But, for someone hasn't programmed before it might be good idea to pair the coursework with a standard textbook in python and Java.
+
+Spring 2022
+Easy
+Liked
+7 hrs/wk
+CIT-591: Introduction to Software Development
+3/24/2021, 8:06:06 PM
+I really enjoyed this course. I love the breadth of material covered, I thought the workload was very reasonable, and I thought the general approach to grading and evaluation was really fair. You have to take this course, so you're going to, but I bet you'll enjoy it a lot.
+
+Fall 2019
+Medium
+Strongly Liked
+10 hrs/wk
+CIT-591: Introduction to Software Development
+12/8/2020, 3:31:11 PM
+Great introduction to programming and the MCIT program. Projects were challenging, but manageable. Final project allowed students to work at there level and incorporate prior coding experience.
+
+Spring 2021
+Medium
+Liked
+10 hrs/wk
+CIT-591: Introduction to Software Development
+5/7/2022, 1:52:32 PM
+I enjoyed this course and thought it was straightforward. The workload varies significantly week to week, and in particular the final few assignments took a lot of time to finish. If you have no prior experience programming I would suggest getting one of the recommended textbooks, especially for the Java section - I took Java in undergrad a few years ago and I had to refer back to my notes to better understand some things. The midterm and final both had optional practice assignments; I’d recommend completing these as they helped a lot for the actual midterm and final. Instructor office hours and recitations also were great for giving hints and elaborating on assignments.
+
+Spring 2022
+Medium
+Liked
+12 hrs/wk
+CIT-591: Introduction to Software Development
+12/23/2021, 3:02:07 AM
+Overall the course was fine, but I felt like it wasn't quite sure what it wants to be when it grows up.
+
+While it is nice to cover both Python and Java for the sake of awareness, I think that we could have gone far more in-depth with "Software Development" and Computer Science by simply focusing on one of the two languages and going further in depth with it, building something neat and worthwhile. If the purpose of covering Python was to establish some core concepts in programming, this was unnecessary. If the purpose was to give us a baseline in Python, this was inadequate (I would estimate that half of the students already knew what was covered with Python, as it was very basic).
+
+Important concepts like version control and databases were only given minor attention in what seemed like more of an afterthought. Unit Testing, while arguably important, received far more attention (and required far more time) than necessary, and we could have used that time to explore additional concepts.
+
+At the end of the course, I was left asking, "What exactly was the overall goal of this course?" Was it to be able to write unit tests and javadocs blindfolded? Or, was it to survey all of the fundamental concepts of software development? Or, was it to get good enough in a language to say, "I know this language."
+
+The homework assignments tended to be somewhat rigid in what the final outcome was supposed to look like, and this is because most everything is auto-graded. Auto-grading for a $100 MOOC is fine, but for a $2500+ course, I would expect a bit more of a tailored approach, a bit more hands-on work from the TA's.
+
+Lastly, this course left us without any portfolio-building projects. I would have much rather had a "Intro to Software Development with Java" course so that we had time and depth to build something real-world, instead of a regurgitation of many of the concepts covered in the free computational thinking prep course.
+
+Fall 2021
+Medium
+Neutral
+10 hrs/wk
+CIT-591: Introduction to Software Development
+8/31/2021, 4:16:51 PM
+Coming to this course with a fair amount of experience in Java and some experience in Python, I did not learn as much as I hoped to. I did enjoy the assignments and felt that I got some valuable experience working on them, but I found that the areas of the course that were new to me (like the data analysis with Python section) were confusing and I relied more on external resources to figure them out than I hoped to. Professor office hours and TAs were very helpful in general though! I appreciated the lighter workload as well.
+
+Spring 2021
+Easy
+Liked
+7 hrs/wk
+CIT-591: Introduction to Software Development
+3/24/2021, 8:20:59 PM
+Coming from Python going into this course none of the concepts were new to me. Though I still spent in total probably 15-20 hrs/week, but that's because I like to go slow. Material presented clearly and content was well-organized. Easily digestible and all the info was on the slides which is nice if you want to skip videos. I liked the assignments and thought they were the perfect intensity. Intro level course, nuff said.
+
+
+My 2 cents: I took a Udemy course on Python and enjoyed it more. I would have liked the material (both Python & Java) to be presented in a less prescribed "read off the slide" manner, make it a bit more fun or interesting. I think an intro-level course needs that. But, most universities teach the way they do so nothing against MCIT there!
+
+Spring 2021
+Easy
+Neutral
+15 hrs/wk
+CIT-591: Introduction to Software Development
+12/11/2025, 12:33:02 AM
+Well-designed course and very friendly, supportive, helpful professor. I had past programming experience in both Python and Java so this class was relatively easy for me. I think if this were someone's first programming class, it would be quite difficult. The design of the course is very "applied" with a lot of homework assignments and only a couple of exams. Overall, I think if you put in the work and the time you'll do well!
+
+Spring 2024
+Easy
+Strongly Liked
+12 hrs/wk
+CIT-591: Introduction to Software Development
+12/12/2023, 7:00:49 AM
+"A Good Primer to Introductory Programming, but With Some Flaws"
+
+Overall Course Rating: 7/10
+
+TL;DR (Detailed review below):
+
+• CIT 591 is a good introduction to programming and object-oriented design in both Python and Java
+• Some people struggle at the halfway mark, when the course transitions from Python to Java
+• Lectures are decent, they could definitely be improved upon as they tend to be a bit too basic, the organization is a bit all over the place at times, and concepts only pick up pace as the semester goes on
+• Grading structure of the class is fair. Most of the grade is based on homework assignments
+• Homeworks tend to be much more complicated and challenging than anything presented in the lectures, leading to a rather unexpected (and sometimes harsh) spike in difficulty
+• Quizzes, Midterm Exam, and Final Exam are extremely fair
+• A large portion of students do end with an A in the class
+• Good for developing software development fundamentals, although I wish they talked a bit more about working with data
+• TA's are extremely responsive, office hours are useful and helpful:
+
+My detailed thoughts on the course:
+
+CIT 591 is the first course you take in the MCIT Program. It is roughly equivalent to an introductory programming/object-oriented programming class which one would normally take within the first year of an undergraduate computer science degree program. This class is supposed to serve as an introduction to the fundamentals of programming and was designed for students with minimal to no experience in programming in any language. That being said, I did have quite a bit of experience programming in Python previously, so it definitely gave me an advantage while heading into the course.
+
+The course starts off with basic concepts such as variables, flow control, loops, data types, functions, unit testing, and file I/O. Later on, the course delves further into object-oriented concepts such as class-based structure, polymorphism, inheritance, abstract classes, and more. Unlike most introductory programming classes at other universities, which are primarily taught in one language, the first half of CIT 591 is taught in Python, and the second half of the course is taught in Java. The logic behind this is that Python is more beginner-friendly in terms of syntax and logic, so learning how to code in Python is a great way to start learning how to think like a programmer. Once the course delves into more objected-oriented programming concepts, the rest of the course is taught in Java. I do think this is a cool idea because it gives students exposure and practice in two programming languages. However, I'm inclined to believe that the traditional approach of teaching students one language would be better (In fact, the MCIT on-campus version of CIT 591 is taught exclusively in Java). Lots of students, especially those who had no experience programming before, tended to struggle after the midterm when the course switched from Python to Java. This was primarily due to the drastic change in syntax and code structure which had to be taught and adjusted to in a very short amount of time.
+
+The lectures in this class were decent in my opinion. They're essentially the exact same lecture videos as the Coursera MOOC course that Penn hosts. I do think they teach the necessary concepts, and they do a pretty good job at that, which is great. However, I have two main grievances with the lectures. First, some of the modules have way too many lecture videos which hurts the organization of the topics. There are many lecture "videos" which are only 15-20 seconds long, which is annoying to sift through. Second, the course suffers from an issue that a lot of other intro programming classes have. Simply teaching the fundamental concepts and providing basic examples and use cases does not adequately translate to using those concepts to build a more complicated program, which one would have to do in the homework assignments. There are some code-along videos as well as practice assignments which can help students with solidifying concepts, but considering the workload one has per week, it's not really realistic to do the practice assignments (I don't know anyone who did any practice assignments to be completely honest). I do suggest actively asking TA's and using sites such as GeeksforGeeks or Stack Overflow when it comes to better understanding concepts. The lecture videos are simply too basic in my opinion, and the homework assignments would require a more sophisticated or complicated use of the concepts taught in class.
+
+The grading structure in this class is quite fair. 65% of the grade is split across 8 different homework assignments. These assignments typically encompass some kind of programming project which uses concepts taught in the lectures for the module. The first 3 homeworks were due each week, and the last 5 were due on a biweekly basis. 5% of the grade is based on module quizzes. These are small quizzes held on Canvas which test the concepts in each module. There are 2 quizzes per module/week, and each quiz has unlimited attempts, so there is no reason you shouldn't get a perfect score in quizzes. 15% of the grade is based on a take home midterm which was done in Python, and the Final exam was split into two parts, a take home part which was 10.5% of the grade, and a written, proctored exam which was 4.5% of the grade.
+
+A big complaint I have with the course evaluation is the homework assignments. Many students in the class found the homework assignments to be quite daunting. This is due to the fact that the homework assignments are quite lengthy, and there is a much bigger spike in difficulty in the homework compared to the lecture content. While the lectures go over basic examples/use cases of different concepts, the homeworks require much more sophisticated use and implementation of the same concepts, even more complex than anything shown in the code-along videos. The course pace only increases over time, and the difficulty of material only gets harder. Some people were falling behind and struggling on homeworks as early as assignment 3, which was due after the third week of classes. Some of the early assignments are also auto-graded with a very specific testing implementation, so your program may work as normal, but can still fail the autograder which is annoying. I personally found the assignments to be manageable in terms of difficulty (thanks to prior programming experience), but they were still quite time consuming. While I worked about 8 hours per week on average in the course (time spent watching lectures, taking quizzes, doing homework each week), people who tend to struggle more with programming or those who have less experience in programming might spend closer to 15-20 hours a week.
+
+The quizzes, midterm exam, and final exam, however, are very fair. Quizzes have unlimited attempts and are fairly simple. The Python midterm exam was a pretty easy take home assignment similar to the homeworks (but much easier because there are only 5 days to complete it). The final Java take home exam was also a fairly simple assignment, easier than much of the previous homework assignments done in Java. The written portion of the final exam (which is proctored via HonorLock), is a bit challenging, but it is worth such a small portion of the grade (only 4.5% of the final grade). Many people do so well in all the other assignments in the class that they could get a 0% on the written portion of the final, and still end with an A. I will also admit that the final week of classes was certainly a struggle as we had 25% worth of our grade due within one week after finishing Thanksgiving break (HW 8 and the Java Final Exam).
+
+As a final personal gripe, I do find the content in this class to be a bit boring. This is kind of a crazy thing to say as a student entering a computer science program, but I've already seen much of this content before. Furthermore, the content in this class is definitely more geared for solid fundamentals in software development before heading into more complex topics such as data structures. However, as someone who is more interested in a future career as a data scientist or researcher (who primarily works with Python and data science methods), I'm just not as interested in programming in Java and working on assignments where we have to "build" programs, or work heavily with object-oriented design. I would have much preferred smaller assignments which contain multiple short, yet immersive tasks rather than one large all-encompassing program. There are two optional modules in the class, one on version control using Git and databases using SQL, and the other on data analysis using pandas, numpy, and matplotlib. It's unfortunate that these modules are only optional considering they're both extremely useful and practical modules which you would actually need to use at a job (especially for data analysis and data science jobs where numpy, pandas, jupyter, and SQL are widely used). However, this is just a small gripe and does not heavily impact my actual thoughts regarding the course.
+
+I never went to office hours much, nor did I use the discussion boards beyond logistical questions, but I have found that the TA's are extremely responsive to student inquiries, and TA office hours and instructor office hours have been very helpful and are super approachable. TA's also held some unique office hours covering data analysis, Git, and Linux/Unix as well. Definitely some of the best TA and instructor support I've ever seen, especially for such a large class. Definitely take advantage of these resources if you struggle with certain topics in the class.
+
+Overall, I think CIT 591 is a good introduction to programming. It still suffers from the problems a lot of other intro programming classes have (mainly assignments being time consuming & tougher than lectures, and some less than favorable pacing for newcomers to programming), but the fundamentals are still well taught, and the TA's and course staff definitely make the experience much more welcoming and easier. Plenty of students do well, regardless of their prior experience, so if you put in the effort to practice and learn, you'll do great.
+
+Fall 2023
+Easy
+Liked
+8 hrs/wk
+CIT-591: Introduction to Software Development
+1/3/2022, 2:03:33 PM
+This class is incredibly organized. For those who say it's hard - there are PLENTY of resources for you to succeed. If you find it harder, there are practice projects available every week. I found that I did them early on, and then sort of stopped once I became more comfortable. Some homework's will take you 20 hours, some will take 6. Really depends! Professor Brandon is AMAZING - his instructor OH are super awesome to attend (even for the conversation). TA OH will be critical for succeeding if you are struggling understanding the concepts of coding and how to approach certain things. Also, Piazza is an amazing resource. Students help eachother out all the time and post helpful answers! One thing I would keep in mind to succeed - learn how to debug. Early. Just look up some youtube videos on it. Try to figure things out yourself first before attending office hours. Lastly, remember that looking at someone else's code and trying to find a problem is HARD! Show the TAs grace. That isn't easy for anybody. Also... a hw is dropped, so if you are feeling super stressed and don't have time, take advantage and skip an assignment!
+
+Fall 2021
+Easy
+Strongly Liked
+10 hrs/wk
+CIT-591: Introduction to Software Development
+10/26/2022, 12:40:18 AM
+You pay 3k dollars for a course.
+What you got is far less than a free Codecademy course.
+
+Fall 2022
+Easy
+Strongly Disliked
+9 hrs/wk
+CIT-591: Introduction to Software Development
+5/4/2022, 6:55:52 AM
+I came in with a background in mechanical engineering (some Python experience, no Java experience) and this course wasn't too bad. The first half in Python is fairly straightforward, but the difficulty and potential for confusion increases in the second half of the course with Java. However, Brandon and the TAs are very helpful in assisting with questions through Piazza (I didn't go to any OH).
+
+The lecture videos for this course are excellent. I highly recommend coding along with each and every one of the "code demos" in the lectures. I would watch Brandon write a few lines and then write them myself, run them, play around with them, and only move on when I felt I fully understood what he did and why he did it. Getting through the lectures takes much longer this way, but I felt like I didn't need to do most of the practice assignments before hitting the homework.
+
+Homework is due every 1-2 weeks depending on the size of the homework. Every homework felt fair since all concepts are always covered in lectures. The last two homework assignments can be done with a teammate but are completely possible to do one your own with maybe 25% more time.
+
+Spring 2022
+Medium
+Liked
+14 hrs/wk
+CIT-591: Introduction to Software Development
+5/8/2021, 9:08:31 PM
+I have learned Python before but I'm a total novice when it comes to Java. That's why I didn't even try to waive this course as I thought that 591 could lay a firm foundation of Java for me. But I was wrong. It only scratched the surface of Java and the short videos (40s) are really not conducive to learning. Brandon is a very nice guy but he is not a Python coder as his demo code is not pythonic. Honestly, 591 did not meet my expectation of Penn. And if you have coding background, definitely try to waive this course.
+
+Spring 2021
+Easy
+Disliked
+5 hrs/wk
+CIT-591: Introduction to Software Development
+3/19/2023, 6:52:22 PM
+This is a great course overall. However, having very limited programming background, I found it challenging. I would say I probably averaged more hours/week than most as I double/triple checked a lot of my assignments and tried various ways to break my code. Great overall structure with the opportunity to learn a lot. The second half of the course (java) was harder and required more time for me, particularly as I knew some python (covered in the first half of the course) going into this class.
+Watch the recitations when you can to help you better understand concepts. I watched them a couple days after and was able to speed them up and save some time. The TAs and professor were extremely helpful.
+
+Fall 2022
+Hard
+Strongly Liked
+18 hrs/wk
+CIT-591: Introduction to Software Development
+4/19/2021, 8:01:56 PM
+Pretty easy with prior software engineering experience. I didn't learn many new concepts, just syntax for Java and Python.Toward the end of the course homework assignments get more time consuming, but everybody's lowest hw grade was dropped. I can imagine that if you don't have programming experience though, this would be a very difficult, fast-paced course.
+
+Fall 2020
+Easy
+Neutral
+7 hrs/wk
+CIT-591: Introduction to Software Development
+12/24/2020, 10:45:44 AM
+Like a lot of incoming MCIT students, I had a good amount of experience with Python before this course, but none with Java. That made the first half of the course pretty straightforward and easy, but the second half tougher (still not very tough, but it definitely took more time).
+
+If someone came into the program with literally zero programming experience, though, I could see this being much more difficult and time consuming.
+
+Fall 2020
+Easy
+Strongly Disliked
+10 hrs/wk
+CIT-591: Introduction to Software Development
+5/10/2021, 5:55:11 PM
+I came into the course being comfortable with Python but knew nothing about Java.
+I really liked the course and its structure. It's a great foundational course! It lets you practice a lot of concepts. Homeworks are fairly asking to practice what was taught. The teaching team is quite good and the professor is really knowledgeable and very responsive.
+The final is a bit trippy with VSCode. Practice it early in the Java section and make sure to do a practice exam.
+
+Spring 2021
+Medium
+Strongly Liked
+24 hrs/wk
+CIT-591: Introduction to Software Development
+10/18/2022, 10:40:38 AM
+I think it is important to say this as 591 is the first course in the program. If you come from 0 programming background you can survive this program, not only that but you can thrive.
+
+You need to estimate how quick of a learner you are. This course can take 10-20 hours. I spent about 3-4 hours on content and practices, with 8 hours per assignment almost every week. The midterm is generally some of the higher grades in the course and is good to see as even if you struggle at first, most people do very well in this course.
+
+Since its an intro course it has the most TAs, TLPs, and graders of any course. Which is very helpful for questions.
+
+Spring 2022
+Medium
+Strongly Liked
+12 hrs/wk
+CIT-591: Introduction to Software Development
+11/15/2020, 8:03:25 PM
+Relatively easy if you come into the class with basic exposure to Python and Java, otherwise, I can imagine there being a steeper learning curve.
+
+I appreciate the broad range of content covered in the class but I did not like that the lectures tended to tell us how to write code rather than why we design code in a certain way (to be fair, it was not totally neglected but I felt that the course could have done a much better job at this).
+
+Fall 2020
+Easy
+Neutral
+5 hrs/wk
+CIT-591: Introduction to Software Development
+5/4/2021, 11:28:08 PM
+Came into the class with no prior programming experience and found the course very fulfilling and challenging. Between watching the lectures and working on the programming assignments, I spent 25-30 hours most weeks on this course (and enjoyed every minute of it)
+
+Fall 2020
+Hard
+Strongly Liked
+25 hrs/wk
+CIT-591: Introduction to Software Development
+3/21/2023, 4:03:19 PM
+I came into this course having completed a couple programming bootcamps but no professional experience. I found the course easy and not very time-consuming. I knew Python already but learned Java in class, so naturally I had to spend more time once we reached the Java portion of the class. Still, I learned a fair amount and feel I can write code more cleanly and deliberately after taking this course. Professor explains very well. Homeworks have a very clearly stated rubric, so you know exactly what to expect. If your code matches the expectations, you will get full marks on the homework, so the path to an A is straightforward.
+
+Spring 2023
+Easy
+Liked
+5 hrs/wk
+CIT-591: Introduction to Software Development
+3/26/2021, 10:40:21 AM
+-I took this course in Spring 2020 (all Java). I didn't have much programming experience before taking it.
+
+-The good: I appreciated the assignments, which were very challenging for me.
+
+-What didn't work for me: I'm not a fan of learning to code from videos (too passive), so that was a bit of a struggle. My main criticism is that the class seemed to be under-resourced. There wasn't much synchronous TA support. (Sometimes Piazza just isn't the best venue.) If you wanted a 15-minute office hour slot with a TA, you'd have to book 2 weeks in advance (if you were lucky even to get a slot), and of course, it was impossible to know whether you were going to need help at that point. (They offered an hour or two of drop-in office hours a few days before a few of the projects, but no other drop-in support was offered.) This is even though TAs were paid very little, and even though the class size (and budget, I'm guessing) was quite large. This was a big weakness for an introductory course, IMHO. After having taken other classes (especially 593 and 595), I've realized that it actually IS possible to have substantive synchronous help from TAs, which would have made a huge difference for me in an introductory class. I suffered in silence so much, and honestly, if it hadn't been for my minimal previous experience with coding, I'm not sure I would have stuck with it. I'm hoping this is better now!
+
+Spring 2020
+Very Hard
+Neutral
+20 hrs/wk
+CIT-591: Introduction to Software Development
+1/9/2023, 3:15:04 PM
+I was a bit surprised and perhaps disappointed when the lecture content for this course ended up being less than a minute in length for some videos and often didn't provide very much information, but as I took the course and looking at it retrospectively I don't think it hindered my learning capabilities in any way. In fact, I feel if there were long, drawn out lectures where we watch prof or a TA code I would probably zone out and not take away much from it. The real learning comes from diving into the project assignments and figuring out how coding works. What does the formatting look like? What is a variable? How do I create an algorithm? and so on. I liked that the course started off with Python, one of the arguably easier languages to begin with, but found the transition from Python to Java a bit painful. I felt lost during the second half of the course and struggled harder to keep my performance up. By the end of the course I felt like I didn't learn much of Java.
+
+Once I got into 594 I was shocked to have a completely different experience and felt like I had been writing in Java for years. I must have picked up more Java than I had realized when taking 591.
+
+Fall 2021
+Very Easy
+Liked
+15 hrs/wk
+CIT-591: Introduction to Software Development
+1/6/2022, 4:27:13 PM
+If you are completely new to coding, it be might be challenging to grasp all the new concepts and syntax. Optionally, I recommend you skim through the Python and Java Tutorial on w3schools.com prior to starting the class. It will be great practice transition into MCIT.
+
+Fall 2021
+Easy
+Liked
+9 hrs/wk
+CIT-591: Introduction to Software Development
+5/3/2021, 5:36:59 AM
+If you have any previous coding experience, this course will most likely be very easy for you. I enjoyed learning about object-oriented concepts in the Java portion (second half) of the course. I do think that using two languages in the course is probably a mistake -- just as the students who haven't coded before start to get comfortable with Python syntax, they're asked to switch languages. It's hard to internalize concepts and learn general patterns when you're bogged down in syntax.
+
+Spring 2021
+Easy
+Liked
+5 hrs/wk
+CIT-591: Introduction to Software Development
+3/11/2023, 7:07:14 AM
+Excellent class. I had some knowledge of programming coming into the program but this class, especially the last few projects, really help you learn how to put it all together.
+
+Spring 2022
+Easy
+Strongly Liked
+10 hrs/wk
+CIT-591: Introduction to Software Development
+12/28/2021, 12:43:10 PM
+Good intro course. Most of the assignments were pretty straightforward and didn't take too much time. A couple homework assignments at the end of the semester were more involved.
+
+Fall 2021
+Easy
+Neutral
+4 hrs/wk
+CIT-591: Introduction to Software Development
+4/26/2023, 11:55:22 AM
+Overall, a great intro to computer programming. This said, having talked to other MCIT students who enrolled earlier and some friends in the field, trying to cram Java in for half the semester was tough to wade through. Ideally, I'd love a 0.5 credit for Python and a 0.5 credit for 'Thinking like a computer scientist', or making them pre-requisites on Coursera, prior to diving into Java for a full semester where it could breathe a bit. That said, the semester as it is was still a great start to programming and I feel like I learned an immense amount in a short amount of time.
+
+I HIGHLY recommend doing the Coursera Python and Java courses from the same professor, it can make your life much easier. And do all the practice assignments, it's worth it. Be ready to check out sites like GeeksForGeeks for deeper understanding of topics gone over in class.
+
+Spring 2023
+Medium
+Strongly Liked
+12 hrs/wk
+CIT-591: Introduction to Software Development
+4/30/2021, 12:05:51 AM
+TL;DR:
+This class is fantastic! It covers many immediately-useful concepts to propel a complete beginner to a functional programmer. If you already have programming experience, it's an easy class.
+
+The first half covered Python, but in a way that's suitable for absolute beginners. After the basics, we covered important topics like file import/export and data parsing. I was already familiar with coding, so the Python module was a breeze. Python midterm was an open-book take-home exam.
+
+The second half covers Java. In my case, I already had experience with object-oriented programming (OOP) through C++, so I had minimal difficulty with the concept of OOP and Java syntax. However, for a beginner, it can be quite a left turn and the course covers a lot of material, fast. The focus was on teaching functionally useful concepts, such as Collections and RegEx. Final exam was not easy, but partly because we had to use VSCode through Codio, which was clunky to say the least.
+
+My advice to anyone taking this course:
+Do ALL the assignments even if they're optional and don't explicitly count towards your grade - they helped me hone my programmatic thinking and become comfortable with syntax and useful object methods.
+
+Spring 2021
+Easy
+Strongly Liked
+10 hrs/wk
+CIT-591: Introduction to Software Development
+5/8/2022, 9:38:46 AM
+Generally, I find the course to be a very good introduction to programming. I like the professional organization of the course. They really deliver what they announce. Exams are easier than the homework assignments.
+
+Personally, I have been programming in my job and academics since a couple of years (Python and others, but no Java). Yet, I never received any formal education on programming which I was looking mostly forward to in this course. And indeed, I received some of it (unit testing, abstraction, and assignment by reference are crossing my mind). But was it worth the time and the money spent? Maybe I should have given the waiver exam a go and accepted a bumpier start in more advanced (Java-based) modules.
+
+Spring 2022
+Very Easy
+Liked
+6 hrs/wk
+CIT-591: Introduction to Software Development
+11/16/2020, 9:29:56 AM
+I came into this course with some prior experience so was relatively easy. But if you have never coded before it will require you plenty of time to get accustomed to the syntax first of Python then of Java. The course is well structured and does its job of introducing you to software engineering.
+
+Fall 2020
+Easy
+Liked
+7 hrs/wk
+CIT-591: Introduction to Software Development
+5/3/2021, 5:26:46 AM
+I had previous Java and Python experience, so the material wasn't exactly new and weekly workloads were minimal. I gave this a maximal rating from personal experience -- I thought it was a good overall view of programming. That said, if you're a beginner, as in someone with NO previous experience, I would expect to spend 10-15 hours per week on average for the class. Some weeks are light, with only quizzes. Other weeks have full-fledged assignments that will take you 4-8 hours alone, not including lectures.
+
+Fall 2020
+Medium
+Strongly Liked
+10 hrs/wk
+CIT-591: Introduction to Software Development
+4/29/2022, 12:58:04 PM
+I found the class to be highly manageable. Java was a lot more challenging than Python for me but the course structure sets you up for success. I feel very proud of the programs I developed! I averaged 12/hrs per week but you can go way over that if you do every practice assignment. One homework is dropped and I ended up giving a partial submission to the last homework as I had fallen a bit behind due to work and a trip I took around the same time. I'm reviewing this course as medium difficulty with the caveat that it's the only course I've taken so far through MCIT.
+
+Spring 2022
+Medium
+Strongly Liked
+12 hrs/wk
+CIT-591: Introduction to Software Development
+12/10/2022, 7:16:25 AM
+@ Beginning coders - do not be fooled by the overall rating for this course. You will be surprised by how many people in this program actually have prior experience in programming, and more often than not these prior coders will be the ones who are active on Ed. Don't let this discourage you! You're not alone. Just be aware that the lectures are very easy but do nowhere near enough to prepare you for the assignments. The midterm on the other hand was much easier.
+
+Fall 2022
+Very Hard
+Disliked
+20 hrs/wk
+CIT-591: Introduction to Software Development
+12/4/2021, 8:39:46 AM
+This class was a great introduction to programming for me. It was very difficult but also very satisfying and a valuable experience
+
+Spring 2020
+Hard
+Liked
+15 hrs/wk
+CIT-591: Introduction to Software Development
+5/4/2022, 1:15:28 PM
+The course moves fast and the homework assignments can be challenging, so start on them early. If this is your first exposure to programing, I recommend taking Python and Java MOOCs and/or reading the recommended books before the semester starts. The lectures are short videos and do not cover the difficulty of the assignments. Use the recitations, office hours, piazza and optional assignments to fill in the gaps. The TAs are an incredible resource. The midterm and final are not difficult if you understand the material.
+
+Spring 2022
+Medium
+Liked
+12 hrs/wk
+CIT-591: Introduction to Software Development
+1/5/2022, 1:12:01 PM
+I came in with little coding experience(completed the majority of Harvard's CS50). The python part of the course seemed well developed, the Java part seemed less so. I learned a lot since I don't have much experience.
+
+Earmarking 15 hours a week for this course, did well for me. In addition, having the expectation that the hw appears hard at first, and then gets better, and achievable to finish.
+
+I appreciate that deadlines were moved back, when it appeared the class was having a difficult time with the homework. In addition, a dropped homework and curve.
+
+Fall 2021
+Medium
+Strongly Liked
+17 hrs/wk

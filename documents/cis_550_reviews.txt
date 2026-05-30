@@ -1,0 +1,367 @@
+Reviews
+
+33
+Avg. Difficulty
+
+3.48
+Avg. Workload
+
+14.85
+Avg. Rating
+
+3.18
+CIS-550: Database & Information Systems
+8/23/2022, 4:07:10 AM
+This course is both great, and extremely frustrating. Some weeks the lecture material is well put together and practical, while others overly dense and abstract. In the case of the latter the professor seems to speed run the topics while reading off their prepared script. With careful viewing and reviewing this can be overcome. The group project is the cornerstone of this course. I found it to be a fantastic learning opportunity, however this can also be a nightmare with the wrong group members. All in all this course has vital content for anyone who wants to journey into the world of software engineering, but needs to be navigated carefully.
+
+Summer 2022
+Hard
+Liked
+15 hrs/wk
+CIS-550: Database & Information Systems
+7/17/2024, 11:22:04 AM
+Material was easy and scratching the surface at least for a person with CS background and did do SQL before. However, it still takes a lot of your time due to the pure disorganization. For example, they attempted to swap 2nd and 3rd Homework but did not realize they have to change the learning material sequence as well. It made our learning sequence very messy. Thus, every milestone going forward was unorganized and it always felt like we had to chase something constantly. The proof was every single Homework Milestone was pushed back. Furthermore, the project milestone deadline almost always collide with the homewotrk deadline. In short, too much efforts put in for a mediorce outcome of the knowledge
+
+Summer 2024
+Medium
+Strongly Disliked
+12 hrs/wk
+CIS-550: Database & Information Systems
+3/24/2021, 8:15:36 PM
+This course offers must-have skills for a software engineer. Understanding how databases work and building web applications. The challenging part of the course is, besides learning databases theories and SQL, you need to spend extra time picking up a few programming language or framework on the side. E.g. you need to learn React.JS and node.JS for the final group project, also need to pick up python/pandas to do data cleaning and preprocessing. I took this course with a little knowledge of python and javascript, and still spent a lot of time picking up those skills and doing the group project. However, it is a very rewarding experience as now that I have a decent project on my resume that I am comfortable talking about any technical details.
+
+Fall 2020
+Hard
+Strongly Liked
+20 hrs/wk
+CIS-550: Database & Information Systems
+12/16/2022, 5:57:05 PM
+Big disappointment with this course. Many reviews will state that this course is a must-take if you hope to get a job in web development, but alas this is probably the least informative course on offer in the whole program. Very high level introduction to SQL (the 'advanced sql' week is basically just table joining, which is about as basic sql as you can get imo), a single week touching on modern NoSQL tool like MongoDB (document based db) and Neo4j (graph-based db) which is great but barely gets you past a simple select query, and a surface level overview of javascript that aims to get you just familiar enough that you can copy paste some code from the second assignment into your final project to make a UI in case you've never done web development before.
+
+Things that are missing from this course: real advanced sql like window functions and sql functions that are specific to different engines (like postgres vs. oracle vs mysql). Deeper dive into NoSQL (they mention that they're very rapidly becoming the most popular db management systems, yet get less than an hour of content). Real web development chops to connect your db to something useful (doing more than just displaying a static table of results – how about interacting with your data, caching it, preventing sql injection attacks, when to work with data server-side vs client side, managing state in react applications, etc).
+
+
+I get that there's only so much time in a semester, and that in a course focused on databases they should rightly avoid going into all the million things you could learn about web development. But here's the kicker – I came into this course knowing 0 sql, basic javascript (from a codecademy intro), having never built a website or done web development outside of squarespace, and yet I was able to learn all the things I mentioned were missing in this course via youtube and stackexchange and reading the plethora of actually fantastic documentation out there. You could easily condense the first 7 weeks of the course into 2 and spend a good deal more time on NoSQL and maybe even an extra week updating the outdated javascript week to include modern technologies (or at least a version of node that isn't in the 'end-of-life').
+
+I'd be upset about wasting one of my 4 precious electives on this course if it weren't for the fact that it's a requirement for the dual-degree program. If you've got to take it anyway, it's not a terrible course, just a bit outdated and definitely not worth the money spent or taking up a spot you could use to learn something worthy of a Penn graduate level course.
+
+Fall 2022
+Very Easy
+Disliked
+5 hrs/wk
+CIS-550: Database & Information Systems
+12/29/2021, 8:43:03 PM
+Must-have for SW engineering - this course teaches SQL and web dev. I started off very enthusiastic and lost steam partway through, mainly because most of the lectures are focused on database concepts, which can be dry. The lecture quality wasn't fantastic, but not bad either. However, the assignments involve practical coding in SQL, MongoDB, and Neo4j, which are useful in just about any engineering role (SQL in particular). The group project was the highlight, mainly because my team worked well together and we worked on a project that "mattered" to each of us. The assignments can be time-consuming and the final project required lots of self-study and googling. All in all, I strongly recommend this course in spite of some of its pitfalls/challenges.
+
+Fall 2021
+Medium
+Liked
+12 hrs/wk
+CIS-550: Database & Information Systems
+8/25/2022, 7:45:30 AM
+This is definitely the most intense course in MCIT that I've personally taken, but it has also been the most useful course I could have ever taken as someone who came in with 0 experience in web development, SQL and statistics / data / discrete math. I've come out of this course as a full-stack developer. I had wanted to take a bootcamp before this so that I could learn more "practical software engineering", but this course has brought me further than I expected and I'm now confident to build my own side projects and apps. However, it comes with a strong caveat that I spent almost all my time aside from my day job on this course (around ~30 hours a week, unlike other courses where I averaged around only 8-10 hours a week).
+
+Relating to databases, I found the course materials to be very well designed (except the last large part of query optimization which was so, so bad). The tutorials were quite intense and usually have many questions and go deeper than the lecture material (every one of them had so many questions and ensured you thoroughly understood and explored the material through practice.) As someone with 0 SQL / MongoDB or even just db experience, I actually felt that I became so familiar with SQL at the end of the first 2 weeks by doing that ridiculously long tutorial and only sitting through the first 2 weeks of crash course on SQL. They also ensured that you know how to set up a Oracle / MySQL database which was super useful and practical. I also became very familiar with NoSQL databases like MongoDB and a graph database like Neo4j, which is a good spread on the database types I can now tap on for my side projects.
+
+Although many of the reviews said that this course was "mostly database theory", I actually felt that the "theory" learnt was very relevant and useful in the practical sense. Besides just learning about database theory, the group project actually gave us a lot of opportunities to apply those theory directly in practice. My group implemented database design, normalization, indexing, query optimization and transactions, etc., by applying the "theory" taught in class which was so much harder to learn by yourself as compared to the implementation where we just had to google the appropriate syntax to achieve the "theory". These "theories" were what made our database design elegant and our queries fast, as compared to simply setting up a database with no theory.
+
+However, one thing to note is that the last part on query optimization (lectures 8-9, 12-13) were really bad. The lectures do not cover the required learning objectives well at all even though I rewatched them countless of times. You are probably expected to read the textbook by yourself to learn more, which is a huge time commitment on top of the intense HWs, group project, etc. I ended up reading almost every required chapter which was around ~50 pages?
+
+Relating to web development, I was super afraid coming into this course as almost all the reviews had mentioned that you would have to learn React on your own. Indeed, in week 3, they spent 1 hour each on HTML + CSS + JavaScript, React and Node.js, then expected you to work on a HW2 that was extremely guided. However, the group project required you to build a web app, which heavily relied on your web development skill (although you could get by with team mates who were already strong in it and if you just did the database part). To maximize what I got out of this course, I had bravely offered to work on the entire frontend of the group project, hoping to ride on the grades pressure to force myself to master web development once and for all. I spent the first few weeks reading docs and grinding javascript practice, followed by developing some small projects on react and node.js on my own. All these were actually manageable in the first few weeks and paid off as I ended up developing a very huge portion of our group project, which ended up as one of the awarded projects.
+
+Something I would probably recommend is to split your architecture into 3 layer and have each person work on it in parallel after the requirements and api specs are out. This helped our team to be way ahead of all the milestones and I managed to complete the front end 1.5 months ahead of the final deadline. However, we could have started earlier on the query optimization which ended up eating into the last 2 weeks of final exams studying (and was arguably the most challenging / unpredictable part of the project). As a result, we pulled through 1 crazy final week to complete the query optimization, report, video demo and final presentation, all in 1 within 5 days after the final midterms.
+
+All in all, I would definitely recommend this course to someone who is very keen to learn practical software engineering and can afford the time to do so. However, if you are looking to take a relaxing course or to get your As without significant effort, avoid this course at all costs. The grading criteria for this course is very well spread out (50% on "theory" midterms, 25% on group project and 25% on 6 intense biweekly homeworks), every graded item has a significant difficulty to it, and there is NO CURVE, hence it would very difficult to do well unless you put in a huge time commitment to ensure every graded part was well executed. The median grade for the first midterm was around 75%, which already set most people back from the grade A by quite a lot.
+
+Summer 2022
+Hard
+Strongly Liked
+30 hrs/wk
+CIS-550: Database & Information Systems
+8/2/2022, 3:59:48 PM
+I am not much better in databases than I was at the beginning of this course. Most of the course is incredibly dry theory. Much of it is not, or not enough, tied back into practice. Hands-on, there is a total of one or two weeks of SQL and one week of NoSQL.
+Everything else is either theory or web dev. For example, the final two weeks are query optimization, a very important topic, but not at all taught in a way in which you will be better at applying these concepts whatsoever. Overall, this is the most boring, "missed opportunity," course I have taken so far in the program.
+Honestly, as an SWE that does a lot of work with databases, I will probably end up taking a MOOC in DBMS, this class just has not really done much for me.
+
+Summer 2022
+Medium
+Strongly Disliked
+13 hrs/wk
+CIS-550: Database & Information Systems
+4/26/2021, 11:53:24 AM
+This course is currently one of the only courses in our curriculum that allows an open-ended group project in the form of a web app. For those hoping to add one of these projects to their resume, as well as dip their toes into backend and frontend work, this is a good course.
+
+For others, the course is still a good one to learn the basics of database theory, but it may be annoying to spend more time on front-end and non-database work if you are primarily/exclusively interested in database internals.
+
+The time commitment was average but would be significantly greater if you don't have prior front-end, SQL, or general web development knowledge. The project pacing seems to be a bit skewed and the final month is heavier with homework, project code/demo/report, and exams 2 all due. The two exams are fair and the second isn't cumulative.
+
+Spring 2021
+Medium
+Liked
+12 hrs/wk
+CIS-550: Database & Information Systems
+12/20/2021, 11:13:16 AM
+This class was a major disappointment. We spent so little time learning frameworks like MongoDB and Neo4j, and instead used the majority of the time working on theory, most of which isn't applicable to the real world. We spent 1.5 weeks learning SQL, 1 week learning MongoDB, 1 week learning Neo4j, and 1 week learning NodeJS. This is simply not enough time to truly learn. Not to mention, the workload was intense, as most the homework has 10 pages of problems and requires mastery in a topic that you only spent half a week learning. Yes, the final project is really cool, as you get to build an actual application that interests you. However, it's simply not worth it to me. You'd be better off learning databases through self-studying, instead of taking this class. At least then, you'd spend more time on building and writing queries, instead of proving relational algebra axioms and functional dependencies.
+
+Fall 2021
+Very Hard
+Strongly Disliked
+22 hrs/wk
+CIS-550: Database & Information Systems
+5/5/2022, 6:38:43 PM
+This class touches on many topics like SQL, React, general web development, NoSQL. It moves at quite a fast pace, especially in the first few weeks, so some prior SQL knowledge will help tremendously, as well as finding yourself a good group for the project which you'll work on all semester. I found the class to be essential for someone who aspires to become a software engineer (which is most of us) so would strongly recommend taking it. Assignments are only due biweekly so if you start early, they are quite manageable. There are 2 non-cumulative midterms each worth 25% which I thought had good coverage and were fair in terms of difficulty level. This class has so much potential but still fails in some areas. For example, we spent only a week on React, but multiple weeks on the nitty gritty of indexes and I/O calculations which I've mostly forgotten already. If MCIT is meant to be a condensed program that gets people without CS backgrounds to find jobs in the tech industry, then its courses must be made more practical.
+
+Spring 2022
+Medium
+Liked
+10 hrs/wk
+CIS-550: Database & Information Systems
+5/11/2021, 8:16:55 AM
+Pros:
+- Learned SQL, MongoDB, and Neo4J. Also exposed to Javascript, HTML and CSS, but not a lot of instruction on them.
+- Dr. Davidson's lectures are clear and well-articulated
+- Unlike other courses and electives, the assignment instructions are well-written, so that I generally understood what I was supposed to be doing
+- There is a lot of content and I got a good value in terms of the number of topics
+Cons:
+- This is the highest workload of any class I've taken at MCIT excepting only 593 and 596.
+- I felt torn in multiple directions by the need to work on a group project and individual assignments at the same time
+- The group project felt like it was about web development instead of databases, and there were hardly any supports or resources built into the course for it
+- Some topics, such as NoSQL languages, were so late into the course that they felt like an afterthought, but I wanted to spend more time on them
+- The course only takes a mathematical approach to databases, there is a TON of math, but not a lot of real-world applications or problems presented
+- There is a lot of jargon in the lectures and content which I felt detracted from my learning experience
+- I was so stressed out the whole time in this course and felt the learning curve and workload were too high and I didn't get any chance for topics to sink in
+- The difficulty and scope of the assignments (you needed to find 2 databases with thousands of rows of data for the final project all on your own) did not seem to enhance my learning experience; the challenges presented did not make me feel like I understood the concepts better when I worked through them. Writing more complex queries did not necessarily translate to a deeper understanding.
+
+I am not sure I would take this course again. My goal was to learn SQL and see if I enjoyed WebDev, but, I do not feel this course was a good fit for those goals in hindsight. I think this course can be improved by reducing the workload, adjusting the order of topics presented, reducing jargon and including more real-world applications.
+
+Spring 2021
+Hard
+Disliked
+15 hrs/wk
+CIS-550: Database & Information Systems
+12/20/2021, 12:12:22 PM
+This class provides the most tangible "resume boosting" experience for those looking to get into SWE - by the end of the course you will be proficient with SQL and have had significant exposure to MongoDB, Neo4j, JavaScript, and React. However, the lecture material can be dry and hard to follow at times, and the workload for the course is VERY back-loaded.
+
+The good: most of the content covered/skills acquired in this course is very much in demand. The professor makes herself available on Piazza even more than the TAs which was very impressive. The project is by far the most important project you can work on in MCITO - it serves as a "capstone" in which you find yourself basically using everything covered in the program to deliver a fully-functioning web application which makes API calls to a MySQL database hosted on AWS.
+
+The not so good: the material is not very engaging in some weeks - it feels like the professor is reading from a script and the result is it can be hard to follow along. The project milestones do NOT force you to pace yourself as I had hoped - I spent close to 40 hours per week in the last two weeks of the course because I had to learn React/JS and then apply that in the construction of the web app. My advice would be to start the front-end dev at least 4 weeks before the end of the semester if you can, to give yourselves time for the unavoidable roadblocks you will face (unless you already have web dev experience).
+
+Overall, I learned a LOT in this course that will serve me well in my career, and I would say it is the most important elective for those who want to go into SWE or even PM because these skills will always be in demand. I just wish the lectures were more engaging and the spacing was a bit better. But all in all, I am glad I took the course!
+
+Fall 2021
+Hard
+Liked
+18 hrs/wk
+CIS-550: Database & Information Systems
+5/25/2023, 10:49:34 AM
+This class is primarily about databases and goes into depth with relational databases and gets a little into NoSQL databases (MongoDB and Neo4J). The project utilized React with Node.JS connecting to a large database. The amount of work you need to do for this course really depends on your partners for the project. I ended up having to do the majority of the work for our project which resulted in some long weeks. So make sure you choose a motivated team. Overall the class was good and worthwhile.
+
+Spring 2023
+Medium
+Liked
+20 hrs/wk
+CIS-550: Database & Information Systems
+11/25/2022, 6:45:59 AM
+From this class, you will learn valuable skills that are essential for any SWE or programming job. With that, I believe you can learn these skills from other resources in about two weeks and without the hassle of watching the course's lecture videos which can be, at times, unnecessarily dense. I won't tell you what to do. But if I could go back, I would have chosen a different elective and spent a couple weeks learning the below skills from other resources. That being said, if you want a job involving work related to the underlying mechanics of DBs, perhaps this course is for you.
+
+The most valuable topics I learned from this course:
+-Basic database structure and what are/how to use primary keys/foreign keys
+-ER Diagram
+-What is SQL and how to write queries
+-What is NoSQL and how to write queries for MongoDB and Neo4J
+-Differences between SQL/NoSQL including advantages/disadvantages for each
+
+P.S. This course does not teach you web dev. Homework 2 touches on React and node.js but it does not provide adequate instruction on either topic.
+
+Fall 2022
+Medium
+Disliked
+9 hrs/wk
+CIS-550: Database & Information Systems
+12/5/2024, 6:52:19 AM
+After taking six courses in this program, I think I've finally realized that almost every course in this program could be renamed to something like "Get a Rough Idea About..."
+
+This particular course provides a rough idea about databases. I liked it because it at least offers a sense of direction for where to go next if you want to dig deeper. It introduces SQL, explains how databases work behind the scenes, and gives a brief overview of NoSQL. It’s like a sign pointing to the door of databases—though you have to push the door open yourself.
+
+One piece of advice: be very careful when choosing your teammates. The final project is to create a web application that integrates a database, which is actually quite interesting. However, if you don’t already know your teammates before the course, don’t take at face value what they claim they can do or will do. People who contribute the least often only show up and act proactive right before the presentation—and that might be their most productive moment in the entire project.
+
+
+Fall 2024
+Medium
+Liked
+15 hrs/wk
+CIS-550: Database & Information Systems
+5/4/2022, 5:28:22 AM
+After taking the course, I don't feel this course is as helpful as others described to swe. It was a very theoretical course, but it lacks continuity. The structure was loose and the topics covered from week to week were not related to each other. The quality of the TA wasn't good, as often I only saw one TA answering all the Piazza questions (but was rude). The instructor team wasn't transparent about the grading on final project, and our mentor (a TA) was non-existent throughout the process. The only thing I got out of this course was a full stack web, but none of the knowledge was gained from the course material or interaction with staff. I learned and did that with my awesome teammates.
+
+Fall 2021
+Medium
+Disliked
+10 hrs/wk
+CIS-550: Database & Information Systems
+1/3/2023, 10:50:19 AM
+Love this course!
+
+I agree with many of the reviews stating that your experience in this course will vary greatly based on your previous knowledge. This course requires or recommends CIT 5910, 5920, and 5960, as well as some knowledge of Javascript and Web Development (HTML, CSS). I took it after completing all three recommended pre/co-requisites as well as a basic project with Udemy to gain familiarity with JS, HTML, and CSS. I was fortunate to find a group of talented and dedicated peer students to work on our project throughout the semester. It was a fun semester for me.
+
+In contrast to some of the reviews, I personally found it beneficial to spend time learning about the abstract concepts of DBMS. While I can easily do more practice with SQL or NoSQL queries online, I don't envision myself delving into any of those abstract concepts on my own.
+
+For future students considering this course and aiming to have a positive experience like I did, my suggestion is to come prepared by learning some JS, HTML, CSS, and even React beforehand. Find reliable team members and read "Database Management Systems 3rd Edition" by Ramakrishnan, as I found the knowledge from this book helpful for two exams. Attend office hours with TAs and the Professor, since I gained a lot of valuable information from them during this semester.
+
+Fall 2022
+Medium
+Strongly Liked
+15 hrs/wk
+CIS-550: Database & Information Systems
+8/17/2022, 10:41:39 AM
+I took the course with Prof. Naik over the summer and I like this course. I worked with a good team over the summer, and we learned a lot from each other. The course was made up of 25% Midterm 1, 25% Midterm 2, 25% Group Project, and 25% Assignments & Quizzes. I don't think either professor will make much difference, but having a good team will. Overall the skillset we learned was directly relevant to someone who is aspired to become a full-stack engineer.
+
+Summer 2022
+Medium
+Strongly Liked
+10 hrs/wk
+CIS-550: Database & Information Systems
+12/9/2020, 10:56:40 AM
+A well-built course that provides a lot of good knowledge on SQL and NOSQL systems. I've definitely enjoyed this course a lot. I think the final project is a great culmination of the semester's topics as well. Things are prepared ahead of time, assignments are graded fairly, and TAs provide a lot of great help.
+
+Fall 2020
+Medium
+Strongly Liked
+15 hrs/wk
+CIS-550: Database & Information Systems
+4/30/2023, 5:57:53 AM
+One of the worst courses I've taken in my schooling history. It's unfortunate because the professor was very patient and explained concepts very well in office hours, but the course was certainly not set up by him.
+The best part of this course is the final project where you work in a group to create a full stack web site. Although it's something you can certainly get done with free online courses, and to be honest, you'll need to do some independent searching for information - because this course really doesn't teach any web development.
+The worst part of this course is the grading. For assignments and exams, there is a mix of open response questions and multiple choice. The TAs might dock you for points even though you answered the question - but you may have missed some random bit that wasn't specified in the instructions. You can request regrades and they double down with more made up instructions. Some of the exam questions require you to write queries in an open textbox - and if you miss a parenthesis or quotation mark, you're losing points.
+
+Spring 2023
+Medium
+Strongly Disliked
+10 hrs/wk
+CIS-550: Database & Information Systems
+1/9/2023, 3:52:20 PM
+I did not like how this course was set up and found that the material grazes the surface of way too many database topics. I would rather the class focus on a few key areas of DBMS to avoid confusion and frustration for students. The homework assignments were very confusing and long. I found myself running out of time to complete two of them because I couldn't figure out what was being asked nor could I figure out where to find the information within the lecture material.
+
+The course requires a semester long project where you and a team of 3 others work together to build a web app that utilizes databases. This unfortunately required students, on top of the normal course content and assignments, to learn React and other web development topics on their own (so basically teaching yourself an equivalent of a web dev course with little to no guidance). I found the project to be extremely labor intensive and wish it was worth more of the final grade given the amount of work required. Each team is assigned a mentor TA that you meet with monthly to go over your project progress and they are supposed to provide feedback to adapt your project as you go. Our TA told us each meeting, including one before the final presentation, that our team was great and didn't need any changes, but then turned around and took points off for "not utilizing our databases differently enough". We weren't able to contest this because the class was then told once the project grade was released that we were not allowed to submit a regrade request on it.
+
+The main upside to this project is that it can be on a public GitHub repository which means you'll be able to use this as a portfolio piece.
+
+The course, and its staff, was completely disorganized. Students would make posts on Ed Discussion days leading up to the due date for assignments and still not receive responses from TAs or prof until days after the due date. TAs would give conflicting responses to student's questions which led to lost points on assignments due to this confusion.
+
+As mentioned, there was a semester long project. In the beginning of the semester we were provided with the spec on the project and in said spec students were told that they would have a chance at extra credit (up to 5% on the project grade) if their team's project won in any of these areas: Best overall, most complex/technical, and best looking. Many teams put in extra work aiming to win in one of these categories. The last week of class the project grades were released and no announcement of winners was given. I had made a public Ed post inquiring about the winners and was told by a TA that the staff had recently decided (without telling the class) that they didn't want to pick winners or offer the extra credit anymore. That infuriated me since I had to sacrifice spending more time on the last HW assignment for spending more time on sprucing up our project for extra credit. Thankfully I and other classmates were able to convince them to stick to their advertisement of EC from the beginning of the course, but I find it completely insane that the course staff would attempt to take away the EC without any prior announcement.
+
+Fall 2022
+Hard
+Strongly Disliked
+20 hrs/wk
+CIS-550: Database & Information Systems
+12/28/2021, 2:18:29 PM
+I learned A LOT from this course. I think it is very, very well structured and covers a wide variety of topics related to databases (especially given it's still an introductory course for DB topics). I disagree with other reviews about the lack of structure/unfair expectations regarding building a web application for the final project. The final project focuses its grading largely on database topics (everything we are taught through lectures) and the web application portions using Javascript are largely guided by an early assignment done early in the course and its related code templates. Furthermore, I'm very grateful that we were given a chance to wrestle with these challenging topics (DB and more) and were given the chance to integrate topics into a capstone project. I believe the guidance, lectures, and assignments prepare one adequately for success in this course. It's a lot of work, but I think that's an obvious requirement if you want to learn something completely new.
+
+The course staff and instructor work hard to provide a good learning experience in this course and I definitely had a fantastic one.
+
+Fall 2021
+Hard
+Strongly Liked
+15 hrs/wk
+CIS-550: Database & Information Systems
+12/18/2020, 10:50:23 AM
+550 is great- course material is extremely useful and interesting, the material is well organized, and the professor is good.
+The final project is a highlight of MCIT, and something I mentioned in almost all of my job interviews. You work in groups to make a full stack web app with a relational database, deployed over AWS. Most groups use React for the frontend and Express for the backend, both popular web development frameworks. This does require a bit of self-teaching to learn JavaScript, but it is definitely worth it.
+The homeworks aren't usually too challenging, though some of the theory can be tricky to understand on initial encounter.
+There are two exams, non-cumulative, both fair representations of the material learned, not overly difficult.
+
+Fall 2020
+Medium
+Strongly Liked
+9 hrs/wk
+CIS-550: Database & Information Systems
+3/30/2025, 3:49:00 PM
+This course is good but it is too much work. Group project dominates the course, which is to be expected, but to have additional homework assignments due the same week of the most integral components of the group project is poor planning. The lectures are also varying in quality, at times requiring outside resources to master the material.
+
+Spring 2025
+Hard
+Neutral
+20 hrs/wk
+CIS-550: Database & Information Systems
+9/15/2021, 1:46:51 PM
+Many courses in MCIT will vary dramatically based on your background knowledge, but 550 might take the cake. If you have experience with (a) SQL and (b) web development, I can imagine this course being pretty average for the program. I had neither, so at times it was exceptionally difficult instead. The first two weeks are essentially a SQL boot camp, which I found brutal but valuable. My bigger issue came with week 3, where we were simultaneously introduced to HTML, CSS, JavaScript, React, and Node. The lecture materials provide a very light survey of these topics before you're given an assignment where you have to write several advanced SQL queries and integrate them in a simple React/Node-based web app—which, if you have no prior experience with web dev, is far from simple. Then you have the middle half of the semester, which focuses on database theory and involves some 595-style math. Contrary to many others, I didn't find this portion that grueling, but I have to agree that it's not very practical knowledge either unless you're looking to go into database administration. The final few weeks shift to NoSQL languages, which are fun but somewhat perfunctory, especially as everyone focuses on the massive group project. If you can do this project right, I think it's an invaluable asset ahead of SDE job applications. Unfortunately, I personally felt like I wasn't able to take full advantage of it, partly due to weird group dynamics but even more so because there was simply no time to actually learn the necessary skills *on top* of everything else going on (as mentioned, 550 absolutely did not give you that knowledge itself). So yes or no: do I recommend 550? It depends. If you either have a strong SQL base going in or are prepared for 2-3 brutal weeks where you go from beginner to advanced right out the gate, then great, that's the first hurdle. The bigger one is whether you think you can reach the final third or so of the course prepared to tackle the group project. I strongly advise anyone going into 550 to try and complete at least a basic React tutorial before they reach that point, because otherwise the course's biggest selling point, its professional relevance, will be largely moot.
+
+Spring 2021
+Hard
+Neutral
+15 hrs/wk
+CIS-550: Database & Information Systems
+12/4/2021, 8:37:54 AM
+This class changes so much every 2 weeks that you don't really learn anything well. Just when you start to figure out a certain language or technology you're immediately off to a new. Could you honestly look an interviewer in the face and honestly tell them you know NodeJS after working with it for 1 week?
+
+This class should be 2 or 3 things and stick with each for a month plus, not switch from one language to the next every week. I would not recommend this course.
+
+Fall 2021
+Very Hard
+Strongly Disliked
+20 hrs/wk
+CIS-550: Database & Information Systems
+5/2/2022, 9:07:51 AM
+There were a few good parts - learning the basics of SQL, MongoDB, and Neo4j, and setting up a RDS instance on AWS. Those 2 assignments (out of 6) were well designed, and the assignment on building web apps with React was useful enough for the project. While some of the theory seemed useful, the teaching was abysmal. I feel like this professor wants this class to be "rigorous" so makes the lectures, assignments, and exams as confusing as possible even when the ideas are simple. The theory is then never connected to practice, for example we go through relational algebra and calculate page IOs but never learn how to actually optimize queries in the real world. We also never learn about tradeoffs in database design, e.g. for a transactional heavy database vs a data warehouse and never practice setting isolation levels after learning the theory.
+
+The project was actually well designed, although the milestones were amateur hour -- the course designers definitely do not know best practices in web application building. I already have significant web application experience, so the project was fun and we went way above and beyond, but this course would be a terrible way to learn the important nuances of building websites. I would just take a course elsewhere for web design. All in all this course was the most annoying course I have ever taken.
+
+Spring 2022
+Medium
+Disliked
+10 hrs/wk
+CIS-550: Database & Information Systems
+12/25/2022, 10:53:51 PM
+One of my least favorite courses in the program. This was my first elective and not sure if this issue exists for all electives, but TA support is nearly non existent. You can post a question on Ed and not get responses to it for days. The professor is the most active in answering the questions. The TAs didn't care about your success and you knew it. The class is overall not difficult but what makes it hard is they don't release hw solutions at all. This hinders the learning experience quite a bit as we never really know what we did wrong; or if there was a better way to do a problem, we would never know either. The final project was a painful last few weeks. I highly recommend spending time finding a good group with a diverse set of skills (data cleansing, query optimization, front end). The project took me longer than any other project I've ever worked on in MCIT. If you're not familiar with the parts you sign up for, it will take you a long time so start early if you can. This was said in other reviews, but at the end of the course, you are jack of all traits (two weeks in SQL, one week front end, one week mongoDB and one week Neo4j etc) and master of none.
+
+Fall 2022
+Hard
+Strongly Disliked
+20 hrs/wk
+CIS-550: Database & Information Systems
+7/19/2021, 8:02:28 AM
+Weeks 1-2 and 13-14 were super interesting (SQL & MongoDB/Neo4J, respectively), but a lot of time was spent on theory that doesn't actually come into play when working with databases in the real world. That said, this course did a great job preparing me for interviewing. DB questions came up almost universally in the SWE interviews that I did. Overall, course was a lot of work (especially combining in the project/final exam timeline), content was a bit over-the-top, but it was super useful preparation.
+
+Spring 2021
+Medium
+Disliked
+12 hrs/wk
+CIS-550: Database & Information Systems
+5/2/2021, 8:43:22 PM
+This course definitely feels like it covers some of the most practical material in the MCIT program but the execution and organization were not the greatest. There's a lot of very different topics that are thrown at you and are covered only briefly before moving on to the next topic. For example, HTML/CSS, Javascript, Node.js, React were all covered in the same week, with only a brief introduction before an entire assignment was due the week after. Some of the topics like relational algebra and query optimization were also quite abstract and took a while to get through but were only covered very briefly. On the bright side, the group project is definitely something you can put on your portfolio, but it can also be a challenge depending how your group is.
+
+Spring 2021
+Hard
+Neutral
+15 hrs/wk
+CIS-550: Database & Information Systems
+9/3/2022, 12:00:31 PM
+Really good course, people don't like the theoretical weeks but having watched CS 186 (Berkeley's Databases Course) concurrently with this course, this is exactly what they teach (and more). The theoretical parts are also highly relevant for data engineer interviews/roles (how to normalize data, diagramming skills one -> many, many -> many relationships, etc.) and just generally good-to-know knowledge for all software engineers.
+
+Only frustrating part was dealing with the group project (would honestly lookout for bad teammates and being prepared to code in React/Javascript), and the grading system for this course is harsh (A, A-, B+ were 90.5/89.5/88.5, and then it drops to B which is 80.5...) with two heavily-weighted 25% midterms.
+
+I ended up with a 96% on the group project after putting in more than 60 hours into it, and 92% overall. This course is not for the faint of heart. And for those who won't put in the time for the group project - be warned, your teammates will grade you poorly as there is a peer assessment part.
+
+Summer 2022
+Hard
+Strongly Liked
+20 hrs/wk
+CIS-550: Database & Information Systems
+5/4/2023, 11:49:08 AM
+The hardest parts about this class are keeping up with the lecture material, completing the homework, and not making dumb mistakes on the exams. The final project, on the other hand, is pretty straight forward. Our group had zero front end experience and ended up using the skeleton of a past homework assignment for pretty much all of our final project's front end and we did fine. This was the "easy" way to approach the final project and is always a fall back option if you take this course. If you can, find group members that have some experience with client-server architecture. If you start moderately early and put in a bit of work each week, you can come away with a solid understanding of React, Node.js, and SQL. The final project is either a chance to get super creative or simply an opportunity to explore the basics of what it means to make a full-stack webapp. Careful though, the weekly assignments and exams are sneaky difficult.
+
+Spring 2023
+Hard
+Liked
+15 hrs/wk
+CIS-550: Database & Information Systems
+5/12/2021, 1:53:04 PM
+For me this class was the most practical class I've taken so far in the program. I appreciated both the breadth and the depth of the material. The projects are time consuming but very rewarding. The web development component of this course had a steep learning curve for me but ultimately was very beneficial to my learning experience, and the group project tied the whole class together. I did feel that the first half of the course was better structured than the second half -- the last few units especially were very rushed, which is something to watch out for. After taking this class I definitely feel prepared to tackle technical data science interviews using SQL, which was my personal goal, and I appreciated exposure to HTML, CSS, MongoDB, and Neo4j. However (this seems to be an unpopular opinion) my favorite part of the material was the level of theory and mathematical rigor - these provided a deep understanding of the workings of relational databases, rooted in the fundamentals of relational algebra.
+
+Overall, I strongly recommend this class!
+
+Spring 2021
+Hard
+Strongly Liked
+11 hrs/wk

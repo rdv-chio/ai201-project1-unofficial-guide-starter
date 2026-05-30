@@ -1,0 +1,722 @@
+Reviews
+
+73
+Avg. Difficulty
+
+3.68
+Avg. Workload
+
+17.39
+Avg. Rating
+
+4.32
+CIT-593: Introduction to Computer Systems
+5/19/2023, 9:34:02 PM
+This course was a journey from transistors to C-language. Prof. Farmer does an excellent job of tying the story together coherently and supplements every section with well-crafted assignments that deftly reinforce the concepts. Personally, I already had quite a bit of experience in intermediate C++, so the concepts taught in this class weren't "new" to me and thus I was able to breeze through most assignments. But if you're new to these concepts, then they are absolutely valuable to learn, especially in the digestable way that Prof. Farmer has presented the course material.
+
+Fall 2022
+Easy
+Liked
+10 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/11/2021, 8:07:38 AM
+Very hard and challenging but every minute is worthwhile. The prof took the time in his lecture videos to explain everything clearly and TAs are awsome at answering questions.
+
+Spring 2021
+Very Hard
+Strongly Liked
+20 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/7/2021, 10:28:55 PM
+Favourite course out of the initial trifecta as you learn a great deal both in breadth & depth in a short amount of time. Some may argue that the contents, especially initially, are too conceptual, but I enjoyed the more wholistic content. The course moves fast and assignments are challenging. They require quite a bit of concentration (and time) as things can get confusing.
+
+The exams were by far the most difficult I've taken, however I thought they were an accurate and honest measure of my understanding of the course content. Grading was pretty harsh, but in hindsight I did not have a 90% (or even 80%, at times) mastery of the course content and my exam grades reflected that. Everyone can do well on assignments though given you spend enough time and thought on them. Overall, I thought 593's difficulty & content is what one should expect from a CS masters at Penn.
+
+Spring 2021
+Very Hard
+Strongly Liked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+12/20/2021, 2:20:16 PM
+This course covers too much irrelevant information in the first half and then rushes through the more important part of the course in the second half which leads to a lot of trouble by the time you reach the final project and the final exam. Most of the course is really simple and not that time consuming, with the exception being the final two C assignments and the final exam.
+
+Fall 2021
+Medium
+Disliked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/1/2023, 9:10:29 AM
+The content can be a bit difficult, and it is very dense with a lot of different things to remember. However, I think the quality of the course was excellent. The lectures are great, and I feel like the homework assignments are challenging but manageable.
+
+Spring 2023
+Medium
+Strongly Liked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+8/20/2022, 12:46:57 AM
+Really like this course. It has a very broad coverage, from transistor to CMOS to logic gate to assembly then to C. Such a great journey! After taking this course, I feel I started to understand what is actually behind the machine. Strongly recommend!
+
+Summer 2022
+Hard
+Strongly Liked
+29 hrs/wk
+CIT-593: Introduction to Computer Systems
+7/2/2023, 11:53:27 AM
+This course is one of the best structured courses in the program alongside 591 imo. The lecture slides from each module directly coincide with the HWs. The way the course is taught builds each topic upon the last. I think it would be a good idea to make sure you understand the content for a previous week before moving forward. Most of the course is straightforward along with opportunity to earn EC on some homeworks.
+
+The difficultly of the courses slightly increases in the last few weeks of the course when you need to study for the final/complete the final project in C. For me getting used to the syntax of C was were I struggled a bit. Outside of the syntax the logic for most of the code you write in this class isn't any worse than coming up with the logic for the programming assignments in the later half of 591.
+
+While I didn't have time to attend the recitations live, watching the recordings and exam review sessions were extremely helpful when it came to studying for the exams. Overall, making sure you understand the material each week while doing a fair amount of practice, will get you an A.
+
+Spring 2023
+Medium
+Strongly Liked
+10 hrs/wk
+CIT-593: Introduction to Computer Systems
+8/17/2021, 11:49:37 AM
+1. Since I'm a software engineer, I found the first 2/3's of the course much more difficult than the last 1/3. Once we were writing Assembly and C, I thought things were easier. That seems to be the opposite experience of most students.
+
+2. Time Management. For me, each weekly assignment was 8-12 hours, plus 3-6 hours of lectures, readings, and recitations. Don't wait until the weekend to start on the assignments!
+
+3. Mid Term. The difficulty was a surprise. Practice test seemed a lot easier. Doing the assignments alone will not prepare you. The mid-term made it clear that I did not deeply understand the material. The first half of the course is very heavy on diagrams and logic, which, to me, is easy to underestimate.
+
+4. Use Piazza to get help from instructors sooner rather than later.
+
+5. Very well organized and really interesting subject matter.
+
+Summer 2021
+Hard
+Strongly Liked
+18 hrs/wk
+CIT-593: Introduction to Computer Systems
+1/9/2023, 2:55:31 PM
+I absolutely enjoyed this class and found the material engaging and manageable. There is a lot of reading and information to go through, but I felt I was able to handle the workload well. It wasn't until the last section of the course when programming in C that I began to feel the struggle. I had a hard time picking up C (and still struggle with it today). If you are working full time it might be best to take this class on its own given the amount of material you'll have to go through and not necessarily the difficulty of the course.
+
+I found the professor to be friendly and involved in his student's learning. Dr. Farmer was welcome to students reaching out to him for help and was very useful for getting unstuck.
+
+Spring 2022
+Medium
+Strongly Liked
+30 hrs/wk
+CIT-593: Introduction to Computer Systems
+12/28/2021, 11:54:05 AM
+The course is very time intensive. The lectures are super helpful, and well recorded, but for me (with 0 computer science knowledge) the assignments took forever. The workload builds up every week, so if you stay on top of it and understand all the concepts, you will be fine.
+
+I was impressed by the TAs who are so engaged and willing to help. The grading and tests in this class are fair (until the final, I think it was not only way too harshly graded and tricky).
+
+Fall 2021
+Hard
+Liked
+20 hrs/wk
+CIT-593: Introduction to Computer Systems
+11/19/2020, 1:30:27 PM
+I loved and enjoyed this course very much. The topic is interesting and professor Farmer explains everything in a crystal clear way. The bit is a simple concept, thus bit-level processes (the topic of the first part) are also simple. I must add, that I completed the Nand2Tetris -- self-learning -- project a few years prior to taking the course, which "pre-cabled" my brain for CIT593. Showing the memory status all the time during the whole course helped a lot both to understand what is going on in a computer and to understand pointers. The hours include the extra HW problems as well.
+
+Fall 2019
+Medium
+Strongly Liked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+11/19/2020, 5:54:08 PM
+This is the best core course. Practical, interesting assignments help you to truly understand important concepts at a deeper level; there is no "busywork." Dr. Farmer is both an incredible teacher and a very kind person. Lectures are extremely clear, with good visuals. It feels like you are building a computer from the ground up. The things you learn in this course will truly make you a better C programmer. This course made me feel passionate about computer science and that I could succeed. The more time you put into this course, the higher your grade will be, but it is demanding and can be exhausting. Study groups are helpful.
+
+This course also consistently has one of the most engaged and enthusiastic TA teams.
+
+Spring 2019
+Hard
+Strongly Liked
+17.5 hrs/wk
+CIT-593: Introduction to Computer Systems
+10/29/2023, 8:10:55 PM
+593 left me with such mixed emotions - similar to what I've seen in many other reviews here.
+
+On one hand, the course flowed well for me - topics progressed logically through various layers of abstraction in the CPU. Each topic also tied into the broader industry well, validating why I was taking the course at all in the first place. Sitting in 595 now and my work, it is evident that 593 will undoubtedly help me even just in my baseline understanding of underlying computer systems.
+
+On the other hand, it did not feel that the course was set up well for working professionals. 593 was the only course I took this semester; and the weighting/challenge of the project and final exam amidst busy season at work definitely hurt my grade. Perhaps that's a planning issue on my part, but the emphasis on two items for the grade, the lack of curves anywhere, and the weekly assignments made it extremely difficult to catch up. More flexibility would be so very appreciated if this program is truly to allow for some self-pacing based on our other commitments in life.
+
+Summer 2023
+Hard
+Disliked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/6/2022, 6:58:55 PM
+This is a hard one to review, only because the course is built very well out of all the courses I have taken and very structured but the workload/exams are unforgiving. Prof Farmer is amazing and takes so much time to explain every little concept in detail but there are assignments every week and all of them require a lot of time to do. The exams are also closed book with the final being cumulative and the overall grading being absolute. So though I thought the course is designed very well to teach you the concepts, I felt the exams/project/assignments didn't need to be as hard/time consuming as they were.
+
+Spring 2022
+Very Hard
+Liked
+18 hrs/wk
+CIT-593: Introduction to Computer Systems
+10/16/2023, 3:29:40 PM
+I love Dr Farmer and I thought the content was super interesting. Dr Farmer clearly cares about the students, and the material is presented in a clear format. It's well explained and builds up to something really incredible. The two challenges are the quantity of material and the fact that it all builds on the previous weeks, so if you fall behind you're going to be in trouble. The class is incredible, though. Definitely my favorite of the program.
+
+Fall 2022
+Hard
+Strongly Liked
+16 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/3/2021, 8:04:45 PM
+The course is very packed. A lot of layers of abstractions all the way from the wires and transistors to the CPU and eventually programming such CPU. Liked it a lot for the knowledge.
+
+However, I still think that having students code all the machine code, assembly, and C sequentially is a little bit much (to be done in approximately 7-8 weeks, that is!). Maybe it would help if a little bit more of a C-language bootcamp-ish can be added each week we are doing C (which was only about a month or so).
+
+Overall, good course. Really enjoyed the insight and the challenge!
+
+Spring 2021
+Medium
+Liked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+12/13/2023, 9:45:25 AM
+I'll preface my review by saying that Dr. Farmer has the most lucid, easy to understand, lectures of any class I've taken so far in MCIT.
+
+The homeworks require a lot of effort but are fairly rewarding and do well to help you master the content. I was quite happy with what I had accomplished in Assembly and C as well as my overall understanding of the CPU by the end of the class.
+
+The reason for my negative review is because the exams (midterm + cumulative final) are absolutely terrible and their format (closed book/proctored) is frankly inappropriate for the subject matter. I think it's absolutely silly to test students' ability to write Assembly / C from scratch in a Word document without any reference. In addition, the exams are peppered with booby-traps / gotcha questions that are easy to miss. The exam format should either change to be open book + open note + take home, or the exams should be curved, or the exams should be worth a smaller proportion of the overall grade (maybe add free quiz points?), or all of the above.
+
+Fall 2023
+Hard
+Disliked
+20 hrs/wk
+CIT-593: Introduction to Computer Systems
+11/16/2020, 10:21:10 AM
+Course content is a little challenging, but not terribly so. The biggest issue with this course is the time requirement. The homework requirements are over the top and feel a lot like busy work for the first 2/3 of the course. Instructions for a lot of things are really ambiguous and make things harder than they need to be. Professor Farmer is not very engaged beyond his 1 hour of office hours per week. All in all, there are some good takeaways from the course, but it has room for improvement.
+
+Spring 2020
+Medium
+Disliked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+3/24/2021, 8:29:50 PM
+Can't say enough good things about Dr. Farmer. One of the best courses I've taken in my life. The course takes you through module by module and transitions between concepts so smoothly. In one moment you're typing 1s and 0s in, and then you're coding in C with very little gaps in between. The TAs (Katie Pizziketti, Eri Arai, and many more) were amazing. I wish I could learn everything through Dr. Farmer and these awesome TAs. The material itself isn't challenging, the course just has high expectations of you to really dig in and learn the concepts so you can apply then in different scenarios. As it should for a grad-level course. I really loved it!
+
+Spring 2021
+Medium
+Strongly Liked
+18 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/9/2022, 5:32:02 PM
+This class was great! The content was interesting, assignments were well thought-out, and the course content is thorough. The TA staff is incredibly responsive on Piazza. This course is tough--the content itself isn't too challenging, but there is a lot to understand and the assignments take a lot of time. I thought the first half of the course was fairly relaxed, but the second-half made up for it. There is plenty of extra credit available after the midterm, which are extra problems / extended learning opportunities on each assignment. I'd recommend attempting some EC to give yourself a cushion at the end of the semester (30% of your overall grade is due within the last week or so). I didn't do any extra credit aside from e.c. exam questions, and finished just under a grade cutoff. However, I ended up getting the higher letter grade, so I think there is a small bump at the end. As others have said, the final is difficult and requires a solid conceptual understanding of the second half of the semester in order to do well.
+
+Spring 2022
+Hard
+Strongly Liked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+11/19/2020, 2:37:12 PM
+Tale of two halves. The first half was super interesting, consistent workload around 10 hours per week, really well taught. The second (especially the last four weeks) half has a huge difficulty ramp with workloads in the 20 hours per week easily.
+
+Spring 2020
+Hard
+Strongly Liked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/8/2021, 9:24:20 PM
+I had so many a-ha moments while learning 593. That's why I'm really grateful for Dr. Farmer and all the TAs. I have learned some of the materials before, so I might be biased. But if you are willing to spend extensive amount of time on the materials, it will pay off. The midterm and final exam are definitely hard, but they are still doable. TAs are so helpful when it comes to HWs. So, if you care about GPA, good news is that it is totally possible to get A or even A+ thanks to extra credits. However, you might have to double the amount of time to get all the extra credits. And brace yourself for the last two assignments about C.
+
+Spring 2021
+Hard
+Strongly Liked
+10 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/3/2021, 10:32:24 AM
+This is definitely my favorite class that I've taken so far. Dr. Farmer is incredibly concise, sincere, and passionate about the material. The TAs and course staff this semester really went above and beyond. I came into this class with prior knowledge of C/C++, but now I feel like I have a real grasp of the many layers of abstraction that make C possible! The material is essential if you have any interesting in working with systems, but also sure to make you a better programmer no matter what language you use. The assignments were challenging, insightful, and never boring. The exams were very difficult, but I also felt they were fair. Rather than having you regurgitate material, they make you think about how to apply the concepts in new ways. In fact, I came away from both exams knowing something new which I think is pretty rare and valuable. 593 sets the bar for what an MCIT online class can and should be!
+
+Spring 2021
+Medium
+Strongly Liked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+10/18/2022, 10:47:33 AM
+There is nothing particularly hard about this course, its mostly content that many of us will not use in the field. This course could be slimmed down and rebuilt to include more relevent content. It wastes a lot of time going in the extremely fine details, but does not make use of them in the homeworks. I do not fault the professor he is a really nice guy. Not only that but he cares about every student.
+
+The problem just comes down to how much time has to go into a course like this for a mandatory course, on topics many students will not use in the future. I got lucky and this was my summer course where I had the most time, so it was mostly a time sink. Nothing to special about it either way, just basic, and I feel like less was retained then most classes.
+
+Information firehose is the best way to describe this course.
+
+Summer 2022
+Medium
+Neutral
+20 hrs/wk
+CIT-593: Introduction to Computer Systems
+12/16/2020, 9:15:08 AM
+This class is fantastic and has been my favorite in the program so far. The assignments are great, and its amazing how much content is covered in the span of the semester. Dr. Farmer's lectures are super clear and easy to follow. Beware that the second half of the class is significantly more work than the first half.
+
+Fall 2019
+Hard
+Strongly Liked
+10 hrs/wk
+CIT-593: Introduction to Computer Systems
+11/19/2020, 12:39:59 PM
+The professor made very good lectures and you can learn a lot from assembly to C. Very deserve the time.
+
+Fall 2020
+Hard
+Strongly Liked
+13 hrs/wk
+CIT-593: Introduction to Computer Systems
+1/4/2022, 4:55:58 PM
+Dr Farm makes the complicated and abstract content really structural and easy to understand.
+The TAs are helpful
+Recommand who is going to take it starts the hw as soon as possible, personallly it takes me at least 24+ hours after week6.
+
+Fall 2021
+Hard
+Strongly Liked
+30 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/4/2022, 5:39:04 AM
+I can see how this course would be hard for some. It builds up from the abstract bits to transistors, then to hardware and C. However as I was taking it after 6 classes in MCIT, I feel that the concept and practice wasn't challenging. The last few weeks with projects in C was when I got really excited, because it dealt with coding. Prior to that, the homework are more time consuming and requires detail review, since the volume was massive and you could easily lose points here and there. The course itself was designed logically, and Dr Farmer and TAs were very helpful and responsive. I feel that this is the best core course in the program and wish some other courses could be more like it.
+
+Spring 2022
+Medium
+Strongly Liked
+20 hrs/wk
+CIT-593: Introduction to Computer Systems
+12/28/2021, 4:28:48 PM
+Professor and lecture quality are top notch for this course. Difficulty for this course is not the material but with time management as there are so many topics covered and long assignments due weekly, it can really feel demanding at times to get everything done.
+
+Fall 2021
+Hard
+Liked
+20 hrs/wk
+CIT-593: Introduction to Computer Systems
+8/22/2021, 5:41:45 PM
+Great course! This course takes your CS journey into the hardware. From electrons up to the C programming language, you will get a thorough understanding of how your programs relate to the machine you are running it on. The instructor is incredible. Great with office hours and very responsive. The TA's were very helpful as well. What makes this course hard is the workload and the exams. The workload is quite intensive throughout the semester and gets even heavier in the last couple of assignments. The exams are also tricky. However, if you are passionate about computers you will love this course the same way that I did.
+
+Summer 2021
+Hard
+Strongly Liked
+17 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/4/2022, 2:43:27 PM
+This is a well-organized and taught course. The course starts from a transistor all the way to C program and also touch some basic idea of OS. Professor Farmer explains all the abstract ideas very well such that the course material can be easily understood. Because of the great lecture and the course material can be smoothly digested, I consider this course as medium.
+
+The load of homework is heavy but also the homework is extremely well-designed and tightly connects to the lecture. Due to the heavy homework load, don't bother with EC (extra-credit) questions in the homework if you run out of time. The last two assignments are very time-consuming, start it as early as you can. There is 1 opportunity to postpone one deadline of homework for at most extra 3 days. Use it wisely if you need it.
+
+Spring 2022
+Medium
+Strongly Liked
+30 hrs/wk
+CIT-593: Introduction to Computer Systems
+4/18/2021, 9:46:19 PM
+Hands down the best designed and executed university courses I have ever taken. I can't say enough good things about the course but I have some quick tips that may be helpful for future students:
+
+1) Recitations and TA Office hours are very helpful. Try to book at least one 121 TA session a week even when you think you can handle the hw yourself. It's useful just to talk through the concepts of the lecture with the TA.
+
+2) Try to start hw very early (no later than Wednesday). Get as many Extra Credits as possible before week 9. Before mid-term, try to finish everything early to start watching the lectures in the second half in advance.
+
+3) Try to learn some C before the term starts. Textbook "the c programming language” and https://www.learn-c.org/ are recommended.
+
+4) Practice exams are very helpful. Study the slides, then try to work on the practice exam closed book, then go back to the slides to revisit the material where you made mistakes in the practice exams.
+
+Summer 2020
+Hard
+Strongly Liked
+16 hrs/wk
+CIT-593: Introduction to Computer Systems
+12/8/2020, 4:13:56 PM
+Most organized course with the most passionate professor and TA staff! I didn't find the material particularly hard to understand, but you cover a lot of ground over the semester and learn tons. The workload & difficulty of the material is significantly more in the last few weeks when you hit the C programming portion. So worth the effort though! I am amazed at how much we learned!
+
+Fall 2020
+Medium
+Strongly Liked
+17 hrs/wk
+CIT-593: Introduction to Computer Systems
+8/23/2022, 9:16:43 PM
+There's a lot of great things to say about this course. It's amazing how much content is covered. The first 10 weeks are devoted to binary representation, logic gates, assembly language, trap calls and more, while the last four weeks are devoted to tying everything together in C. The course starts out with a recommendation by Professor Farmer to treat this course as like 'zombies'. Don't let it sneak up on you. One zombie is manageable, but if you take your foot off the gas and get encircled by them, heaven help you.... Taking this course over the summertime was tough without any sort of break like you'd have in Spring or Fall. Assignments will be due every week and none is easier than the last. Grading-wise, there are no surprises. The content covered in the lecture is directly applicable to the homework, which is perfect for my learning style. I didn't feel that the textbook added too much to my understanding of the material. I treated it more as a reference manual and didn't end up completing the readings past week 5. The midterm was well calibrated as far as the difficulty was concerned, but the final exam snuck up on me. I was not expecting it to be that difficult.
+
+Summer 2022
+Hard
+Strongly Liked
+18 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/4/2021, 8:54:00 AM
+I like the Assembly and C coding homework assignments and if only the exams were to write a code, I would have done very well in this course. The exams are more grounded on whether if it's a trick question or not. You will learn a lot in this course but as I said, the exams are more on if you will recognize if it's a trick question or not - so your exam results may not reflect how much you have learned in this course. Given that, do your best to get an A+ in your homework (60%) and attempt all the extra credits (not just for the grade but for learning purposes). Ask help from TAs and if you can't make it to live recitations and OH, you can always ask in piazza. The TAs are all great - and I did very well in the homework assignments because of the techniques taught in recitations (especially the ones led by Puneet and Leo).
+
+Spring 2021
+Very Hard
+Liked
+25 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/2/2021, 1:03:35 AM
+The content is great! Prof. Farmer really masters his topics. However, the assignments were unnecessarily rough time-wise and the penalty for late submissions is a whole 25% of the assignment grades. The midterm and final exams are impossible to finish in the time given and it's unrealistic to have to memorize the actual syntax of assembly and C programming languages. I would have preferred shorter and/or take home/open book tests. The time commitment took all the fun out of what would have been a very fulfilling course. Did I learn? Absolutely. Was it relevant for future jobs? I believe so, because understanding what's underneath the machine definitely makes you a better programmer. Did I cry, though? Of course I did. Many times.
+
+Spring 2021
+Hard
+Disliked
+20 hrs/wk
+CIT-593: Introduction to Computer Systems
+9/7/2021, 4:07:51 PM
+I just barely pulled an A (did EC on about 3 of the 9-10 assignments that had EC, one of which was the last assignment) at a 93.XX% final grade with EC. Scored ~84% on the first exam which was about 10% above the class average, and ~83% on the second exam which was about 15% above the class average. My overall homework average was ~97%.
+
+I'm sharing the above because based on what I've discussed with students who took the class before me and my own experience, this is a decent benchmark for an A: homework grades in the high 90s and test scores of mid-80s. I also feel like there may be a tiny bump at the end because a number of students are pleasantly surprised when the grades come out.
+
+This course is not curved but if you want a high grade, the EC is the curve. It's time consuming though and so I only did it for the first two assignments with EC and then gave up because I got 0 points on an EC that has no partial credit. I was ~guaranteed to get an A- without extra credit and the above grades. EC also only adds at most ~2% to your final grade.
+
+Class is interesting but time consuming. I only watch lecture videos, and only refer to recitation slides when studying for exams - never go to OH or live recitations. With that in mind, I spent around 10-12 hours per week watching lectures and doing the assignments, reading Piazza as necessary because most of what one wants to ask TAs has probably already been asked.
+
+The three weeks where I spent a LOT of time were week of the midterm (30+ hours studying putting everything together), assignment 12 (22-25 hours), and assignment 13 (27-30 hours). A handful of weeks early on in the course and when you just start C are very light, but as everyone says, final assignments are super time consuming. Studying for the final was easier because everything has built on itself and you know what to expect based on final assignments / how the midterm went.
+
+I recommend making sure you understand the lecture videos/slides (I took notes on the slide handouts themselves and ended up with an 800+ page PDF) and then just repetition. This course requires memorization and the more you go over materials, your understanding grows a little with each successive review. It's not too difficult conceptually, but I think the sheer amount of material makes it a bit daunting at first, but everything is broken down so that you can learn it well.
+
+Summer 2021
+Medium
+Liked
+14 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/3/2021, 7:18:33 AM
+593 sets the bar for what all classes in MCIT should strive to be, and Prof. Farmer is the highlight; he is engaging, sincere, and his lectures are clear and comprehensive. His passion for the subject matter comes across in every single video. The course structure is fantastic and it builds week over week to give you a fantastic understanding of computer systems. One small thing that I really appreciated was that when Prof. Farmer referenced a concept learned in a prior weeks lecture (that you might have forgot about), he would always do a great job of concisely reminding you of what it meant, so you didn't have to dig into your notes to find out. Another thing I appreciated is that unlike other MCIT classes I've taken, you don't need to spend hours searching for supplementary material online. Keep in mind the workload is steady throughout, but really builds up in the final 4 weeks, so plan ahead!
+
+Fall 2020
+Hard
+Strongly Liked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+9/3/2022, 2:14:52 AM
+Very interesting topic well taught. Only criticism that the workload is artificially high, both in assignment and exams. There is no need for a 4 hour exam.
+
+Summer 2022
+Hard
+Liked
+10 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/7/2022, 11:29:48 PM
+This has been my favorite course so far in MCIT. Though it might not help a lot with SDE interviews (which are heavily algorithm-oriented), it builds foundamentals, promotes "literacy" in computer science and helps you know what's under the hood, as computer science is far more than coding, algorithm, data structures, etc.
+Course content is pretty interesting and well-organized but assignments could be quite time consuming. However, it's all worth it!
+
+Spring 2021
+Medium
+Strongly Liked
+20 hrs/wk
+CIT-593: Introduction to Computer Systems
+8/22/2022, 12:45:14 PM
+This is a transformative course taught by a gifted teacher. It transforms you from a programmer to a student of computer science. It does so by claiming to let you look "under the hood" of the computer. This analogy, albeit accurate, does not capture the magnitude of what is revealed. It would be more accurate to say that it opens the door to a universe hitherto unknown to most students. But the door is not suddenly flung open lest you be blinded by what you see. Rather, Dr. Farmer gently guides you through layers of abstraction (which without his masterful guidance might resemble the circles of Dante's Inferno), opening one door after another, showing you bits and transistors and logic gates and circuits and memory and microprocessors and assembly language, until you reach that unapologetically unforgiving language called C.
+
+You job is to keep up, which requires work - a lot of it. None of the concepts taught here are difficult in isolation, but since they build on each other, it is absolutely essential to master each concept through abundant repetition and practice before the next door is opened. It is an all-consuming semester-long experience that most will find illuminating. Those who don't, will come to view it as a necessary evil. No one will argue with the word "necessary". Whether you love it or not, you will come to appreciate the generations of human ingenuity that have fueled the science of the computer and will realize that you are standing on the shoulders of giants the next time you program in a comfy high-level language like Java or Python.
+
+Summer 2022
+Hard
+Strongly Liked
+19 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/11/2021, 9:02:45 AM
+This is my favorite class I've taken so far. Such interesting subject matter (although, be warned, this class covers a lot of ground). Each week takes you up another level of abstraction in building a computer, and Dr. Farmer and the TAs do such a great job of fully explaining one topic before moving onto the next. I learned so many fascinating things about computers, and I'm definitely going to be a better programmer for it. The exams are hard, I'm not going to lie. But the reason they're hard is because they want you to comprehend the material, not just memorize it. Make sure you understand the topics on a deeper level because they will ask you questions on the exam that you hadn't thought to consider before. Always attempt extra credit on the exams and homework if you have time because it can change your letter grade by the end of the course.
+
+Spring 2021
+Medium
+Strongly Liked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+12/27/2020, 2:58:09 PM
+The course material is not that hard, but the sheer volume of homework will have you spending 15-20 hours a week plus more on the final 2-3 projects. The tests, however, are overly difficult for some reason, requiring serious in depth knowledge in order to be successful. There are extra credit opportunities, but the grade boost isn't necessarily worth the extra hours of effort (unless you have time, then go for it!).
+
+Lectures are top notch. Dr. Farmer's materials should serve as benchmark for the rest of MCIT. They are clear, concise, and you don't need many external resources (with exception of learning C syntax at the end). The TA staff is also the best I've encountered thus far, always willing to help and answering quickly on Piazza. Although the material kind of dry unless you're already an engineer, the thoughtful course design made it much more enjoyable.
+
+Fall 2020
+Medium
+Neutral
+20 hrs/wk
+CIT-593: Introduction to Computer Systems
+12/8/2020, 11:48:46 PM
+To me, the best class in the CIT core. The first half is a bit dry, but I'm writing this review a year removed from taking the class, and all the memories are good ones.
+
+Although the homework can be repetitive, it pays off later in 595 and CIS 547. The foundation that this class builds is - to me - the most important part of the CIT curriculum.
+
+Fall 2019
+Hard
+Strongly Liked
+20 hrs/wk
+CIT-593: Introduction to Computer Systems
+4/27/2023, 1:13:23 PM
+I can go very deep on this, but the course takes too much emphasis on hardware side. True, it's required to have some understanding on a computer hardware, but few in this program cares about the side; it's just "good to know" type knowledge. some homeworks ask excruciatingly niche parts of the course materials, for which I have no idea how to apply for practical purpose.
+
+much more emphasis should be put into the C course materials, but that is not the case. we barely touch double pointer use cases, how to efficiently allocate memory and clean up after uses. you'll learn more via the assignments that you just heard from lectures. simply horrible course design.
+
+The worst? UI of the general course page and weird quiz pop-ups. few minutes of videos and having to click multiple times distracted me so many times, so were the quizzes. make the quizzes multiple choices, and just create at most 3 lecture videos so that students can stay focused during the session. the UI is simply appalling. and also.. don't ask students to submit multiple files and blah blah for a single homework.
+
+Spring 2023
+Hard
+Strongly Disliked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+8/24/2022, 8:25:22 PM
+Hands down the best course I’ve taken online, on-campus, anywhere. It’s a difficult job to cover so many interesting yet dense topics, from transistors to assembly language then to C, in such a short time. But Dr. Farmer and his team did it seamlessly. I got the lowest grade from this course so far in the program but like it best.
+
+Fall 2021
+Very Hard
+Strongly Liked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+12/11/2025, 12:38:32 AM
+I found this class really challenging. The course design covers so many topics that are really different from one another that I found it really difficult to keep up. I felt perpetually overwhelmed week-after-week. I thought the professor was nice and the lecture material was well-thought-out, but overall just the efforts of this class to cover so many topics made it tough. I wish this class were split into two -- one on transistors, assembly, cpu architecture and a second course on C. I struggled to get my footing in this class and felt like I couldn't catch up
+
+Summer 2024
+Very Hard
+Disliked
+20 hrs/wk
+CIT-593: Introduction to Computer Systems
+8/31/2021, 4:30:25 PM
+Hands down my favorite course out of the core classes. Incredible learning experience to come out understanding computers down to a very fundamental level. Lectures are informative, and in combination with the readings and assignments, the course materials are all you need to really understand everything and succeed. All that being said, it is a hard class, time consuming, and the assignments build on one another (so if you miss something in one, it might come back for you the next week), so staying on top of the material each week is really important! Exams are really tough, grades aren't curved, and Prof. Farmer thinks Cs are good grades that demonstrate you've learned a lot, so that can be a little stressful. But it's totally possible to get an A/A+ in this class if you can put the time and effort in.
+
+Spring 2021
+Hard
+Strongly Liked
+20 hrs/wk
+CIT-593: Introduction to Computer Systems
+6/9/2023, 9:59:11 AM
+This class is fantastic! Speaking from my own experience (I have taken over 25 graduate level classes at three different universities and have also taught at the undergraduate and graduate level) I can honestly say that CIT 593 with Dr. Farmer is one of the best courses I have ever experienced.
+
+The course takes the point of view that you know nothing about computers or computer science, and breaks the semester into two parts. The first part builds up your knowledge on binary representation, logic gates, and ultimately gets you to the CPU and assembly language. The second half of the course mainly covers the C programming language, and the materials and assignments help to reinforce key concepts of how the CPU and memory work together to execute programs. From my point of view, this is the keystone class upon which the MCIT program is based, and I am glad that the program director Dr. Farmer takes up the task of teaching it himself. In terms of materials, video production, pedagogy, assignments, and topics covered, it is very clear that this class is a labor of love for those involved. Office hours, recitations, TA hours, and discussion boards are all great.
+
+One of the best aspects of this course is that upon completing it, all sense of imposter syndrome melts away. I am in 594 and 595 right now, and while we are learning new concepts and material, the sense of ‘am I cut out for this?’ is completely gone. CIT 593 provides a bedrock foundation which makes technical computer science concepts much easier to learn and incorporate into your own understanding. To use an analogy, if we imagine computer science as a craft like carpentry, 591 introduced us to hammers and saws, 592 showed us how to calculate how much lumber and how many nails we need for a project, and 593 shows us how a house is actually built from the ground up. Once you understand how it all works, everything else seems like variations on some core themes.
+
+Overall, I highly recommend this course, especially with Dr. Farmer at the helm. My only cautions are that this can be a time intensive course especially on the later assignments, and the final exam is much more challenging than the midterm. But if you put in the time and really grapple with the material, this course will change you for the better. In fact, it will probably change the way you view the machine you’re using right now to read this review!
+
+Spring 2023
+Hard
+Strongly Liked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+9/13/2022, 6:38:38 AM
+I didn't find this class terribly difficult. I took 592 at the same time as this class, and this class felt like coming up for air after drowning in 592. Yes, there is a lot of material every week, and yes the homework assignments are sometimes quite lengthy, but the lecture material is far and away the best I've ever seen. I agree wholeheartedly with another review here that said "I never felt lost". As a result, while I sometimes had to spend a little extra time to get the assignments done to my satisfaction, it always felt engaging and even fun. I've heard many complaints about the workload towards the end of the semester, but I didn't find the last few assignments or even the final project to be terribly difficult or time consuming. Maybe an additional 5 hours a week for the last individual assignment and the final project, and I even did substantially more work on the final project than my partner did. Tom Farmer's office hours were useful and he would often code up little demonstrations on the fly to answer questions, which I appreciated. The army of TAs for this class were great, and I was always able to get help when I needed it. I attempted and received most of the extra credit for the assignments in this course and on the exams, which amounted to what seems to be a 3-4% bump in my final grade (I was at an 89.9% and received an A). To help give a benchmark for an A, my assignment/project average was ~94% (without EC), midterm 99% (with EC), final exam 75% (with EC). Agree with other comments here that the final exam was very difficult - too much material to truly prepare for and tricky exam questions that were considerably harder than the practice final.
+
+Summer 2022
+Medium
+Strongly Liked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+8/18/2021, 5:30:45 PM
+This course takes diligence and time. The materials and assignments build upon the previous weeks', so it's key to make sure you have a comfortable understanding of previous materials.
+
+Some weeks were very interesting, other weeks I found very perfunctory (do I really need to practice converting hex to ascii? that's why computers exist...). The assignments are thoughtfully designed and the professor and TAs extremely helpful. Overall it is a very solid core course that helps you understand how computers work from the 0s and 1s.
+
+Summer 2021
+Hard
+Liked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+11/16/2020, 2:32:32 PM
+The most time consuming class in the core, but a great class that really changed my perspective on CS and gave a lot of useful insight on how computers actually work. Dr Farmer is the best professor I've had in my 8 classes in MCIT, great lecturer, great office hours, and great course design. Exams are quite difficult, there is a ton of material, the final is cumulative, and the exam takes every bit of the time you're allotted.
+Homework assignments can take a long time, so make sure to start early, and ask for help since it is easy to make subtle bugs in assembly or C that are difficult to catch.
+Textbook not very good, it's a better use of time to rewatch lectures than read text.
+
+Fall 2019
+Hard
+Strongly Liked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+12/27/2020, 5:45:22 AM
+It was really difficult for me to understand without any engineering background. I usually spent all my weekends for hws and stayed up until 2am for 3 days in row for the last few weeks. It was difficult, but you can definitely find yourself immersed into the material.
+
+Fall 2020
+Hard
+Liked
+20 hrs/wk
+CIT-593: Introduction to Computer Systems
+3/11/2023, 7:10:47 AM
+I've taken a lot of classes in my academic career and this is absolutely top 3. The professor's ability to start at the smallest building blocks then build every week was incredible. Each week builds on the next, so stay focused!
+
+Summer 2022
+Easy
+Strongly Liked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/3/2023, 11:57:05 AM
+Pros: Structured excellently -- everything needed to succeed is provided in the course.
+
+Cons: Excessive and unnecessary work. Assignments were so long, and in my opinion much of it was needlessly repetitive.
+
+Fall 2022
+Medium
+Neutral
+25 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/2/2022, 4:43:55 PM
+Course is very well curated. It helped me understand a lot. However the workload was crazy, it is bit theoretical (first 5-6 weeks). I was working full time and hence at times I struggled to finish homework on time (i didnt take any other course). One grouse I have against the course is, no body told me that during exam we will not be provided IDE. So we have to code "blind". I was not prepared for it.
+
+Spring 2022
+Very Hard
+Strongly Liked
+20 hrs/wk
+CIT-593: Introduction to Computer Systems
+3/27/2022, 11:47:06 AM
+Very well taught course, covers the fundamentals from transistors to the C programming language. Great video lectures and recitations. Exercises complement the lecture material very well and deepen the understanding. The workload increases significantly towards the end of the semester, if possible I would suggest to earn as much extra credit in the first 10 weeks and skip the EC questions of the later C programming exercises. The exams were fair but challenging. Overall, one of the best lectures of the core courses.
+
+Fall 2021
+Medium
+Strongly Liked
+12 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/4/2023, 2:13:03 PM
+This is by far the best class I have taken so far out of 591, 592, 593, 594, 596. I never even considered the field of embedded systems, but this class actually made me think about what a career in that field would be like. This class provides some fundamental knowledge that is critical to be truly called a computer scientist and not just a programmer.
+
+Let's start with the lectures. These are clearer and more engaging than classes that I had in person. Each lecture built upon the previous one and it all felt coherent an easy to follow. The structure of the class is amazing as you work your way up from the binary level to the CPU level then machine code to C. You learn an insane amount of information in an organized manner which really helps with retaining the information. Dr. Farmer is also a great lecturer and feel enthusiastic to be teaching this material.
+
+I did not find the need to use any outside materials other than documentation for C.
+
+Homework was time consuming but helped reinforce concepts as homework should. Make sure to format you circuit diagrams and timing diagrams properly, speaking from experience. Last two assignments are very time consuming, so get started on them early.
+
+I think the course is not too difficult until you get to C. As long as you follow each lecture and understand the concept you will be able to fully understand the CPU lecture easily. Assembly is tedious and prone to error but not difficult. Then you start C in which we covered the basics of the language quickly. What you need to focus on is pointers and the stack. Spend at least a week on these two concepts. If you understand pointers and how the stack is setup you will do well on the C portion of the class.
+
+Exams were very fair and reflected what we learned in class. Practice exams give a general overview for what will be on the test. You will find the same type of questions on the actual test as the practice test. Grading was also fair and straightforward. There is some extra credit on the exams some of which are easy and some that are more time consuming.
+
+The class is not curved. I would highly recommend doing as much extra credit on the early homework assignments since the homework assignments starting with assembly begin to get longer and more intensive. Class does not take too long early but begin to spend a couple days on the homework to get all edge tests and debugging when you start assembly/C.
+
+
+Spring 2023
+Easy
+Strongly Liked
+17 hrs/wk
+CIT-593: Introduction to Computer Systems
+11/19/2022, 2:52:36 PM
+If first half was appropriately difficult, the second half is definitely not friendly for people who have NO programing background. The gap between what first half was about and how difficult second half of the course is is HUGE and it's missing some conceptual big-picture explanation especially when it comes to C language. I agree with another reviewer, the course should be split into two courses.
+Pros:
+- Some of the content were pretty interesting, including how computer actually works, and how machine language works with other higher level language
+Cons:
+- So much content jammed into one course, and the key concepts and main ideas are lost a lot of times in many many dense details and dense material.
+- C language was particularly a pain point, the course assumed everyone understands what's going on with the C language logic, how functions are written. No over arching high level conceptual explanations of rules/logics for C
+- Homework and course material are disconnected sometimes, require a lot of study on your own
+
+Fall 2022
+Very Hard
+Disliked
+20 hrs/wk
+CIT-593: Introduction to Computer Systems
+11/20/2020, 1:34:37 PM
+The first half of the course covers a lot of material, as you go from building a simple circuit using transistors to a mini-computer that can perform basic operations and everything in-between. If you have prior experience with C/C++, the second part of the class is not as difficult but the last two assignments are quite lengthy.
+
+Fall 2020
+Medium
+Strongly Liked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+4/21/2021, 8:45:24 AM
+This class is no joke. First half of the course, which focuses more on hardware, the material was more difficult for me to learn personally since it was all completely new and could feel like information overload. Most people believe that the second half of the course, which focuses on C, is more difficult. I think having a few years programming experience has helped me pick up C easier. However, the last few HW assignments are extremely time consuming. There is HW due every week, and some assignments can take 10+ hours to complete. If you work full-time, I would make this your only class or pair it with a course that has a much lighter workload like 594. The exams are also outrageously difficult, more difficult than the HW assignments and they are closed book. Average class grade on exams has been a C and there is no curve. That being said, you learn A LOT in this course (even if your exam grade does not reflect his), and the TAs, video lectures, and Dr. Farmer are all fantastic. High quality course. Many opportunities for extra credit and luckily your grade does not weigh the exams so heavily compared to HW.
+
+Spring 2021
+Hard
+Strongly Liked
+14 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/2/2022, 7:56:59 AM
+This was a great course and Dr. Farmer is an amazing and very engaging professor. The course is exactly what I hoped all MCIT classes would be like. The lectures in Coursera are very well designed, and, combined with the required textbook, they provide you pretty much everything you need to succeed. If you take good notes and carefully follow the lectures, you'll do well.
+
+This class is hard (and often tedious) for most everyone, unless they already know assembly and C; I don't think it would be "easy" for anyone though (if it is easy for you, MCIT might not be the right program). If you put in the time, you should be able to get an A on most of the homework; getting an A on the exams will require a lot of studying and memorization though. Do not underestimate how difficult the final exam is...it will essentially cover everything since the beginning of the semester, and it will take nearly 4 hours.
+
+Constructive Criticism: The homework instruction documents were not very well formatted, making them hard to follow sometimes. The exams had to be done in a Microsoft Word document (saved and submitted as PDF), requiring embedding of photos from other tools as well as typing raw C and Assembly code in the document. This was very clunky and insanely frustrating, especially when dealing with Honorlock proctoring trouble. I would have preferred a thorough project over exams.
+
+Spring 2022
+Hard
+Strongly Liked
+13 hrs/wk
+CIT-593: Introduction to Computer Systems
+4/26/2023, 6:06:49 PM
+The reason I put "Neutral" here is, I didn't like the content of this course (I found a lot of the content quite boring which put me to sleep) but I did like the professor and the way he taught the class. The professor and the slides made the boring content not that hard to comprehend and tolerant.
+The homework cost me so much time and I found most of them quite challenging. When I was going through the first half of the course, I thought, man this is a lot and this is hard. Later on in the second half, I realized how easy and light-loaded the first half was compared to the second half. When it came to assembly and C, both workload and difficulty went up high. I questioned myself so many times and found myself miserable and I was like "I never want to see C ever again in my life!" (yet the next semester I was in 595 oh god) The exams are very brain melting. The challenging part is that there is a lot of questions. If given enough time I think everyone can get good grade as long as you worked hard through out the semester. But to get everything correct within the time was a mental challenge.
+The professor Dr Farmer is hands down my favorite professor so far. He really knows how to TEACH. He explains things very clear, little by little, with the help of great powerpoint slides. It was very enjoyable watching the lecture videos.
+I think most people say this course is challenging because of the workload, not the overall difficulty, nor the difficulty of getting A. I think because the professor explains things very well and the materials are great, as long as you really put in your time and effort and do your homework and projects and reviews, you will get a good grade.
+
+Fall 2022
+Hard
+Neutral
+16 hrs/wk
+CIT-593: Introduction to Computer Systems
+12/11/2023, 6:13:34 AM
+Probably one of the most time-consuming courses I've ever taken in my graduate studies (masters in medial physics from Penn before this), but easily also my favorite (note: I did not say difficult). It was a steep mountain to climb, but Dr. Farmer and the TAs were my sherpas through the whole class. Often times I felt like I was just barely keeping my head above the flood of information, but the lectures and to some extent the textbook helped me stay afloat if I kept chipping away at the material constantly.
+
+My advice to those coming into it: do not sleep on the zombies! It is the most apt analogy to this class, which Dr. Farmer embraces, that it is a zombie movie that keeps on coming. **IF** you stay on top of the material: finishing module lectures in a timely manner all week, peeking at the homework to start a module and taking notes relevant to it as you go through the lectures, and asking questions on Ed as you come across them, you will do fine in this class. **BUT** you must stay on top of this class, or else it will devour you with the firehose of content that ultimately takes time to digest and build upon itself.
+
+My somewhat more directed advice:
+-Modules 1-3 (bits, bytes, logic gates): CS50 from Harvard, especially the intro week 0, is a good primer for your brain to think in this realm.
+-Modules 4-5 (datapaths and ISA): live and breathe in those LC-4 Diagrams, highly recommend printing out some copies of the diagrams and tables or even laminating them so you can follow along the datapaths
+-Modules 6-7: I would recommend using something like VS Code which has an LC-4 assembly add-on which can do some syntax highlighting for you, versus Codio which is really just a simple text editor.
+-Modules 8-12: Definitely recommend an IDE at this point, if not VS Code, I think CLion from JetBrains is the best bet here. Syntax highlighting alone is worth it, but once you get the IDE running C programs, the debugging tool is your best friend and will save you hours of headaches versus using Codio alone. This, plus github for the final project, and the second half of the course is not quite as evil as it could be.
+
+Fall 2023
+Medium
+Strongly Liked
+18 hrs/wk
+CIT-593: Introduction to Computer Systems
+1/3/2022, 11:32:51 AM
+In terms of workload and difficulty, this wasn't bad at all until the last 3 weeks of the class, when the hours per week went from about 10 to 20+.
+
+I wish that the class would consolidate a few of the early weeks (on logic gates and such), and spread out the later, more important subjects. It also would have been helpful to have smaller, maybe optional assignments, again especially in the latter half of the course.
+
+As most of the other reviews have noted, the lecture videos, TA's, and Professor Farmer were all great.
+
+Fall 2021
+Hard
+Liked
+14 hrs/wk
+CIT-593: Introduction to Computer Systems
+8/22/2021, 4:25:28 PM
+This is a highly regarded course for a reason. The course is hard and has a lot of content – especially the exams – but it is extremely well taught and well thought out. Everything connects together piece by piece, and it's extremely satisfying to look back and see the full journey of this course.
+
+It's the course that has gotten me to a point where I feel I can truly say I understand how a computer works from the most basic level (bits and logic gates) to the code that we program every day, and it's this kind of knowledge that I feel differentiates a program like MCIT (and other people who have gone through CS program) with a coding bootcamp grad, for example.
+
+Summer 2021
+Hard
+Strongly Liked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/3/2021, 7:39:32 AM
+The course materials, Dr. Farmer, and his team of TAs are just top notch. The content taught could be very dry, but Dr. Farmer's way of teaching has made very complex concepts much easier to grasp. My only complaint is the insane workload. Prior to the midterm I probably spent 15 hours a week on this class, and after the midterm about 25 hours a week. The easiest weekly assignment took me about 6 hours, and the hardest probably 25 hours (the last 2). This is in addition to time spend on learning the materials and recitations and office hours. Definitely start on assignments early to avoid stress, promptly seek for help on Piazza or during office hours, and make sure you know the content well before starting. The exams were possibly the most difficult I've taken in my life. I spent a lot of time studying and felt confident that I know the concepts well, only to be crushed to see how many problems I've had to guess. Average score was around low to mid 70s, and class is not curved, so make sure you do very well on assignments.
+
+Spring 2021
+Hard
+Strongly Liked
+20 hrs/wk
+CIT-593: Introduction to Computer Systems
+6/4/2023, 8:42:59 AM
+Very interesting class where we cover a ton of material. Not as hard as I thought it would be but is a very demanding class. The projects towards the end of the class get very tough. First few weeks are deceptively easy. The course is well structured and organized though. I used the textbook for the first 3-4 weeks and then basically stopped using it.
+
+Fall 2022
+Hard
+Liked
+20 hrs/wk
+CIT-593: Introduction to Computer Systems
+4/6/2023, 7:02:29 PM
+The class is structured very well but the amount of information you have to retain and apply into homework each week becomes overwhelming. Lecture videos in each module may not always cover everything you need to know to complete homework. You have to attend/search through recitations and the textbook. Homework explanations/solutions aren't always given (even before an exam) and grading is very unforgiving.
+
+Tip: get ahead on the material as much as possible as there are no breaks between homework, projects, and exams. So if you fall behind a little, it gets difficult to catch up.
+
+Spring 2023
+Very Hard
+Strongly Disliked
+28 hrs/wk
+CIT-593: Introduction to Computer Systems
+9/1/2022, 2:39:25 PM
+This course is remarkably well organized and covers a huge spectrum of information. Dr. Farmer is a master - both of the material and in his ability to design clear, concise, lectures that make abstract concepts approachable. I loved the first half... but programming in C is tedious and I was pretty burnt out by the end. The content isn't overly difficult but the homework was very time consuming (at least for me)... start early and work a week ahead if you can. Make sure to take advantage of any extra credit opportunities, as the final is a beast! Although I sometimes struggled to be completely engaged in the content... I cannot say enough good things about Dr. Farmer and his enthusiastic TA/support staff. They made a course that might otherwise be a sufferfest totally manageable.
+
+
+Summer 2022
+Medium
+Liked
+20 hrs/wk
+CIT-593: Introduction to Computer Systems
+4/26/2022, 8:08:35 AM
+I circled back to this course after already having taken 591,592,594,596 and 521. I believe having been immersed in this program for a while and learning how to be successful in other courses made this feel much lighter by comparison. Spending time drilling into the early concepts with extra attention to detail will pay dividends throughout the course, as the layers of abstraction build. The course materials are well put together. As other have stated before me, Dr. Farmer has produced a set of high quality lectures and supplemental materials which require no outside resources to find high levels of success. The TA's are available and responsive. I can see how the end of the course may be very time consuming for someone coming in without any (or little) programming experience. For someone who is very comfortable slinging code, the last few weeks are only slightly more time consuming than the first 10 weeks of the course.
+
+Spring 2022
+Easy
+Strongly Liked
+10 hrs/wk
+CIT-593: Introduction to Computer Systems
+12/9/2020, 8:26:50 PM
+Very enjoyable class. Professor Farmer is an expert online teacher. Every concept is explained in detail, there are no skipped steps. The assignments are difficult but they are fun and engaging.
+
+Spring 2020
+Medium
+Strongly Liked
+15 hrs/wk
+CIT-593: Introduction to Computer Systems
+5/9/2021, 3:12:28 AM
+The material is self content and easy to understand. The topic is very interesting and kind of an eye-opener. I really hope Dr. Framer will teach more courses in the future!
+
+The assignment are a little bit tedious for the first few weeks, but it will become more challenging in the second half of the semester. EC takes quite an amount of time, but all efforts paid off when you receive the final grade.
+
+Spring 2021
+Hard
+Strongly Liked
+17 hrs/wk

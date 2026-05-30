@@ -1,0 +1,809 @@
+Reviews
+
+75
+Avg. Difficulty
+
+2.57
+Avg. Workload
+
+10.69
+Avg. Rating
+
+3.48
+CIT-594: Data Structures and Software Design
+4/18/2021, 10:01:42 PM
+The course is too easy for even an undergraduate-level data structure course. There are many important topics in DS that this course has not covered.
+
+That being said, the Recitation is the best part of the course. Join live sessions if you can. You will have loads of pair programming with classmates which helped me a lot in solving Leetcode type of problems.
+
+Spring 2020
+Very Easy
+Disliked
+6 hrs/wk
+CIT-594: Data Structures and Software Design
+12/24/2022, 9:31:21 PM
+As mentioned in a lot of reviews, this class is way too easy as a data structure class. The course did cover all kinds of data structure but the contents and assignments were too easy. The simplest assignment probably took less than 30 mins, while the hardest one took around 4-6 hours. To be honest, I didn't learn much from those assignments, they were like LeetCode Easy questions phrased in a confusing way. Final project was probably the biggest letdown, for which we spent a long time polishing our functionality, and making sure the calculations were correct, but got many points deducted for some very simple design pitfalls that were never explicitly taught in the lecture. The final exam was probably the only part that had the right level of difficulty. However, I don't think the easy course prepared students well for the exam. And then there was a huge curve (~13%) on average applied for the exam (basically students with higher scores gets no / little bump, while students with lower scores gets a much bigger bump). Given the exam was curved so heavily, I don’t understand the point of making it challenging at the first place. The 5% extra-credit assignment was nice, which relieved a lot of pressures regarding the final grade and made 5940 one of the easiest classes to secure an A. I don’t feel that the efforts and time put into this class were well reflected in the grade.
+
+Fall 2022
+Very Easy
+Disliked
+7 hrs/wk
+CIT-594: Data Structures and Software Design
+5/6/2022, 7:06:54 PM
+If you're coming right after 591 or if you have good experience with Java, this course should be on a very light workload going into it. Assignments are not too time consuming and only 1 final exam. Overall the course I felt was what you make out of it because it doesn't force you to learn the concepts but covers all the basic info. So if you spend the extra time going through the non graded recitation problems or outside courses, you might enjoy it more. I would pair it with 593 or 596 to help with the course-load in the other courses.
+
+Spring 2022
+Easy
+Liked
+7 hrs/wk
+CIT-594: Data Structures and Software Design
+8/31/2021, 7:50:05 AM
+Overall, I want to say I liked the course. The videos were recorded by Chris Murphy but our lecturer is Dr Rubin. The homework assignments are on the easy side, but it still was very useful for you to understand the usage of data structure and basic big-O analysis (though it could be topped with 596 materials to make it more helpful preparing for job interviews). I spent around 2 hours weekly going over the videos and another 2-5 hours tackling the homework. This was a great companion class to go with 593 or 596 until the last month, in which the workload skyrocketed on the last two projects. Final exam was fair and it highly aligned with the practice exam, I think most of the people got a decent score.
+
+Summer 2021
+Easy
+Neutral
+5 hrs/wk
+CIT-594: Data Structures and Software Design
+12/18/2022, 3:40:20 PM
+The projects in this class are interesting and useful. But the video lectures are really basic and boring. They are recorded by a prof that doesn’t work at Penn anymore. And honestly they are so mind-numbingly basic I would get angry watching them. There are no recitation lectures, so you have no opportunity to learn about the content from a different perspective other than reading the textbook. There are recitation activities, but these do not contribute towards your overall grade. Some students had issues with “hidden tests” in the autograder for each programming assignment, but I didn’t have a problem with this. My average on all the programming assignments was an A. I got an A- on the solo project. I got 60% on the final exam. There is no review recitation for the final exam. And other than one practice final, no other review resources. Professor Rubin essentially treats the final exam as a way to trick students. There are a number of questions that require knowledge from other arenas (like 592). The exam is open book, open note, and you can access the Java api. But during the exam I felt like I had an advantage for two reasons: 1) one of the questions was easily answered by students who’ve taken or are taking 592. The material in this question was not covered in this course. 2) another question I knew the answers to from previous programming experience. but trying to answer this question from java docs (the expected way you are considered to be able to answer the question) seemed impossible). Even having these advantages, I got a 60%.
+
+Essentially, the professors tests you on things he thinks are important in programming and skills advanced programmers should have. But there are little opportunities in the class to learn how to do these things and get meaningful feedback on them.
+
+I was not able to attend many of the unrecorded recitation activities due to my job. Also the Professor office hours and recitations were not helpful. I feel like prof Rubin is unwillingly to amend his teaching style to full time working professionals , which is who MCITO is partly made for. The Professor is unwilling to make material easy for students to understand and I feel like he’s one of those old school comp sci people who likes to gatekeep knowledge from newcomers by obscuring important ideas in overly complicated or out of reach topics. In his “review office hour” he seemed to gloat about how clever his exam questions were instead of just reviewing topics.
+
+Frankly I do not understand why the only way to get information out of this course is from a textbook or from old lecture videos from a professor who has left Penn. The way this course was taught inhibited my learning. I don’t care about my grade. It has no effect on my life or future. I care that I wasn’t given resources or support that I paid thousands of dollars for. Why aren’t there recitation lectures run by TAs?
+
+Fall 2022
+Medium
+Strongly Disliked
+10 hrs/wk
+CIT-594: Data Structures and Software Design
+12/18/2023, 10:40:03 AM
+This review differs slightly from what I interpreted the consensus to be - 594 was not quite as easy as was advertised. From what I've read, the revamped curriculum/assignments present more challenges than in the past.
+
+In terms of the assignments, you only have weekly HW for the first half of the course. Each one appropriately assessed your understanding of the material with 591-like coding problems. The unit testing component grading was not clear, but this is more of a TA communication fault than an inherent flaw of the course. Apart from one assignment, the class average in each was always an A.
+
+
+Then, in the second half of the course, the structure of weekly assignments completely dissolves. Instead, grades come from two projects (one individual and one group) and a final. The final definitely hurt my grade - and it is critical to make weekly progress on the projects to ensure you don't have too much work too late. The one benefit is that the group project built some off the individual project, reducing the amount of work needed.
+
+Otherwise, the course content itself and flow of modules made a lot of sense. All in all, this experience left me with a neutral opinion of 594 - it's definitely a non-trivial amount of work, but nothing insurmountable as long as you give it some dedicated time, effort, and thought.
+
+Fall 2023
+Medium
+Neutral
+12 hrs/wk
+CIT-594: Data Structures and Software Design
+1/26/2024, 11:08:24 AM
+The organization of this class is not good. The module material is not specific enough to understand what is going on in the homework. They are just throwing a bunch of different material at you (text book, java API, module videos, random links) and telling you to read all of it.
+
+There's not a focus which makes it difficult. Would recommend not taking this until there is better organization of the course from the staff.
+
+Honestly I am disappointed given how important this topic is.
+
+Spring 2024
+Hard
+Disliked
+15 hrs/wk
+CIT-594: Data Structures and Software Design
+10/27/2021, 10:22:40 AM
+I really enjoyed the lectures and the content of this course. However, the new professor that has taken it over has begun the process of revamping the course to make it more difficult starting at the end of the course material and moving forward.
+
+When I took this course in Summer 2021, the assignments from the first 10 weeks or so usually averaged out to being difficult, but doable. However, the last assignment, the group project, and the final were much more difficult. Very, very difficult. I was lucky that I had kept up a decent grade over the first 2/3 of the course, but even with that cushion the last month of the course was so stressful. In the last assignment (which was like a 75% scaled down version of the Group project except that you have to do it all on your own) my code would not even compile. In the group project, my group project partner carried me across the finish line because I was so overwhelmed. After the course, I looked at how I did overall, and found that I would have passed the course without a great group project partner, but only just barely with a C-.
+
+I want to add a disclaimer to say that 594 was the 2nd class I took in MCIT and that I am one of the minority of students who came into the program with basically 0 programming experience. (I was out of what I knew into completely new material by the end of Week 2 in 591.) I took 594 2nd because I was told that it was an easy class, and although, objectively I think that is true, for someone who is extremely new to coding, it was not an easy class. If I could go back and redo it in hindsight, I might have considered pushing taking 594 back until I had a few other course under my belt.
+
+In summary: I really enjoyed the content of this class, but it was extremely difficult for someone who truly was new to programming.
+
+Summer 2021
+Hard
+Liked
+10 hrs/wk
+CIT-594: Data Structures and Software Design
+7/6/2022, 8:00:34 AM
+I see quite a few complaints about this class, ranging from light programming assignments to not going in-depth enough to not being spoon-fed everything to the instructor. This seems to me to be slightly juvenile and undergraduate-minded. It is true that you can get by in the class without killing yourself with effort, but all of the material is there (especially and including the textbook) to get a really good and detailed understanding of the data structures you'll actually end up using in most contexts. Additionally, Rafi Rubin is both extremely available and extremely knowledgeable (I liked his slightly sly sense of humor, too).
+
+If you don't want to read the textbook and you don't want to ask questions of the instructor, well, neither of these things are mandatory to pass (you can do it just find with the lecture slides, javadocs, and reading old stack exchange forums, should you wish to do so). But that's not grounds for complaining about the class itself, which treats you as an adult. Contrast this with 593, which is essentially a brutal hazing ritual centered on the most boring material imaginable, with 4-hour long, heavily weighted exams based around internalizing dry content you'll probably never think about again unless you work in that specific field.
+
+594 also gives you an intensive, hands-on project with very little hand-holding, which really solidifies the practical knowledge gained in the class. Again, you can make of this as little or as much as you want, and probably still pass - that's largely up to you. For me, it was an invaluable opportunity of the type which has been scarce in several of the other classes in the program.
+
+Fall 2021
+Medium
+Strongly Liked
+10 hrs/wk
+CIT-594: Data Structures and Software Design
+12/21/2022, 10:36:43 AM
+If you are new to data structures and java programming this is a really great class to get your knowledge base up. The course has excellent concise lectures and does a great job of providing material to learn while keeping things manageable. There are also several practical projects that I believe will be useful on the job. There are also a lot of opportunities to delve deeper into a topic area of interest that are optional. This allows students the freedom to choose to gain deeper mastery or just leave it on the back burner and have the information handy if it is necessary. The course treats you like an adult and in my opinion is exemplary of the model other courses should follow.
+
+Fall 2022
+Medium
+Strongly Liked
+12 hrs/wk
+CIT-594: Data Structures and Software Design
+8/16/2023, 3:23:31 PM
+I know the past review made it seem like this class is super easy, but it is far from it. As someone else stated from Summer 2023, this course is going through a revamp by Professor Zheng. The challenge with this is the lecture modules are from a previous professor and the HWs are insanely difficult to understand.
+
+The first assignment throw you in problems about LinkedList that you would see on Leetcode and it was extremely overwhelming at first. Many students dropped after the first two weeks because they weren't expecting anything like that.
+
+I felt as if many of the HWs were geared towards solving Leetcode like questions or were just BS busy work to touch a data structure from the outdated lectures. There were many HWs that were extremely disconnected from learning the fundamentals of data structure implementation or when I should use a particular data structure.
+
+Ed Discuss was a lifesaver as the TAs were very helpful to understand the HWs. Don't take this class thinking it will be an easy A. I worked every minute for it. I suggest you look into LeetCode problems as well.
+
+My biggest takeaway was I forsure became more proficient in OOP and Java, which I'm proud of.
+
+Summer 2023
+Hard
+Neutral
+30 hrs/wk
+CIT-594: Data Structures and Software Design
+4/30/2022, 6:27:51 PM
+While I learned a lot (mostly from Youtube videos and other websites on my own) and did well in the course grade-wise, I really did not like how this course was ran/structured thus rating it as strongly disliked.
+
+This class needs a serious revamp from an educational and pedagogy standpoint. Students can only submit HW once with no chance of getting points back due to the autograder and hidden tests. There was no meaningful feedback on my graded work besides two sentences on the large solo assignment (M11). The last couple weeks of the semester are super time sucking intensive because of a large partner project. Honestly spent over 30 hours per week on it on top of working fulltime the last two weeks plus however long my partner spent on it. I think they will try to give more time in the next iteration of the class. There were very few practice opportunities and a big disconnect between lectures (the previous professor's) and the HW. Many times there were sentences saying, "Ignore how the videos and textbook did this thing, it is wrong" with NO explanation of how to actually accomplish the task. I wish recitations were more useful and recorded; I wish there were more mid-level practice that would solidify my knowledge. Both times I went to live recitation, the TAs were lost. First time, the TA was doing the wrong week's problem and then struggled to know how to do the current week. The next time, the TA was 15 minutes LATE. I rescheduled meetings at work so I could attend live.
+
+I rated this hard because I had to spend so much time deciphering what the heck the homework is even asking then the last two homework assignments were very brutal on top of feeling very alone with little help available. The professor confuscated things on purpose which goes against industry standards of trying to be clear in documentation. In general the HW is written to be confusing on purpose and current professor is not great at breaking things down for beginners (OH is only for people who have deep content questions and want to go on tangents for an hour; don't even think of asking about a simple concept). I went to many different TA OH but most of them were a waste of time and two actually made me cry. One consistent trend between TA and Professor OH was they they made me feel dumb like I was asking basic questions that were beneath them so I stopped attending.
+
+Spring 2022
+Hard
+Strongly Disliked
+20 hrs/wk
+CIT-594: Data Structures and Software Design
+4/10/2021, 2:53:42 PM
+Very nice course, give you a good understanding of data structures and software design.
+
+Spring 2021
+Medium
+Strongly Liked
+4 hrs/wk
+CIT-594: Data Structures and Software Design
+9/28/2024, 9:11:35 AM
+I took this course immediately following 591, while Java was still relatively fresh in my mind, and believe that was important to my success. Even still, during the first few weeks of the course it felt like I had missed a Java course in between 591 and 594 due to the learning curve needed to bridge where 591 leaves off and 594 picks up. The course is certainly no longer the super easy automatic A that is described in reviews from mid 2022 and earlier. The assignments are tough, take time, and often leave you scratching your head due to how poorly they might align with the current week’s material. While there is extra credit, I wouldn’t recommend attempting them unless they cover a topic you’ve learned from another course or in your employment. They cover topics not taught in the class, take a decent amount of time, and have zero sum grading policy surrounding them. I spent 8 hours on 2 extra credit assignments and got no credit on each. The best strategy in the course is probably to focus on getting near perfect grades on the assignments. This is because there is a very good chance you’re going to fail the final exam. The class average on the final was roughly 60% and there was no curve that I was aware of. There are 3 reasons for this low score. First, the weekly assignments aren’t timed but the exam is. This makes a big difference. I simply ran out of time on the programming portion of the exam and got a zero on this. The second reason is the unconventional grading method for the multiple choice portion of the exam which allows for incorrect answers to offset points gained from correct answers. Lastly, the exam tended to focus more on the topics in the course for which you hadn’t previously been in some way assessed during the semester. For example, if you covered a topic in a homework assignment, meaning you got the opportunity to really reinforce it and learn it well, it seemed less likely to show up in the exam. To me this runs counter to how you might construct an exam since you might expect areas of greater focus in the course to be the important topics on the final assessment. This being said, I failed the exam, which was 15% of the total grade, and still got an A in the course due to stellar assignment grades. Exam aside grade aside, I truly feel like I learned a lot in this course, have a far better understanding of data structures and their use, and very much had a positive learning experience in the final project. I think most students feel this way in spite of the final assessment not reflecting this. There is still some room for improvement, which seems to be the ongoing trend for this course over the past couple of years.
+
+Summer 2024
+Hard
+Neutral
+25 hrs/wk
+CIT-594: Data Structures and Software Design
+8/24/2022, 2:14:28 PM
+The required textbook I would say isn’t 100% necessary but it will reinforce the lecture materials; the PDF can be found online for free. The first 10 weeks were relatively light — some lecture videos and required/recommended readings, followed by an assignment that was moderately difficult. The workload then increases dramatically with the solo project, group project, and final all in the last month. This semester one portion of the group project was given early as an optional extra credit assignment to give us a chance to get a head start on the group project. If you don’t do it for extra credit you (or your partner) will eventually have to do it for the group project, so I would highly recommend doing it early because I considered it quite difficult and a lot of work. The professor was great, very active on Ed Discussion and was available to answer questions during office hours.
+
+Summer 2022
+Medium
+Liked
+15 hrs/wk
+CIT-594: Data Structures and Software Design
+5/8/2021, 7:23:20 AM
+Even though the class is in a transitional stage, where it's is reworked and updated by a new professor, this class is still arguably the weakest core class in the program. In the first half of the course, the class barely touches the surface of data structures with very basic homework every two weeks. The last two projects (individual and group) are similar to each other, the latest just being an expended version of the previous one.
+
+After eight weeks we suddenly jump into software design patterns and finally introduces concurrency and multithreading with Java. All of the topics are half-baked and don't really teach you or expect you to work hard on those topics.
+
+Spring 2021
+Easy
+Disliked
+5 hrs/wk
+CIT-594: Data Structures and Software Design
+11/20/2020, 6:16:08 AM
+Course content gives practical skills to be a confident software developer. Homeworks are very easy and at times feels like just like fill in the blanks on the starter code, but course content is dense and there is a lot to learn from the optional readings which are really worth in my opinion, the book is amazing and has great programming examples with best practices, which can be a great way to prepare for 596. It's a shame the project was not open ended for students to decide and just another version of the last homework with harsher grading.
+
+Fall 2019
+Easy
+Strongly Liked
+10 hrs/wk
+CIT-594: Data Structures and Software Design
+8/31/2021, 4:37:22 PM
+Was too easy for the first 10 weeks or so, and then got way more difficult and time-consuming for the last two projects, and the final exam was a super difficult multiple choice test that didn't really fit with the rest of the course. I didn't get the feeling that Prof. Rubin had a great understanding of what we were expected to know coming into this course, or what we were able to learn from the lectures and readings in the course itself. Professor was very active on Piazza which was nice and different from some of the other core courses.
+
+Summer 2021
+Medium
+Neutral
+8 hrs/wk
+CIT-594: Data Structures and Software Design
+2/8/2022, 5:23:12 PM
+Very straight-forward course. Doesn't take a lot of time to go through the material and the assignments are reasonable. You get only one chance to submit assignments, though, so you might want to be extra careful because you can lose points for small mistakes. The last two weeks are tough (the last homework and the final project). The project is collaborative and you'll have a couple of weeks to get ahead, but don't be overconfident and leave it to the very end. There was no midterm and the final was open book (yay!).
+
+Summer 2021
+Medium
+Liked
+10 hrs/wk
+CIT-594: Data Structures and Software Design
+9/7/2021, 4:28:12 PM
+Workload was around 5-6 hours/week for most of the course including watching lecture videos and doing the assignments, but workload really ramps up in the end for the final individual assignment and group project. Lecture videos are fine but excessive and lots of repetitive material. Data structure assignments are too easy/take a handful of hours to complete, but the last assignments that Rubin MAKES UP as he goes take ~20+ hours each. Instructions are not clear. Random tidbits of necessary information are buried in Piazza posts. Requirements are in flux. Rubin rambles in his posts and does not answer questions / is not helpful. I understand this mimics "real life" and interactions developers may have with clients/stakeholders, but as a professional (as many others in the program are), I did not find this disorganization helpful to my learning. Grading / rubrics are also not super clear for the final project - and carefully review your partner's work! ( I did not and most of the points we lost was on their part ), and for most of the earlier assignments - BEWARE hidden test cases. I think it was good practice to have so many hidden test cases though, because it makes you think like a developer to methodically think of every possible edge case.
+
+Be prepared for this class to be more annoyance than it's worth and, frankly, not teach you much. This is the only class of MCIT core where I feel I could have learned more from a MOOC than an MCIT course (591 and its assignments were WAY better).
+
+Wish I'd actually learned/retained more by maybe reading the textbook but was concurrently taking 593 which took up the majority of my study time. Hope future students get to take this with another (a REAL) professor.
+
+Summer 2021
+Medium
+Disliked
+7 hrs/wk
+CIT-594: Data Structures and Software Design
+4/29/2022, 2:47:53 PM
+This is a very informative course with relevant content and assignments that tested your understanding of the material. I found the course materials easy to digest, but the assignments harder than expected (based upon previous semester's reviews!). I expect that the course and assignments are getting tweaked every semester to be more in line with the on campus version's difficulty.
+
+The hidden unit tests tripped me up at the beginning of the course, however toward the end you get into a groove/start writing more thoughtful unit tests.
+
+The last two assignments did ramp up in time needed to 15-20 hours a week, before then, the workload was very manageable.
+
+Spring 2022
+Medium
+Liked
+10 hrs/wk
+CIT-594: Data Structures and Software Design
+11/19/2020, 5:57:49 PM
+Improved my confidence as a programmer. Despite the light workload, the concepts I learned in this course greatly improved my program design, organization, readability and efficiency. You can take this course with any other course even if you work full time because the assignments are so reasonable. Lectures are clear and concise; some material is review from other courses such as 592 (graph theory) and 593 (understanding register memory helps with understanding concurrency). Note that the projects at the end do take a little longer and could be closer to 15-20 hours/week.
+
+Spring 2019
+Easy
+Strongly Liked
+10 hrs/wk
+CIT-594: Data Structures and Software Design
+3/11/2023, 9:03:39 AM
+I took this right after 591.
+I found the course to be challenging relative to 591 since there was MUCH less hand holding relative to TA availability and being able to have pre made test cases to test your code. You have to create your own tests and there is no auto grade to fix code to get perfect score.
+
+I would have liked videos to be updated and more recreations on material. Overall I found the class to be a step up from 591, and felt I learned a lot of new things. How it will help in my career I am not sure, but overall I came to MCIT to switch careers and I’m learning!
+
+Summer 2022
+Medium
+Liked
+15 hrs/wk
+CIT-594: Data Structures and Software Design
+8/24/2022, 8:08:31 AM
+I did find this course super helpful in actually understanding data structures and what to use when. I can understand how those who are looking to pivot to a SWE role would be frustrated that it may lack some depth and isn't as challenging as other courses. I found I spent 5-10 hours a week on this - did not really need to attend office hours until the latter part of the course. Honestly, most of the time for the hw is spent on reading the instructions (which I think are more confusing than they should be). The homeworks are fairly easy, you become comfortable with unit testing, and the solo and group projects were great in further understanding data structures and OOP. Looking back at my time in MCIT, I wish I had taken 591 --> 594 --> 593 --> 595 --> 592 --> 596. Some may say that 592 would be helpful earlier, but I don't really think it's all that necessary. I just went the path of taking classes in order. They introduced an extra credit assignment this semester -- DO IT! It is the hardest part of the final project, and you can copy and paste all of the code. Saves a ton of time, and it has to be done regardless so you might as well just do it earlier and save yourself the aggravation!
+
+Summer 2022
+Easy
+Neutral
+8 hrs/wk
+CIT-594: Data Structures and Software Design
+12/12/2022, 9:19:24 PM
+Horrible class and don't believe those comments saying that this is an easy course. Well, content wise it is easy, at least compared to other courses. However, the assignments, especially the solo project and group project, are overly complicated. Like one of the reviews mentioned, the professor intentionally gets simple things complicated and vague. While this is a data structure class, you actually spend a huge amount of time on dealing with regex, csv file processing standard, etc. Tons of requirements here and there in the project. You are basically sunk in details like truncating doubles to integers. I feel like this is just an advanced version of 591 and did not really learn essentials in data structure.
+
+Fall 2022
+Hard
+Strongly Disliked
+15 hrs/wk
+CIT-594: Data Structures and Software Design
+8/30/2023, 3:36:26 AM
+This class taught by Professor Zheng was great. Her OH was filled with content outside of the course material, thus giving us opportunities to enrich our learning by expanding outside the 594 curriculum. The assignments in 594 are challenging, but fair because our semester had unlimited attempts for submission. Previous semesters were given only one attempt, which would often make submitting assignments very stressful. The multiple attempts allowed us to learn from our mistakes, and correct them accordingly. There were also extra credit opportunities as well, and they were beneficial for the overall grade bump. Overall, I enjoyed this class a lot and learned a lot about data structures in Java.
+
+Summer 2023
+Easy
+Strongly Liked
+12 hrs/wk
+CIT-594: Data Structures and Software Design
+10/18/2022, 10:54:02 AM
+Do not skip the extra credit which is around week 7, it is the best way to secure your grade a bit if something goes wrong in the group project.
+
+This course is changing a lot since the Rafi took over from what I have heard.
+
+All assignments have many unit tests, make sure to check for nulls, etc. The content gets harder at the end as other have said here, which is why you cannot skimp on the extra credit chance. Even if it takes you awhile, do it, you can get an A.
+
+My largest critic is all homeworks are a single submit with very few relevant test cases. If your not passing the ones they show, you most likely did not make it this far in the program, they are trivial cases. All the real cases are hidden.
+
+While it is largely a null check, and check to make sure you followed the instructions to the letter, if you miss a single instruction it can cost you big in the later weeks. A small mistake on HW8 cost me 16%, while a bigger mistake on HW2 cost me only 3%. HW8 was my lowest homework to be fair here, but it shows that they expect no bugs, and in reality nothing is going to be bug free.
+
+I think they should model all homeworks off the extra credit where they give a limited number of test cases, and the number can vary per test. This allows them to make sure you are doing your best, but allows you a silly mistake here and there that you still have to fix without testing again.
+
+Fall 2022
+Medium
+Neutral
+18 hrs/wk
+CIT-594: Data Structures and Software Design
+12/18/2022, 9:27:16 PM
+This was a tough one. Initial workload is very light. There are only 6 real assignments. In the last 4 weeks the solo and group project will ramp the workload from 10 to 25h a week. The worst thing is that you are being graded on stuff you don’t really learn in this course, like parsing a csv. The final was very hard.
+
+Fall 2022
+Very Hard
+Disliked
+10 hrs/wk
+CIT-594: Data Structures and Software Design
+5/3/2021, 8:15:31 PM
+Great course. It allows you to get a better understanding of what type of data structures can be used for what kinds of problems. I really wished that the course was a bit more difficult, though, as it can add more, for instance, a) extra credit questions for each assignment, and b) more real-life application/data analysis using the tools we have learned. I feel like using .csv/.txt/.json files can be introduced a lot earlier (and not the final 2 assignments as we had), and we can have the course get progressively more sophisticated in introducing other data sources. Overall, a great course!
+
+Spring 2021
+Easy
+Liked
+10 hrs/wk
+CIT-594: Data Structures and Software Design
+12/11/2025, 12:52:29 AM
+Very kind, thoughtful, intelligent professor (Professor Zheng). Course was well organized and thoughtfully put together. Watching class lectures each week felt manageable. The homework assignments are quite long so start them as early as you can. Homework assignments are largely autograded and allow for multiple submissions so it was helpful to be able to iterate on my own assignments to improve my score. Professor also gives a lot of extra credit, which is nice. My only small criticism is that the exams are a bit harder than the practice exams she gave so sometimes it was hard to figure out what to practice prior to exams. Overall, I think if you put in the work in this class, you'll do well
+
+Fall 2025
+Medium
+Strongly Liked
+15 hrs/wk
+CIT-594: Data Structures and Software Design
+5/1/2023, 9:14:02 AM
+Overall a good course. The material is very useful, and pretty easy to grasp. The assignments are generally pretty easy, but they are autograded, and the autograder is very unforgiving (you could lose 20+ points if you don't test your code enough).
+
+I feel like the first 10 weeks were very light and easy, and then there are 2 projects towards the end where the class ramps up.
+
+Spring 2023
+Easy
+Liked
+10 hrs/wk
+CIT-594: Data Structures and Software Design
+9/3/2022, 2:24:39 AM
+Great topic well taught by professor who created the course. I did not like the teaching method of the current instructor, which is essentially a figure-it-out-yourself style. IMO that's fine for a MOOC but not for course on which you spend a few thousand dollars tuition fee.
+
+Summer 2022
+Medium
+Disliked
+8 hrs/wk
+CIT-594: Data Structures and Software Design
+12/28/2021, 4:34:57 PM
+interesting material, not tough workload for first 10 weeks, 5-7 hours per week, last two projects are tough though bringing it all together at around 20-25hrs per week then. I enjoyed the piazza discussions working through the homeworks and the lecture videos are well done.
+
+Summer 2021
+Easy
+Liked
+8 hrs/wk
+CIT-594: Data Structures and Software Design
+8/15/2023, 7:00:37 AM
+Lectures/Textbook/OOH:
+The course seems to be the in the middle of a re-working, so the lectures are from someone who taught the class two professors ago but are overall pretty good, the textbook was a decent read and could help consolidate some knowledge, but both didn't translate well to the programming assignment homeworks (see below). The professor's office hours, to her credit, were fixed up to be a good source of help on the content after starting off a bit like being tossed in the deep end and expecting us to know how to swim in the content.
+
+
+Programming Assignments:
+The homeworks are a mix of old and new but all of them need a lot of love to fix their PDF descriptions for what's expected as they are a major source of the difficulty of navigating this class. The lectures and textbook, unfortunately, needed a Rosetta stone to translate from what you read/watch to what you need to do.
+
+The advice I got from a TA for translating from Lectures/Textbook to programming assignments, which stunned me, is to look at LeetCode problems and solutions for relevant homework modules. E.g. if the homework is on LinkedLists, go look up LeetCode problems on LinkedLists and review their logic and code to make sense of the textbook and lectures.
+
+Don't sleep on M7PA, it is VERY important to have that one wrapped up before the final gauntlet month of Solo > Group > Final (with lectures and quizzes still to do). It is no gimme, and is very important.
+
+Keep in mind that M7PA + Projects + Final = 50% of your grade, so that last 5-6 weeks of this class is a true and utter grind. Plan your vacations and daily life accordingly.
+
+
+OHQ/Ed
+The LeetCode advice from above proved to be a great help paired with Youtube videos and lots of GeeksForGeeks. Especially as, to me, the OHQ availability was often a poor source for help; e.g. TAs not infrequently missing their scheduled times, or completely booked in 5 minutes of opening as (I think) everyone had the same problem of less-than-ideal instructions assignments. Off the top of my head, of the about 12 OHQ sessions I attempted to join: at least 2 didn't have a TA the whole time, 1 I had to wait for after posting on Ed they were missing, 3 I got locked out of the queue (or left hanging), and of the remainder only perhaps 1 did I get an answer during the session. The others which were unanswered I was told I'd hear back after they looked at my code, of which once I got good advice and the rest I never heard from them again. My OHQ experience was a cherry on top of a difficult course for a non-Java dev like myself, as it just made me feel all the more alone in a rough ocean of a course.
+
+Ed:
+This is an active Ed class given the above issues. Read it daily for ideas and knowledge sharing, and then post early and often when you have problems in your assignments so you don't exclusively need to do an OHQ to finish your work.
+
+
+Hours:
+For weeks 1-6 and 8: 10-20 hours/week, variable depending on how good you are at Java going in (I was/am bad, so the high end).
+For weeks 7 (M7PA), Solo project, Final project, and Finals: 20-40 hours/week, see above variable.
+
+
+Difficulty:
+Expect this to be tough going in and it might feel less terrible. Expect it to be the 'cake walk' of previous years and reviews, and it could be a rude awakening.
+
+
+Learning:
+I gave this a neutral because, despite the sheer chaos it threw into my life, it was counter-weighted by me feeling like I have an immensely better understanding of programming, and programming well, both in Java and generally in this field. The Solo Project, while a slog, got my mind thinking about how objects and classes connect in a way that my brain actually feels re-wired for thinking more programmatically about things. It was a hard fought learning experience which I feel could have been less intense than it was, but I am definitely for the better from it.
+
+Summer 2023
+Very Hard
+Neutral
+21 hrs/wk
+CIT-594: Data Structures and Software Design
+9/1/2021, 12:13:18 PM
+I liked the videos created by the previous professor Chris Murphy as they were clear, concise, and engaging. However I feel like the assignments and the group project represented many missed opportunities. Assignments should help us build on the knowledge learned from the recorded lectures and dig deeper into the topics. However, they were too light (not difficult and due every other week for the most part), and I didn't learn much from them. Do enough testing on your own and getting 100% on every assignment should not be a challenge. As for the rest of the course materials, I don't think many people attended the weekly recitations as it was just too stressful to be put into breakout rooms to solve problems on the spot with other students. Professor Rubin's office hours were not helpful either in learning more about the materials. I watched them simply to get more clarification on assignments. What I am most upset about was the final group project. Simple and easily spotted mistakes were present in the test files and instructions, and it took multiple tries for them to be fully corrected. The mistakes and corrections were not publicly announced so some students were still using incorrect test files and instructions even on the due date. What a big miss! Also, the instructor team just could not get on the same page as to what they wanted to see from students. There were an overwhelming number of Piazza posts asking for more clarification and conflicting answers were seen everywhere. In addition, I know people who would wait for 2-3 hours to get face time with a TA and fail to do so because the uptick in demand for OH was not anticipated (which it really should've been seen how much more time consuming the group project was compared to the rest of the assignments). I had never seen an instructor team being so poorly organized and dysfunctional, and there was no respect for students' time. The final exam was a decent experience though, being mostly multiple-choice done on Coursera and the difficulty level seemed just right. The only reason I am not rating this as "disliked" is because it was light so it paired well with 596. Now onto actually learning about data structure on my own!
+
+Summer 2021
+Very Easy
+Neutral
+6 hrs/wk
+CIT-594: Data Structures and Software Design
+5/2/2022, 10:22:59 AM
+I enjoyed learning the content itself. Data structures and algorithms are definitely a fundamental part of computer science. However, I had to leverage other public resources like youtube or tutorials to understand the material. The presentation of the course over Coursera could use a lot of improvement.
+
+It was weird that the professor teaching the course was not the same professor in the recorded videos. It made the lecture videos feel disjointed from the rest of the materials. Also, there were a few points in the homework where the professor / homework instructions would directly contradict something that was said in the recorded lecture videos. Literally, the homework instructions would say something like "I know the lecture videos say to do X, but definitely don't do that".
+
+I attended office hours earlier in the semester, but ended up not going towards the end because the office hours were not very helpful. When students asked basic questions related to the homework, the professor would give sarcastic replies, if he perceived the question to be too simple or obvious. A lot of the office hours end up being long winded discussions that were unrelated to the course material and a waste of time.
+
+The course has an intense ramp up at the last few weeks which was a little unexpected. There were also a lot of instances throughout the course where the professor seemed to make things more unnecessarily complicated for the sake of complexity.
+
+Homework instructions / starter code were also poorly maintained. For example, there was a provided unit test for the group project that had bugs in it, another student had to correct it and post it on Piazza. This seems like something the professor or the TAs should have been responsible for updating, prior to releasing the homework instructions. There were also other instances where the instructions or notes would have prior semesters or years listed on the document title, which indicates that the teaching staff didn't even bother to do the bare minimum of refreshing / maintaining the materials from semester to semester.
+
+Overall, it was a decent class. Just be prepared to learn the material through external resources.
+
+Spring 2022
+Hard
+Neutral
+20 hrs/wk
+CIT-594: Data Structures and Software Design
+5/4/2023, 9:25:04 AM
+I'll share additional context in case it's useful. I'm a turtle and before 594 I took 591 and 592. I received an A+ in 591, an A in 592, and an A- in 594.
+
+In 594, there are 4 major components to grading: quizzes (~15%), assignments (~45%), coding projects (25%), and the final exam (15%). There is also an extra credit assignment worth ~5% of your final grade. I believe an A is reasonably manageable to achieve in this class, but I'll outline why I received an A-, some learnings, and some comparisons to 591/592.
+
+Firstly, the quizzes are basically free points. The class is very generous in weighting them so heavily.
+
+The assignments are overall more difficult than 591. They are also entirely autograded. I encourage you to spend as much time thinking about edge cases and testing your program as you do actually writing your program. The workload for this class is otherwise deceptively small. If you're doing adequate testing then you'll spend a lot more time per week on the class. I averaged an A on the assignments, though there were a couple times I was lazy about testing, which I regret. On only one assignment (graphs) did I genuinely feel stumped and ended up submitting knowing that there were some edge cases it wouldn't pass. I however did better on this assignment than some easier assignments where I was lazy about testing. So test!
+
+There is a solo and a group project back to back. They are a significant amount of time. They are both autograded and manually graded. The manual grading is for the design of your program. I received a B on the solo project and an A on the group project. My solo project received 100% for functionality, but the grader disliked some of my design decisions. While I made some changes for the group project, ultimately I think there's a fair amount of luck involved in getting a kind grader.
+
+The final exam was, in my opinion, quite difficult. I scored the exact median grade. There was a small curve but not enough to really make much of a difference to my grade. I think the final is written to be needlessly tricky / confusing.
+
+My biggest regret, though, was skipping the extra credit assignment. It is not a small amount of work but it is useful for the group project. Had I not skipped it I would have gotten an A in the class.
+
+Compared to 592, I thought this class was both easier in terms of concepts and workload, but if you slack off it is easy for your grade to tank. I think this class has a reputation for being "easy" but I would take the class with the mindset that it is regular difficulty, just maybe easier compared to some other classes in the program.
+
+Spring 2023
+Medium
+Neutral
+10 hrs/wk
+CIT-594: Data Structures and Software Design
+3/11/2023, 7:13:12 AM
+Definitely more work than some of the older reviews alluded to - I think they have revamped some of the weeks in this course to increase the workload. Still nothing crazy, it's all definitely doable, but this class is often recommended as a good "partner class" to others because of the light workload and I would be careful with this advice now. Overall a great class that will leave you feeling more confident coding large projects.
+
+Fall 2022
+Easy
+Strongly Liked
+15 hrs/wk
+CIT-594: Data Structures and Software Design
+8/22/2021, 8:56:35 PM
+When I took 594, it was taught by Prof. Rubin. The course is lightweight, except at the very end where it gets uncharacteristically time-consuming. The last two projects and the final exam were much more difficult than all prior assignments, so be prepared. Overall, I liked this class. It taught very important concepts and I enjoyed the coding assignments (much more so than theoretical HWs like in 592 and 596). I feel more comfortable coding now simply because I got so much practice in 594.
+
+Summer 2021
+Easy
+Liked
+8 hrs/wk
+CIT-594: Data Structures and Software Design
+8/31/2021, 9:24:55 PM
+projects at the end is tough, it's important to find a compatible teammate.
+
+Spring 2021
+Medium
+Liked
+8 hrs/wk
+CIT-594: Data Structures and Software Design
+12/21/2022, 2:07:32 PM
+This course was much harder and more unpleasant than was necessary, at the expense of learning important material. The recitations were not recorded and at times I couldn't make it due to my job, which is unacceptable for an online program that caters to working professionals. The actual content provided outside of the textbook were videos and a few related pdfs, which were extremely sparse and nearly insufficient to learn the course content, which itself was not particularly difficult. Much of the learning material was pseudocode or trivial examples that were not rich enough. The homework assignments were often extremely confusing. It usually took more time to figure out what the professor was asking than to do the assignment itself. For the two final projects, which took up most of the time in this course, reading the encyclopedia-length instructions carefully was the second most important factor, only behind a high tolerance for tedium and frustration, as with everything in the course, it was much more nit-picky and confusing than necessary. The final exam was quite unpleasant, as questions were poorly constructed and many were at a different level of difficulty from the material or were not covered in the course at all. It is a shame that with all the confusion and frustration with how the course was delivered that learning important concepts like design patterns became an afterthought.
+
+Fall 2022
+Medium
+Strongly Disliked
+13 hrs/wk
+CIT-594: Data Structures and Software Design
+8/24/2022, 4:33:03 AM
+I wouldn't advise thinking this course is easy. It requires good understanding of how data structures work and contains essential assignments that are pretty common interview tasks. It will give you a basic understanding of data structures and how and why they can be used. I would review the course materials twice or thrice for online assessment and interview preparation.
+
+Summer 2022
+Medium
+Strongly Liked
+12 hrs/wk
+CIT-594: Data Structures and Software Design
+8/20/2022, 8:10:00 AM
+The course had lots of potential and I thought fell short. Things really ramp up the last few weeks with a large solo project, group project, and exam back-to-back. The weekly assignments and quizzes are too easy to prepare you for some of the difficulties at the end, and the exam doesn't accurately reflect what was taught. Overall the weekly content of the course is easy - but too easy for what's expected of the evaluation at the end. I got a good grade in the class and I'm still not sure I fully understood all the material. Office hours and recitations were not helpful either.
+
+Summer 2022
+Medium
+Neutral
+15 hrs/wk
+CIT-594: Data Structures and Software Design
+12/20/2021, 2:16:30 PM
+Some of the homeworks are difficult and time consuming, but for the most part its a low work load class. The lectures are pretty good, but the recitation format leaves a lot to be desired. The final two projects are fun.
+
+Fall 2021
+Medium
+Neutral
+10 hrs/wk
+CIT-594: Data Structures and Software Design
+4/30/2021, 4:52:08 PM
+If you have programming experience, this class will likely be a lot of review. HW assignments are not every week and do not get very difficult. Overall a pretty easy, manageable course that covers relevant topics. You can succeed in the class without doing any reading, but then you will not have a very thorough understanding for what you'll need in technical interviews.
+
+Spring 2021
+Easy
+Neutral
+4 hrs/wk
+CIT-594: Data Structures and Software Design
+5/7/2021, 7:44:23 PM
+The other reviews are pretty accurate. It's easy but interesting:
+
+(1) The first 10 weeks are extremely easy. Everything included, I don't think I ever spent more than 4 hours on the course. The last 4 weeks are medium difficulty, due to the last homework, the group project, and the final exam. The material also becomes a little tougher (but not that tough).
+
+(2) I wish they would consolidate the first half of the course (on data structures) into, say, 2 fewer weeks, and then spend more time on software design patterns. The lectures only cover 5 patterns, and you only get to implement 3 of them in projects. It seems like an important topic that deserves more time than it got. I'm going to spend some time this summer going through them a little more.
+
+Spring 2021
+Very Easy
+Liked
+5 hrs/wk
+CIT-594: Data Structures and Software Design
+12/19/2022, 8:41:35 AM
+This is no longer an "easy" class as several older cohorts and reviews claim. Coming into 594 right after 591, I was expecting a bit of continuity and becoming better at Java -- Java programming assignments, learning about data structures, and SDLC / programming best practices in a similar format. While my Java skills have certainly improved because of my own efforts, this class could have definitely be structured better and was not worth the money.
+
+For one, unlike in 591, the recorded lectures are from a previous professor, who left UPenn over 2 years ago. Early on in the class, there were confusing instructions in assignments that say to ignore what was taught in a lecture and do something else. Instead of teaching the wrong thing to students, why not just re-record the lectures with the right material to begin with?
+
+Second, the Professor's office hours are largely a waste of time compared to how Brandon runs his in 591. Similarly, TA recitations aren't as good as they can be structured (like in 591) and the coding exercises aren't recorded. You would think that an online course would make the most of the few instances of live meetings and make those available for those who cannot attend.
+
+Third, the assignments are decent to get your feet wet with data structures but some of them have 10s of pages of arbitrary requirements and all have a strict, 1 attempt submission policy. Expect to spend most of your time on homework making sure your code complies with their requirements instead of applying your learnings about the data structure, which is a huge miss. All homework but two have hidden tests in Codio. For the tests that are visible, they are the most basic, so you are on your own in trying to figure out what other cases will be covered.
+
+The solo project and group project will take a considerable amount of time towards the end of the semester. I enjoyed the solo project once I figured it out but again, be ready to address 20+ pages of detailed and confusing requirements / instructions. These are the only two assignments that have a human review / grade them so that may or may not help you.
+
+The final exam, while open note and open book, is unnecessarily tricky and doesn't tie in to lectures or even homework. Some questions expect you to have taken 592 to be able to solve them, which is unfair. While I'm glad there is only 1 exam in this class so the damage to your grade can be contained, it feels poorly designed to test what you have been learning on during the semester. Data structures are a broad topic as well as programming SDLC and best practices -- coming up with a 114 point final with 19 questions with varying point assignments doesn't do all of those topics justice.
+
+Fall 2022
+Hard
+Disliked
+20 hrs/wk
+CIT-594: Data Structures and Software Design
+5/4/2023, 2:37:05 PM
+I will start of by saying this course was very well managed by Prof. Zheng and the TA's were amazing and provided a huge value addition to the course. The course material itself is a little weak.
+
+This course felt too simplified. While we did learn of the data structures but the homework did not really help reinforce concept but just felt like busywork. It is very similar to 5910 homework in that you are given starter code and need to fill out the methods. The last two assignments, the solo project and group project, were much more on par with what I expected the course to be like and I actually hope that they transition homework to be like that, so there are fewer assignments but each assignment is more expansive. I learned more with those two assignments than any other thing I did in the class.
+
+Lectures walked through the data structures and were overall okay. There were some data structures that were just talked about but we never really saw there implementation or use in real world projects especially with more difficult data structures like red-black trees and AVL trees as an example. There were also some data structures that should be added but were not present.
+
+The course also covers another very important aspect of software development which is code cleanliness and design patterns. I was happy to see this covered and that it was used considerably in the last two assignments. I wish this was introduced earlier and that we could get more practice implementing these principles throughout the semester rather than at the end.
+
+The final exam came out of left field in difficulty compared to the rest of the course, so be prepared for that. It was heavily curved/they gave back points.
+
+Spring 2023
+Easy
+Liked
+5 hrs/wk
+CIT-594: Data Structures and Software Design
+8/24/2022, 9:13:28 PM
+This is a good course that gave me the foundation in data structure and built up my confidence in Java. Chris Murphy's videos were clear and concise. But the course somehow had a reputation of being too easy, which I found not entirely justified. First of all, the last two assignments were actually very comprehensive and time-consuming. The topics it introduced were also quite adequate. And I kind of appreciated the relatively lower pressure of the earlier part of the course, which allowed me to apply the concepts I learned from this course and practice questions elsewhere online at my own pace.
+
+Spring 2022
+Medium
+Liked
+10 hrs/wk
+CIT-594: Data Structures and Software Design
+12/8/2022, 7:12:56 PM
+This was the worst class I’ve had so far at MCIT (I’ve taken six).
+
+They’re still using lectures from Professor Chris Murphy, someone who left MCIT 2 years ago. It is totally inexcusable that Penn Engineering hasn’t rerecorded lectures.
+
+This class was way too easy. Homework (at the beginning), took very little time (maybe 1-2 hours). I zoomed through the lectures really fast. I found the assessments didn’t force us to learn the concepts very well.
+
+The final projects were boring (e.g. build a data pipeline that reads a CSV). I think we could have done something more fun/creative/inventive, not something I do for work every day.
+
+Recitations are not recorded (at least at the beginning). As a result, I could not attend a single one. This makes literally no sense for a program that has working professionals. The whole point of MCIT was that there are supposed to be very few live commitments.
+
+The class uses one-shot auto graders with very little feedback. Better hope you did it correctly + thought about the hidden tests. There were some peer reviews, but they weren’t very helpful or extensive. In short, when you take this class, the only thing that will be looking at your code is a machine.
+
+The assignments involved deciphering cryptic instructions in 10 to 20 page pdfs. Things would be buried deep in paragraphs. Additionally, the assignments often had conflicting information versus what was in the lecture material (see paragraph 1).
+
+This class is in Java. As a result, all the memory management stuff is abstracted away. This doesn’t make any sense. In order to understand how a data structure works, you have to understand how the compiler allocates memory to it. It would make way more sense to teach it in C or C++ (like the end of 593 where we had to build a linked list).
+
+In short, this was a waste of money. I would have been better suited to gaining all this knowledge from a free MOOC or a series of YouTube videos.
+
+Fall 2022
+Very Easy
+Strongly Disliked
+3 hrs/wk
+CIT-594: Data Structures and Software Design
+12/21/2021, 6:59:35 PM
+I loved 594! The material is super interesting, and the quality of the lectures is high. The first 10 weeks of the course are lighter, but the last 5 are quite heavy.
+I am aware that some students complained that the class is too easy in the past, but Professor Rubin made some great adjustments to the assignments and workload, and it paid off.
+As a result, I understood Java and DS on a completely different, deeper level and got way more comfortable with Software Design. The two final projects are awesome! Yes, they are heavy, but you get a lot out of them. Piece of advice, make friends in the class and find yourself a good partner early on.
+Essentially, this class is all about proactively investing in your knowledge! If you do extra work on the assignments, do all the readings, come to OH to learn from Professor Rubin, split the work but still learn from your partner, you will get a lot out of it.
+
+Fall 2021
+Medium
+Strongly Liked
+20 hrs/wk
+CIT-594: Data Structures and Software Design
+12/20/2021, 12:54:16 PM
+Based on past reviews, I can say that the 594 instruction team has been working hard in improving this class. FAQs were added to some assignment instructions that were questions/clarifications from previous semesters. I also saw new material coming from a course development assistant for 594. As a result, I heard there was less confusion with assignments and the projects this semester compared to previous ones.
+
+This is not to say that the course is not challenging. The last assignment and the group project definitely take up a lot of time. The fall semester worked out well for the last assignment as it falls during the Thanksgiving break, allowing me extra time to ask questions and perfect my program, which greatly helped me in tackling the group project as it is very similar in structure but more complex.
+
+My only regret is not taking advantage of recitations, which are additional programming challenges/quizzes that are included in each week's content. I feel I would have benefited from the extra practice and collaborating with peers.
+
+The last piece of advice is to take advantage of the instructor's office hours. Professor Rubin may not seem to be the most approachable professor, but he actually is quite helpful/has a sense of humor (whether you find it humorous or not) & an adorable cat that appears on Zoom sometimes!
+
+Fall 2021
+Easy
+Liked
+10 hrs/wk
+CIT-594: Data Structures and Software Design
+5/11/2021, 7:37:15 AM
+This class is basically a GPA booster. A lot of the topics are a (more superficial) repeat of concepts taught in 595 and 596 so there are not that many new concepts to learn here. Data structures is a critical aspect of programming so I think having such a superficial class is doing a disservice to MCIT students.
+
+Spring 2021
+Very Easy
+Disliked
+3 hrs/wk
+CIT-594: Data Structures and Software Design
+12/4/2021, 8:38:39 AM
+Best class in the MCIT
+
+Summer 2020
+Easy
+Strongly Liked
+8 hrs/wk
+CIT-594: Data Structures and Software Design
+5/3/2021, 8:44:08 AM
+A lot of the early assignments are pretty boiler plate. You get a stub and need to complete the method. If you have a good handle on the data structures presented in the lecture, these can be done in as little as an hour. I would typically spend more time trying to come up with a set of thorough tests than I would writing the methods being tested. A few of the later projects open up in scope. I thought they were enjoyable to work through.
+
+Spring 2021
+Easy
+Liked
+8 hrs/wk
+CIT-594: Data Structures and Software Design
+12/20/2022, 8:02:16 PM
+I took this course concurrently with 596, and it was a breath of fresh air every week. Although some students really took issue with the hidden tests, I didn't think they were wildly unreasonable. I liked the straightforward lessons, the targeted homework, and the how coding focused the course was.
+
+The projects were fun, and the grading was totally objective (again, in contrast to 592/596). I wish this course had taken a slightly more granular look at data structures (and maybe looked outside of Java) but overall I really enjoyed it!
+
+Fall 2022
+Medium
+Liked
+10 hrs/wk
+CIT-594: Data Structures and Software Design
+8/27/2021, 9:39:04 AM
+Hope this course will be updated to be more useful for future students. It is too easy with minimal homework and does not feel like a legit university level course.
+
+Summer 2021
+Very Easy
+Disliked
+5 hrs/wk
+CIT-594: Data Structures and Software Design
+11/20/2020, 1:27:20 PM
+Not a difficult course, but the material is very important for technical interviews (especially the first half of the course) so it's important to understand these concepts well. Most of the weight as far as grading is on the assignments, which are due every ~2 weeks that takes about 5-10 hours. The first several are mostly about creating a data structure (like a Linked List or Graph) from scratch although the last few are more applied, including the final group project. The assignments are autograded so if you follow everything in the instructions you should do well for each assignment - but pay special attention to edge cases (e.g. making sure to check explicitly for null values or values out of range, etc.)
+
+Fall 2020
+Very Easy
+Strongly Liked
+5 hrs/wk
+CIT-594: Data Structures and Software Design
+12/28/2021, 9:30:50 AM
+If you're looking for a lighter workload for a semester for whatever reason, this is the class. Up until the last few weeks, the workload is minimal, from 2 to 4 hours a week max. The homework assignments make up the bulk of the grade and are relatively straightforward provided that you thoroughly test your code before submission to the auto-grader, so spend more time on the assignments and you won't have to worry about the final exam at all. The last assignment (11) and the group project will take substantially more time than prior assignments (10-15h?), so plan ahead for that. Extremely easy weekly quizzes are worth 14% of the final grade, more than the final exam. I thought parts of the final exam were much more difficult than the rest of the class, and 'open-book' doesn't help, but a curve was applied.
+
+From a content-perspective, I thought the class was somewhat interesting, but you can tell it's in a transition phase from one instructor to another. The last few weeks of content seem incongruent with the first 2/3. The introduction to threads in particular seemed extremely superficial.
+
+Fall 2021
+Very Easy
+Liked
+4 hrs/wk
+CIT-594: Data Structures and Software Design
+4/25/2023, 7:14:04 AM
+The reviews saying this course is easy are outdated. Keep that in mind. It looks like the professors took feedback from 2021-2022 to heart and decided to give the sadists the pain they were looking for.
+
+I found this class unnecessarily difficult towards the last month. About 35-40% of your final grade is determined by one month of work (solo project, group project, final exam), each of which might take the individual anything from 20 - 30 hours to prepare for (exam) or execute (projects). It wouldn't be so bad if that was all you needed to focus on. But no, there are still weekly lectures and quizzes and recitations as normal, those taking about 6-10 weekly.
+
+When it comes to the subject matter, I appreciated the class. But in terms of busy work, I found it frustrating. The fact that extensions had to be provided to the entire class a few times is a sign that the workload was not seriously considered while the syllabus was being created.
+
+Spring 2023
+Hard
+Disliked
+18 hrs/wk
+CIT-594: Data Structures and Software Design
+11/3/2022, 6:22:07 PM
+The lecture videos are the most succinct and concise ones in any of the courses I’ve taken so far. The assignments are not difficult and everything taught in the lectures is sufficient to do well in the assignments and the project. Pay close attention to inputs as hidden tests will check those rigorously on the early assignments.
+The course picks up in terms of workload in the last one month with a solo project, group project and the final exam. We had an extra optional assignment (HW7), we got to reuse the code for the group project. It immensely helped to do this optional assignment. Start the solo project as soon as its available (took about 15hr including thorough testing) and the group project took 15hr as well. The projects are awesome for applying software design patterns and principles.
+
+Summer 2022
+Easy
+Strongly Liked
+12 hrs/wk
+CIT-594: Data Structures and Software Design
+6/20/2022, 2:16:08 PM
+This class was excellent! It is the first class from the first 3 I can actually recollect what I learned and truly feels it achieves what it is intended to do. I genuinely know about data structures and basic software design. The required course work is light but don't be fooled, the best approach is to actually practice each week's content through leetcode exercises and learn some of the nuances of each data structure and design pattern as the book explains. This is the perfect environment and structure to do interview prep. obviously, if you have learned these data structures before you will be bored for most of the course but if you haven't, you are in for a treat.
+
+The last third of the course had great material, super interesting, but I hated the way the assignments were broken down. One individual and a similar group one. The individual one was really hard and harshly graded but was interesting. I wish we spend the rest of the course just refactoring that one. Whoever thought doing a group assignment in a program where students are barely taking one class with full lives including children, FT work, and sometimes other classes, really needs to reconsider. Expect to easily get a teammate who has never used version control in their lives and copying and pasting pieces of code hoping they work plus having very limited bandwidth. Yes, it was as awful as sounds. If you can, opt for this group project to be individual unless you already know of someone you want to work with. This project in addition is very poorly explained and there were new requirements for it daily in Piazza so it seemed like it was set for failure as you need to manage the poor communication from the instructors with communicating with your teammate. I learned so much from the first 2/3 that try not to focus on this last part but it was pretty bad although with great content.
+
+MCIT should consider switching the last third of 591 which throws random disconnected programming concepts with the first part of 594 so you can have an intro to programming and data structures class followed by a system design / object-oriented programming course where you are designing and refactoring your programs the entire team rather than only in the end. The last part of 591 was redundant with parts of 594 and some concepts were barely touched and needed more focus (e.g. testing).
+
+Spring 2022
+Easy
+Strongly Liked
+10 hrs/wk
+CIT-594: Data Structures and Software Design
+1/9/2023, 3:08:25 PM
+I like to view this class as a continuation of 591 programming in java. There were weekly programming assignments that had descriptive specs to help walk you through your project. The assignments were project skeletons with comments letting you know where to code.
+
+The downside of this course is that you do not learn about Test Driven Development, as in how to do it well. There is mention of "heavily test your code to be sure you'll pass all tests", but for beginners that have never practiced TDD (outside of another very brief introduction to TDD in 591) it can be hard to know if you are correctly creating tests that are addressing ALL possible scenarios and cases to avoid bugs or mistakes in your code. You are only permitted to submit your code once to the auto-grader that has hidden tests and unfortunately if you made even the slightest mistake in your code it can be detrimental to your grade and even drop your score to a C or below. If you make mistakes they will be painful, but you definitely won't forget to check for that mistake as you progress as a programmer.
+
+I wish the course was set up to allow you to have at least one more submit, if not unlimited submits, to promote learning and figuring out where your code went wrong without penalizing students for minor fixable errors.
+
+Even though there were a lot of programming assignments I felt the difficulty and length of the assignments themselves were manageable on a weekly basis.
+
+There is a group project at the end of the semester where you will work with one other programmer. Finding a responsive and collaborative partner is key or all the work will fall onto you and it is a much larger project than the rest of the course.
+
+Summer 2022
+Easy
+Strongly Liked
+20 hrs/wk
+CIT-594: Data Structures and Software Design
+5/9/2021, 3:16:14 AM
+The lecture itself is clear and self-content. However, I think the workload is not enough for truly grasping the concept. I personally choose to do leetcode along with the coursework in order to get myself familiar with the data structure introduced. And for students who cannot make it to attend live recitations, recordings are not helpful at all. I also gave up watching office hours quite early during the semester.
+
+Spring 2021
+Medium
+Neutral
+5 hrs/wk
+CIT-594: Data Structures and Software Design
+8/27/2021, 8:40:31 AM
+This course is run well, but requires some self motivation to fully get everything you can from it. While the readings are not required to get a good grade, and unit testing can be avoided while achieving high assignments scores, I suggest commiting to both. These activities, with an emphasis on thorough unit testing, will likely lead to similar or marginally improved grades but will push your understanding of the material deeper. One final piece of advice, start the group project, and final individual project early. These assignments are both very large time commitments that have no real comparison to earlier assignments from the perspective of time spent. On the group project I estimate that I put in about 25 hours total, and my partner likely put in the same. The individual project was 18 hours start to finish. For the sake of comparison, I put in on average 3-5 hours on each assignment prior.
+
+Summer 2021
+Easy
+Strongly Liked
+8 hrs/wk
+CIT-594: Data Structures and Software Design
+8/23/2022, 5:34:46 AM
+A "choose your own adventure" course. You can get by with just a few hours of effort per week. If you want a more in-depth treatment of course concepts, the textbook and OH are available.
+
+As someone without a software background, I found the materials on architecture and design to be revelatory. I learned a lot.
+
+Summer 2022
+Easy
+Liked
+7 hrs/wk
+CIT-594: Data Structures and Software Design
+8/30/2022, 9:43:18 AM
+The lectures were high quality and clear. The assignments were not too difficult until the two projects at the end of the course. The projects were five times as time-consuming as the other assignments and you were not well-prepared for them. Make sure that you test early and go to office hours because they are extremely confusing and meticulous. I felt that the group project was unfairly graded and heavily weighted on things that we did not even remotely cover in class. The final exam felt like mostly trick questions and I found it insulting. My grade was fine because I had high grades until the projects, but otherwise it would have been very stressful.
+
+Summer 2022
+Medium
+Neutral
+12 hrs/wk
+CIT-594: Data Structures and Software Design
+11/16/2020, 10:12:00 AM
+Important content. Light workload each week allows you to really get familiar with the concepts. Lecture videos explain the material in a digestible way.
+
+Spring 2020
+Easy
+Strongly Liked
+5 hrs/wk
+CIT-594: Data Structures and Software Design
+5/6/2022, 12:34:04 AM
+Would have rated the class "Easy" instead of "Medium" but the last month of giant group project + final exam 1 week after is brutal. People who have taken 593 say this last month is even more brutal than the last month of 593.
+
+That being said, the class is relatively easy until that last month and it is quite useful for becoming a better software developer. I had about 1 year of self-training dev work (Udemy) before starting MCIT and 594 definitely improved me a ton, I'm not just coding along videos anymore, I get much more deeply what's going on in any given framework (e.g. .NET) or library (e.g. React).
+
+Highly recommend the course, just not the last month. The last month sucks.
+
+Spring 2022
+Medium
+Strongly Liked
+15 hrs/wk
+CIT-594: Data Structures and Software Design
+3/21/2021, 11:57:45 AM
+The course materials are way too easy comparing to data structure classes taught in other universities. Getting even A+ in this class still leaves a big gap in terms of the data structure knowledge that a technical interview would expect you to possess.
+
+Spring 2020
+Very Easy
+Disliked
+5 hrs/wk
+CIT-594: Data Structures and Software Design
+12/27/2020, 7:04:43 AM
+The course was well organized. I took the course with 593 and ended up spending 90%+ of my study time for 593- I wish I had put more time to fully understand each concept presented in the course.
+
+Fall 2020
+Medium
+Liked
+5 hrs/wk
+CIT-594: Data Structures and Software Design
+5/8/2022, 1:16:13 PM
+I am rating the difficulty as Medium because the first 12 weeks of the course were considered easy, while the last few weeks were very difficult. In terms of the first 12 weeks, your projects are given starter code, so essentially you're just filling in the methods needed to run the program correctly given the data structures we learned for that respective week. However, the last few weeks were such a whiplash. All of a sudden, you're expected to code HW11 and the group project from scratch. What made these assignments more difficult was the fact that we never received any sort of practice on how to implement software designs and there were no recitations to help with how to approach them. I find it counter-intuitive that the professor would make the easier assignments have the most lectures and instructions on how to do them (the assignment instructions literally tell you what you need to do high-level wise), while the difficult assignments have sub-par lectures and ambiguous instructions (given no direction on how to approach the design). Although this does not pertain to me specifically, I have heard from other students and found it unfair how they would lose a lot of points on the first 12 week's assignments because of the hidden test cases that would not be explicitly stated in the assignment instructions. In terms of Office Hours, I found it to be useless because the Professor does not go over material pertaining to the course, but more so to the will of the students where they tend to just go off tangents. In addition, TA recitations are not recorded. I prefer if TA's follow the same model of recitations as 593 and 595; those were much more useful and helpful.
+
+I believe there may be some discrepancies between lectures and assignments because the current professor (Professor Rubin) is not the same professor in the lectures. Overall, I would say this class was interesting and certainly helped me learn data structures; however, based on how lectures were structured with the assignments, it has made me not enjoy the class as much as I would like. I would suggest not taking this class with this professor; however, it seems like every class is the same despite the professor, which is a shame compared to how undergraduate courses were structured.
+
+Spring 2022
+Medium
+Disliked
+15 hrs/wk
+CIT-594: Data Structures and Software Design
+12/21/2022, 6:13:59 AM
+In general, I enjoyed the material covered and felt it was delivered effectively. However, I felt that the work load was heavily loaded towards the end of the course.
+
+Fall 2022
+Easy
+Neutral
+9 hrs/wk
+CIT-594: Data Structures and Software Design
+3/22/2021, 8:27:59 AM
+Pretty good course. However, I think it just scratches the surface on data structures and I will need to do some self study before doing technical interviews. That being said, it is a great intro to data structures if you have never taken a course on them.
+
+Fall 2019
+Easy
+Liked
+8 hrs/wk
+CIT-594: Data Structures and Software Design
+12/18/2022, 7:35:25 PM
+I took this concurrently with 596, and working on this class each week was a relief. I didn't find this class to be quite the cakewalk other reviews here imply. Assignments could be fairly time-consuming, and properly testing for edge cases requires a meticulous approach. I got a perfect score on the extra credit assignment, which turned out to be a big-time saver when it came to the group project at the end of the course. I didn't find the solo project or group project to be as rough as I read here. 20 hours for the solo project in total and maybe 30 for the group project, spread out over several weeks with no other assignments due. It was fun to build something somewhat complex from scratch. There are 8 HW assignments, and along with the 2 projects that's 10 graded assignments total, not including the final exam. Final exam was surprisingly difficult, don't skip studying. Open note isn't as helpful as you might think. I didn't attend any OH or recitations, so I can't comment on the quality of Prof Rubin or the TAs.
+
+Fall 2022
+Medium
+Strongly Liked
+13 hrs/wk

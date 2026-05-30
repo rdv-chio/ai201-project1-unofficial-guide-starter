@@ -1,0 +1,535 @@
+Reviews
+
+47
+Avg. Difficulty
+
+2.79
+Avg. Workload
+
+10.53
+Avg. Rating
+
+3.36
+CIT-595: Computer Systems Programming
+12/7/2021, 3:18:08 PM
+This class is confusing to review. A lot of the other reviews here mirrored my experience. You'll note that a lot of my favorite parts of this class were also negatives.
+
+Pros:
+- Professor Boon is wonderful. He's dynamic and interesting. He participates a ton on Piazza.
+- This class covers a ton. It's really an OS survey course where you dip your toes into a ton of different topics.
+- I thought the projects were interesting. I especially liked building a mini-multi-threaded web server. I thought it was a great introduction into multithreaded programming. I thought the event-driven asynchronous framework was a totally different way of programming for me.
+- The TA staff was wonderful. They were experts at pointing me in the right direction on homework without giving away the answer and depriving me of the learning.
+- Working in C - This class forced me to get better at memory management and Valgrind. I still never used GDB, although I guess I'll be forced to at some point.
+
+Cons:
+- I didn't like his prerecorded lectures that much. I thought sometimes they suffered from "Wall-Of-Text" syndrome. I thought the open-office hour recordings were more dynamic. I honestly think the course would have been better if they had just set up a camera in Boon's on-campus class.
+- Class touches too many disparate topics. I would have liked to have gone more into depth in a few specific areas as opposed to getting cursory knowledge about a bunch.
+- The homework often had little to do with the lectures. Additionally, much of the lecture content had no reinforcement via programming assignments.
+
+Fall 2021
+Easy
+Liked
+12 hrs/wk
+CIT-595: Computer Systems Programming
+5/19/2023, 11:15:58 PM
+This course covers 3 broad areas:
+1) Process management - how does a computer run multiple programs at the same time?
+2) Memory management - how does a computer run programs larger than its own memory?
+3) I/O - how does a computer interact with outside inputs like mice or keyboards?
+
+Overview: Some weeks will be relatively heavy with work, but nothing like 593. In fact, the middle 3-4 weeks are really light. There are like 8 homeworks to complete over the course of the semester, but only around 3 take between 5-10 hours. The rest I was able to complete in just a couple of hours. Coursework is exclusively in C. Projects revolve around building a terminal that can accept Linux commands and creating a multi-threaded web server. Pretty cool!
+
+Suggestions: My biggest suggestion would be to skip the recorded lectures altogether and just watch the recorded office hours and lectures. They are not optional (unless marked). You will not pass the exams without them. In fact, many of the exam questions were pulled directly from this material. During this semester, exams were open book, but no longer open internet. Although that certainly helped, I recommend not trying to rely on searching for every question among the course material during the exam as you'll likely run out of time.
+
+My experience: This was not a course that I thought that I would enjoy. However, Professor Loo's passion is palpable and it's an entirely different vibe between the recorded videos and the live lectures. I waited until reviewing for the midterm to start watching the live lectures and I highly regretted it. The material is way more fun and understandable live. Professor Boon gives some excellent explanations and is great at answering questions. TAs for this course were awesome too. All in all, if you reflect on how all of the pieces from the semester fit together, you should have a strong foundation to understand what an OS is and how it works. I actually find myself programming differently because of the understanding of the underlying hardware gained in this course. There were a number of folks who found the homeworks pretty dry, but I thought most were a lot of fun and illuminating! All in all, you'll get out what you put in, but this course is foundational for programmers!
+
+Spring 2023
+Medium
+Strongly Liked
+10 hrs/wk
+CIT-595: Computer Systems Programming
+1/8/2022, 9:50:37 AM
+I'll start off by saying that I didn't have any engineering background before starting MCIT. I found this class to be easy and very light in terms of the workload. Assignments were due every 2 weeks and it would usually take me on average 6-7 hours to complete each one. Starter code was given for almost every assignment and we didn't have to write a lot of code at all. My C knowledge has not improved from this class. Lecture slides were also not done well. They were too concise and skips a lot of explanation. I had to review them twice to feel comfortable for the exams. Professor Loo releases the office hours and recitations from past semesters which was helpful when I needed to front load the learning. They also started releasing recordings from his on-campus lectures a few weeks into the semester. The intent is for these additional videos to supplement our learning. However watching all of them each week would just take up way too much time and I disagreed with this approach since the actual lecturer content should cover the basics and students should not have to fish for important knowledge from 5+ hours of additional recordings each week. The 2 exams were non-cumulative, fair, and tested on our understanding of the various topics taught. Everyone felt like they had a lot more time than needed to complete the exams. While the average for the first exam was low, I believe a heavy curve was applied in the end as most people I know got an A. I do want to mention that the TA team was fantastic in helping us navigate through the sometimes very confusing assignment instructions. Overall I'm disappointed about how little I learned in 3 months and there is a lot of room for improvement.
+
+Fall 2021
+Easy
+Disliked
+6 hrs/wk
+CIT-595: Computer Systems Programming
+12/18/2021, 10:53:22 PM
+It is a little difficult to review this course. The lectures cover a lot of content, in a way that is fairly abstract and doesn't go into many details on implementation. Furthermore, it is difficult to discern what information is "important" and what information is "extraneous" in the lectures. For me, when it came time to apply concepts for homework, I found it very confusing. Even though I could apply the concepts and get the code to work relatively easily and honestly with very little work, I would come out of it feeling like I didn't truly understand what was going on or why it was working. Although empirically speaking from the HW and exam results, I have learned the material for the course, I still feel lost. I feel like maybe doing some smaller exercises to practice using the system calls or something would be helpful. In general I just think that more could be done to reinforce the knowledge through practice and application, rather than simply dumping it all on us and moving on quickly.
+In the end though, despite how confused I often felt, I got a good grade in the course and did not spend all that much time on it. So take that as you will.
+
+Fall 2021
+Medium
+Disliked
+5 hrs/wk
+CIT-595: Computer Systems Programming
+8/25/2021, 4:49:18 PM
+This class and 593 have been my favorite so far. (So maybe I'm just a computer systems nerd :D) I really liked the material and felt that the way it was taught was sufficient to succeed. Prof Boon Thau Loo is a great teacher and the TAs were very helpful. The programming assignments were challenging, but not overwhelming. They built on each other so that you were able to add onto concepts from the previous week to advance your understanding. If anything, I wish we would have gone deeper into the topics.
+
+Summer 2021
+Medium
+Strongly Liked
+12 hrs/wk
+CIT-595: Computer Systems Programming
+11/9/2023, 10:13:48 PM
+I am a not an engineer nor a swe, I started MCITO with almost no coding experience.
+
+Overall, I really enjoy the class. I felt like I learned a ton, and Prof Boon is amazing. In his OH he said that students have told him, that they watch both the pre-recorded, and live, some just the live, and some just the pre-recorded. So it seems like he left it all up, so that each student can decide what works for them. I watched both, but would have done just fine watching the lives.
+
+The unlimited attempts on the homework make it very enjoyable. I felt like I was able to learn from my mistakes. They are spread out, and often extensions are given. So, on average about 1 hw/2 weeks.
+
+The grading curve is in the syllabus, and is super forgiving.
+
+Summer 2023
+Easy
+Strongly Liked
+10 hrs/wk
+CIT-595: Computer Systems Programming
+5/7/2021, 3:31:41 PM
+There are some great things about this course and some not-go-great things. GREAT: Prof. Loo is the most supportive and engaged of all the professors in the MCIT courses I've taken (all the core courses). There is a lot of TA support, and it's usually not hard to get help if you're stuck on a project, as long as you start early. Prof. Loo's explanations are very clear in office hours. Office hour recordings from prior terms are posted. Both recommended books were v. helpful. WHAT DIDN'T WORK FOR ME: The quality of the video lectures is poor. I didn't understand some of the content from the first part of the course and had to supplement extensively with outside resources (beyond the recommended books). To me, the videos lack context, and watching them is monotonous. I would imagine that Prof. Loo is an effective lecturer in person, and I wish they would post videos of him teaching on campus instead, as it would probably improve instructional quality and student interest in the content. (OOH recordings definitely help clarify things, and occasionally, he treats a topic from A-Z in OOH, but not always.) Although I learned from the projects, I wish they were more rigorous. Each project has one or two challenging components, but not much beyond that. My C programming skills didn't improve as much as I had hoped. Toward the end, I grew to appreciate some of the engineering that goes into memory management. But, I spent a lot of time throughout the semester feeling quite frustrated that I wasn't learning much. I'm glad other people feel differently.
+
+Spring 2021
+Medium
+Disliked
+7 hrs/wk
+CIT-595: Computer Systems Programming
+12/21/2022, 6:15:50 AM
+I found this class pretty difficult. There is a lot of different material that can't be convered in complete detail so you have to memorize facts. I enjoyed the programming aspect more than the OS theory.
+
+Fall 2022
+Hard
+Neutral
+12 hrs/wk
+CIT-595: Computer Systems Programming
+5/6/2022, 12:40:17 PM
+I got an A+ in this class, but I don't think I really learned anything. As others have said, the lectures are terrible, and the office hours are more worthwhile (though still not great).
+
+The homeworks did not reinforce the material for me. In most instances, you just keep trying something a little different until the program works, and then when it does, you don't really know why it worked. At other times, the program works on your personal computer, but the autograder docks you for something, so you have to guess what's going wrong. Sometimes this can take a long time, which was incredibly frustrating, and other times I got the answer almost right away, and only spent 30 minutes on the one homework.
+
+I think that if the course took more effort and/or was graded more harshly, people would be up in arms complaining. As it is, though, I think 2/3 or more of the class get an A or A+, which makes them gloss over the fact they didn't learn much.
+
+Spring 2022
+Easy
+Disliked
+8 hrs/wk
+CIT-595: Computer Systems Programming
+11/16/2020, 10:26:03 AM
+Pretty light workload for most weeks. Some of the programming assignments are quite challenging, but there is a ton of help available through TA and professor office hours. Projects are autograded and you can submit as many times as you want. Professor is super engaged and always answers questions on Piazza and in office hours. The tests are hard and require a deep understanding of the material, which is hard to obtain from just watching lecture videos.
+
+Fall 2020
+Medium
+Liked
+7 hrs/wk
+CIT-595: Computer Systems Programming
+5/19/2023, 9:48:13 PM
+I was very bored for most of this class. The concepts are important to learn, but I felt that I spent a lot of time during the assignments working on annoyances, rather than focusing on the core concepts. For example, one of the assignments on establishing a 3-way handshake using TCP (an important concept in itself) required flushing stdout after every print statement, or the autograder test cases will fail. Programming challenges are a good way to learn, but these annoyances did not reinforced my understanding of the module's concepts.
+
+The other thing that irked me is that there were two versions of lectures for every module - a scripted version, and a recorded live lecture; the latter usually being better. Why wasn't this curated into one version? I hate to say it so bluntly, but I expected better quality of deliverables from an Ivy League.
+
+Spring 2023
+Medium
+Neutral
+10 hrs/wk
+CIT-595: Computer Systems Programming
+5/2/2021, 8:12:06 PM
+The workload itself is light but the course is nonetheless very challenging at times. There are three main projects, each broken up into multiple parts with each part due roughly a week after the previous. I think there were also extensions given for nearly every project that were announced pretty last minute, so I'm not sure if you can count on it but it was very helpful for a few. They are also autograded and you can resubmit as many times as you want.
+
+The first two had starter code but even for the last one the solutions themselves weren't that long - I would guess 40-70 lines of code each. It's just that it takes some time to figure out which lines to put and where. If you haven't read Linux man pages before, expect to spend some time really getting to understand the nuances of system calls.
+
+The exams were definitely challenging and they required a more in-depth knowledge than what you can glean from the lecture videos, which were also pretty light, less than an hour for most weeks. Probably some of the hardest out of the core courses.
+
+The professor is super helpful though. He's very active on Piazza and his office hours complement the lecture material well. All in all, it's a good course, but it does sneak up on you because the workload seems light but the topics themselves prove to be quite challenging.
+
+Spring 2021
+Medium
+Liked
+5 hrs/wk
+CIT-595: Computer Systems Programming
+5/19/2022, 5:26:59 PM
+Really like the way Dr Boon teaches, he also gives "highlight video" records which are really helpful complement material
+the TA also helps a lot on the homework, recommand future students attend it before starting hw
+
+Spring 2022
+Medium
+Strongly Liked
+12 hrs/wk
+CIT-595: Computer Systems Programming
+11/20/2020, 6:25:26 AM
+Professor Boon is an amazing leader, always ensures his team gives a positive and engaged learning environment for students. Top of the line support and engagement. Course content is dense and conceptual, exams do require good comprehension of concepts and hard study, but are very fair in the sense that you know what to expect from them. OH are great and prof would explain anything at length. Doing 593 extra credit C assignments is an excellent way to prepare for the homeworks, as those requires confidence with C, not that is hard per se, but assignments require a deeper level of understaning of what is going on in the OS, having gaps in C would get in the way. Understanding system calls at depth in the textbook or man pages is a must.
+
+Spring 2020
+Medium
+Strongly Liked
+10 hrs/wk
+CIT-595: Computer Systems Programming
+11/21/2020, 7:16:39 AM
+This is one of the best organized core courses and the material builds very well off 593. It is well designed to encourage independence, including unlimited autograder submissions with some feedback, good TA walkthroughs/recitations of projects, and documents listing common project mistakes allow you to do your own debugging, which is empowering. The assignments are generally interesting and helped me to feel confident as a C programmer. In the middle, Project2 is extremely difficult and I wish I had asked for more help to work on it instead of feeling so frustrated; it is tricky and involves running multiple processes. However, Project3 involves building a server and is really cool to work on. There is not very much work and the lectures have excellent examples but the material is abstract and challenging so much of your time on this course will be spend studying and understanding the more complicate topics in memory, process management and concurrency. Prof Loo is supportive and consistently has a great TA team. The exams are tough but don't take as long as some others in the course and you are allowed a note sheet which helped my anxiety a lot and made me feel more prepared. I liked this course and felt I learned very practical things like working with Linux command line and C system calls.
+
+Summer 2020
+Hard
+Strongly Liked
+10 hrs/wk
+CIT-595: Computer Systems Programming
+5/8/2023, 9:08:26 AM
+This has been my favorite class so far. I've only taken 591, 592, and 593, but the TA support in this class and Professor Loo's enthusiasm about his subject really made this class awesome.
+
+I agree with the other commenters that the pre-recorded lectures are a bit dull at times. But just go to Professor Loo's office hours, watch his recorded OOH recordings (most exam questions come from these), read Andrew S. Tanenbaum - Modern Operating Systems, and you'll do great in this class.
+
+I appreciated Professor Loo creating an optimal, low-stress environment in his class. All the assignments have unlimited submissions, Professor Loo often extends deadlines, and all his exams are open-book/open-Canvas.
+
+I truly had a wonderful time in this class, and I am glad to have learned so much from Professor Loo.
+
+Spring 2023
+Medium
+Strongly Liked
+15 hrs/wk
+CIT-595: Computer Systems Programming
+9/2/2021, 8:59:48 PM
+I've taken 591-595 so far and I have to say I learned the least from this course. There are many small things wrong with the lectures and homework that overall make it very mediocre. Because you have unlimited submissions to the autograder, basically everyone has a 100% HW grade, meaning that grades are decided by the difficult open-note exams. There are also several issues with the autograder, meaning I spent about hours on end modifying code so it would pass the autograder even when it was working on my machine. I don't think I learned much from the homework, especially HW3 where you basically are just following a flowchart.
+
+Summer 2021
+Medium
+Strongly Disliked
+14 hrs/wk
+CIT-595: Computer Systems Programming
+3/24/2021, 8:09:15 PM
+This course is very abstract . The lectures slides is short and simple but the exam will test you on concept that is not covered in the slides. Some of the materials are poorly explained that your only hope of understanding it fully is to rely on youtube or google.
+
+The professor is a nice person and are generally helpful in office hours.
+
+The use of programming language in C can be frustrating if you don't have a good foundation in it, but overall the programming project in this course is not hard.
+
+
+Spring 2019
+Medium
+Disliked
+10 hrs/wk
+CIT-595: Computer Systems Programming
+8/27/2021, 8:12:42 PM
+Prof Boon Thau Loo is great and genuinely cares about his students. Open book exams this semester which made exam period much less stressful. Assignments force you to learn the material. I found my approximate workload for assignments unpredictable, which made my weekends difficult to plan, but the course staff seems to be generous with granting extensions. Some assignments I only needed 2 hours, others 10 hours. Overall class grade is curved so pretty stress free overall.
+
+Summer 2021
+Medium
+Liked
+8 hrs/wk
+CIT-595: Computer Systems Programming
+5/4/2024, 10:57:26 AM
+Professor Boon Loo designed the course to focus on student's learning. i like how the projects have a good balance of learning new concepts and solidifying C programming skills. Even though the exams are open book, the questions still require certain level of understanding to get good grades. Professor Loo's live lectures go into depth on certain concepts that the Modern Operating System doesn't cover. However, the book is a good reading resource to supplement this course's materials. Professor Loo has a wealth of knowledge, from the topic that he's teaching/researching to startup experience, so you may want to take advantage of his office hours to ask questions. He's open to different topics and very willing to talk to students!
+
+Spring 2024
+Easy
+Liked
+20 hrs/wk
+CIT-595: Computer Systems Programming
+12/15/2023, 5:51:33 AM
+I really enjoyed the course. If you have never used Linux/Unix before, there will be more of a learning curve, but any developer worth their salt needs to have some familiarity with Linux and the topics of this course.
+
+Most should find it is easy to get a good grade. Even if you don't do particularly well on the exams, you can still pull out a good grade by making sure to get 100% on the quizzes and assignments. There is also a built-in curve.
+
+Overall, the course has a light load. There are a few busy weeks, but there are also several that only require a few hours at most. It is structured to where you have time to study the weeks of the midterm and final.
+The live lectures are the most important part of the course for the exams. I recommend going over them once during their current week and again right before the exams.
+
+There are 3 assignments, and they can feel disjoined from the lectures, but this is because you are required to figure things out on your own. There are still hints and example code is provided for most things you will need. I think this is great preparation for the “real world”. You may want to brush up on C pointers if you are not yet comfortable with them.
+
+Fall 2023
+Medium
+Strongly Liked
+10 hrs/wk
+CIT-595: Computer Systems Programming
+2/8/2022, 5:30:40 PM
+Prof. Boon is the best! The content is medium difficulty but, as long as you do your best and attempt every assignment and exam, you are promised nothing less than a B. You'll learn to use GitHub if you've haven't before and learn about virtual machines and containerization. You get 3 attempts to do the weekly quizzes and there are weeks with no homework. You were allowed a sheet of paper with handwritten notes in both sides for the midterm and the final was open-book (and open-everything, even Google search). I just rated as Neutral because I'm not that fond of systems, but if you are, you will really enjoy this class.
+
+Fall 2021
+Medium
+Neutral
+18 hrs/wk
+CIT-595: Computer Systems Programming
+8/28/2023, 7:37:10 AM
+The workload felt super light compared to some of the other core courses. I paired this with 596 and found it to be manageable.
+
+I enjoyed the content of this course a lot. I thought the topics were super interesting and the programming assignments were a ton of fun to work on. You'll also get a bit of exposure to git and programming in a Linux environment.
+
+I think the lecture videos need some work. Highly recommend watching the live lecture recordings in additional to the other module lectures. I took a lot of handwritten notes, which made watching the lecture content very time-consuming, but also came in handy during the exams, since the exams are open-note.
+
+Summer 2023
+Easy
+Liked
+8 hrs/wk
+CIT-595: Computer Systems Programming
+12/20/2020, 3:49:52 PM
+Taking 595 right after 593 worked out for me. The book (Modern OS) was a good complement.
+
+Fall 2020
+Hard
+Liked
+15 hrs/wk
+CIT-595: Computer Systems Programming
+4/18/2021, 9:57:27 PM
+My least favorite core course. Lectures could be improved if more graphics and illustrations are provided instead of just words.
+
+Spring 2021
+Very Hard
+Strongly Disliked
+10 hrs/wk
+CIT-595: Computer Systems Programming
+12/19/2022, 5:48:59 AM
+There is this unpleasant duality between lecture videos and office hour recitations. Especially in the exams, it seems some questions are overfitting way too much on details (not the big picture) of the office hour highlights. Also, very harsh grading of the questions (they expect certain aspects but dont clearly ask for it).
+
+In the assignments, I didnt learn too much. It was rather pleasing the autograder until you have 100 percent.
+
+Not worth the money you need to spend on it.
+
+Fall 2022
+Medium
+Disliked
+10 hrs/wk
+CIT-595: Computer Systems Programming
+8/24/2022, 7:27:40 AM
+I have just completed 5950 and can say that alongside 593 it's my favorite course so far. The amount of knowledge one can get here is 100% proportional to the willingness to study and the course treats you as an adult who knows what he/she wants here: good grade alone or accompanied by deep knowledge. The course has been designed also to have some fun and not be overwhelming with mandatory program. It gives you a head start into the systems and then you can really search for additional chapters, try it yourself and ask questions that might be even out of the scope for the course during Professor's office hours. Additional videos with previous semesters are essential to watch for thorough understanding of the material. Professor Loo explains everything in a clean manner and is very responsive. I wish it would be at least 2 semesters as there're a lot of topics to cover and to dig deeper into.
+
+Summer 2022
+Medium
+Strongly Liked
+10 hrs/wk
+CIT-595: Computer Systems Programming
+8/12/2023, 11:31:53 AM
+I really loved the content of the course on a whole.
+
+The course NEEDS more assignments though. The 3 major assignments you are given over the length of the course could probably be condensed into about 5 weeks or less. They are very short and all amount to maybe 100 lines of code each tops.
+
+The current assignments need to be fleshed out a bit further, and they need to at least 2x the number of them, and possibly add a larger capstone project too.
+
+You just don't really feel like you did anything but a couple small toys. Its stuff that if you were learning on your own, you would pump out in afternoon as a demo from a tutorial.
+
+The CIS versions of the course have you do a large project called PennOS and/or PennMMU. These seem cool and would really add weight to the course. It is incredibly disappointing that we seem to get a watered down version in MCIT. Why do they think we could not handle the more interesting and complex assignments? I sure could have. Thats what I thought I was paying for.
+
+Still, I enjoyed the content. I did a lot of extra reading and playing around with the various Linux APIs on my own time. It was useful contextualization and Boon is a great lecturer. I just wish I had more opportunities to dig in and get my hands dirty as part of the course.
+
+The exams were also very easy. I have less of a problem with that though :)
+
+Summer 2023
+Very Easy
+Neutral
+4 hrs/wk
+CIT-595: Computer Systems Programming
+5/8/2022, 10:08:02 PM
+I don't find that I know much more about computer systems programming after taking this class. The lecture videos were not well put together, and I found a lot of it to be ambiguous. He used a lot of terminology that wasn't previously explicitly defined, which I found to be frustrating. Professor Boon's recordings of his open office hours from his on-campus class were the only things that make sense to me, which I feel like truly highlighted the stark differences between the quality of the on-campus classes and the online classes. It feels like there's so much more support and attention from the professor for the on-campus students, and online students get one hour a week.
+
+The homeworks are such a big jump from the lecture material. I spent hours and hours just trying to understand how the lecture material translated to what the assignment was asking. If there weren't unlimited submissions to the autograder, I would have failed every homework. Exams were less stressful because they were open book, but the level of detail required to get full points felt unfair when the lecture videos themselves were so highlevel.
+
+I did well in the course not because I understood the material or had a high mastery, but because the course is designed so that it's really hard to not do well as long as you put some level of effort it.
+
+Spring 2022
+Medium
+Disliked
+15 hrs/wk
+CIT-595: Computer Systems Programming
+4/26/2021, 10:01:48 PM
+Pros:
+1. The project is a great way to solidify knowledge in c and system programming.
+2. Professor and the TA team are V. responsive.
+
+Cons:
+1. Too many distractions and irrelevant content.
+
+
+Spring 2021
+Hard
+Neutral
+15 hrs/wk
+CIT-595: Computer Systems Programming
+3/11/2023, 7:16:03 AM
+This class touches some super complex stuff going on in the computer. There were some weeks that things clicked right away and I forgot I was in this class, and some weeks that I needed to watch the lectures and office hour highlights 3 times. The assignments are in C and generally straight forward, but they were definitely challenging to get at first. Assignments are unlimited attempts which honestly all classes should be.
+
+Fall 2022
+Medium
+Liked
+15 hrs/wk
+CIT-595: Computer Systems Programming
+1/9/2023, 3:20:40 PM
+I was not very interested in the topic nor did I like programming in C.
+
+The professor, who happens to also be the Dean, is absolutely amazing. He is very approachable and loves working with his students. He set up his course for students to succeed by granting us unlimited assignment submissions and open note/book/internet exams. This greatly reduced student anxiety/stress and allowed for a better learning environment where students didn't have to be afraid to make mistakes.
+
+There were very few project assignments and most happened to be a continuation of a previous project.
+
+Summer 2022
+Easy
+Disliked
+15 hrs/wk
+CIT-595: Computer Systems Programming
+11/19/2020, 6:43:30 PM
+Very interesting and useful class, you learn core Operating Systems, Networking, and general command line skills. Boon is a very engaged professor, very helpful in office hours.
+The workload isn't too heavy, but the lectures are dense and need to be watched a few times to fully understand, the homeworks are tricky, and the exams very detailed. This course has some of the lowest average exam scores (only 596 is lower for the core), but there is a bit of a curve at the end.
+The homeworks build on each other and have several parts, so sometimes part a is very tough to get running, then part b or c are pretty simple extensions of the previous homework.
+
+Spring 2020
+Hard
+Liked
+8 hrs/wk
+CIT-595: Computer Systems Programming
+5/3/2023, 11:38:43 AM
+HW assignments were not too long and not too much work but most needed some clarification to really understand. TA assignment recitations are worth attending as they fill in the gaps. Assignments are auto-graded with unlimited attempts so it is absolutely possible to get 100% on each one. In my semester every single assignment was extended past the original due date, not sure if this normal for other semesters.
+
+The TAs say you should learn GDB to debug the assignments and I agree -- some assignments were like a black box, and GDB would have been very helpful. However, I still never learned and was able to get by with print statements, so it is possible to avoid GDB but it will be more of a headache debugging. The HW assignments sometimes didn’t align exactly with the current week’s lecture material, so for some I’d suggest skipping ahead for a better understanding, and for others I’d suggest learning only what's necessary in the current week to complete the assignment, then finish the rest of the material after.
+
+Canvas quizzes every other week were easy, each with two attempts. The midterm and final exams were straightforward but relatively difficult. Both exams were open notes/open book, however they contained open-ended questions so you need to completely explain for full points.
+
+Watch the pre-recorded Live Lectures for a much better understanding of that week’s material. The textbook is not required, but there is a free online textbook -- OSTEP (Operating Systems Three Easy Pieces) -- that I used to reinforce learning for a few modules.
+
+Spring 2023
+Medium
+Neutral
+12 hrs/wk
+CIT-595: Computer Systems Programming
+8/27/2021, 4:16:44 PM
+Among my most favorite courses taken so far. The workload is light and, if you work ahead, you get unlimited submissions to the autograder prior to the deadline. The autograder is responsive and provides enough information so that you can isolate issues with your code - course staff is also helpful when it comes to debugging. If you are comfortable with C, assignments can take a few hours. Its a low stress affair compared to other courses.
+
+The video lectures, while helpful, pale in comparison to Prof Loo's detailed and thorough explanations of the week's topic. To get the most out of the course, I would highly recommend attending office hours or watching office hours for each week. I would also purchase a copy of the suggested UNIX book - it does a great job of explaining each system call and greatly speeds up developing a solution for assignments.
+
+Exams were open everything, you could google for help if needed.
+
+Summer 2021
+Very Easy
+Strongly Liked
+10 hrs/wk
+CIT-595: Computer Systems Programming
+8/28/2021, 6:48:10 PM
+Lecture videos tend to be relatively brief and vague. It was the OH recordings that helped me greatly for truly grasping the concept introduced in the lectures. IMHO, they should be categorized as must-watch instead of optional.
+
+Summer 2021
+Medium
+Neutral
+5 hrs/wk
+CIT-595: Computer Systems Programming
+12/18/2023, 10:47:27 AM
+595 - easy to do well in, challenging to truly understand. In terms of grading, the course primarily used 3 projects with multiple checkpoints along the way for each one. None of the projects proved particularly challenging, and some of the course modules themselves were literal walkthroughs of the intended behavior of the programs. Both exams were neutrally challenging and open note, with the one caveat that they tend to be more abstract (not binary right/wrong answers) than normal CS courses. Then, just to sweeten the deal, the course is heavily curved - advertised from the start in the syllabus.
+
+
+However, in terms of the course content itself, the modules are weak in terms of comprehensibility. Many of the modules had two types of lectures: highly abstract ones meant for CIT, and some recordings of lectures Boon gave during COVID. The COVID lectures proved far more helpful in providing details but were often extremely lengthy and rambling. It was difficult to glean the actual takeaways from all the other minutia.
+
+Thus, I have come to a mixed opinion on 595. For one, it's easy to do well in terms of grading, but how well do I feel I truly understand the material? I think that is yet to be seen...
+
+Fall 2023
+Very Easy
+Disliked
+6 hrs/wk
+CIT-595: Computer Systems Programming
+7/21/2023, 5:06:45 AM
+This has been my least favorite of the core classes, not because of difficulty necessarily but because of subpar instruction on tough concepts and HWs that are tough to figure out.
+
+Pros:
+-interesting practical experience with topics like virtualization, Docker, GitHub, threads, processes
+-HWs aren't too bad once you realize what you need to do. 80% of the HW is figuring out what the instructions actually want to do, and then 20% is doing the coding
+-Professor is really good and active in OOH and in the EdStem forums to provide help
+-Open note exam
+
+Cons:
+-Lectures and slides don't convey information in an intuitive manner. Most of my learning was from office hours and recitations
+
+Summer 2023
+Medium
+Disliked
+10 hrs/wk
+CIT-595: Computer Systems Programming
+1/18/2022, 5:09:24 AM
+As someone who works as a web developer and data scientist, I have to say that this course really strengthened my knowledge in both of my work areas. I started working in these fields without a technical degree and I would find that a lot of times I would get things to work, but did not really understand why it was working. This course had multiple Ooooooh moments where I finally properly understood something I was working on in my real life job. This course is easier than other courses, but it is a great survey course that introduces concepts like operating systems, networks, memory management and virtualization which can lead you to go more in depth into these topics.
+
+Boon is a great professor. He is super responsive "outside of class" and explains things very clearly in his office hours. I thought the projects were very interesting since they were directly related to projects I was developing in my job. TA's were great as well and the exams were fair. The only negative I would highlight is that the recorded lectures can be hard to understand. That being said, this semester, Boon released office hours highlights from his on-campus lectures which were EXTREMELY helpful. In fact, I would suggest everyone to watch the office hour highlights first as their main source of learning and then watch the prerecorded lectures second to reinforce everything.
+
+Great course with many direct applications to my everyday job. If you do not work in software development at the moment, I can see why this course might feel unsatisfactory. But take my word, if you have entered a development job without a technical degree, this course is invaluable.
+
+Fall 2021
+Easy
+Strongly Liked
+10 hrs/wk
+CIT-595: Computer Systems Programming
+5/2/2022, 10:46:16 AM
+This class by no means a sexy course (OS and C) but I love it! After feeling down with the previous 3 out of 4 courses of MCIT with ridiculous assignment grading and hidden test cases, I feel like this course rewards students who really want to get good grades instead of punishing with terrible grading points unnecessarily (Prof. Boon even mentioned this in his intro lectures). The multiple Gradescope submission attempts finally breathed new air to the old grading system where you just crossed your fingers things will go as planned as you upload your files, which most of the times won't. The class sets you up to be a memory leak conscious programmer and it is a great continuity from 593 if you actually enjoyed that class.
+
+I like Prof Boon as he brought back the motivation to strive again in MCIT after taking 2 semesters off due to the pandemic impact and the old system of assignment grading. The confidence you got especially after coding in C for this class somehow brings more confidence for you to code anything as you can spend more time thinking to solve the algorithm problems for future courses.
+
+Spring 2022
+Medium
+Strongly Liked
+15 hrs/wk
+CIT-595: Computer Systems Programming
+12/29/2021, 6:13:35 PM
+Very good course! provide very comprehensive introduction to computer operation systems. good continuation of mcit593. The content is not easy with a lot of things to memorize. However, a lot of support are provided for all the homework and exams. TAs are great and responsive. The workload is low compare to others even though the content are packed. Really enjoyed the course.
+
+Fall 2021
+Medium
+Strongly Liked
+10 hrs/wk
+CIT-595: Computer Systems Programming
+1/3/2023, 5:32:06 PM
+This is any easy course with a light load. The programming assignments are few and far in between. You get infinite submissions for the assignments and can use the output of the auto-grader to fine-tune your program until you get a 100 on every assignment. Similarly, with quizzes, you can use the explanations on the first attempt to score a 100 on the second attempt. This leaves only the open-book midterm and final to distinguish between the students. The exam questions largely come from Prof. Boon's pre-recorded Office Hour Highlights. Make sure you go through them minute by minute and take extensive notes.
+
+And now for the criticism: This is a terribly-designed course, by far the worst in the MCIT core curriculum. It borders on being a waste of time and money. I got an A+ without the help of the curve (raw score > 98) and yet would definitely fail a technical interview on systems. The high-level abstract concepts discussed in the lectures are not reinforced by the paltry programming assignments. The assignments often require just a few lines of code to modify the starter code or sample code. My cohort mocked the later assignments as "code-by-numbers" because you could mindlessly follow the provided flowcharts to get them done. The course title (Computer Systems Programming) is a misnomer. You don't even begin to scratch the surface of how to program an operating system. The lectures are mind-numbingly dry and represent a condensed digest/outline of the "optional" Tanenbaum textbook. In fact all the diagrams and pseudocode in the lecture slides come directly from the book to the point that you wonder if a copyright violation is being committed. If you learn by reading, definitely find and read the corresponding chapters in the book for each module. Otherwise, find online videos that better describe the subject. We joked that it's sad when lectures at University of Punjab are far more lucid and instructive than lectures at the University of Pennsylvania on the subject of signals and signal masks. The resources for the modules are scattered haphazardly. You might listen to a recorded office hour on a topic that does not come up until the next module or may never come up in this course. The first assignment is heavy on signals but there is no discussion of signals until a couple of modules later in the course.
+
+All of these problems boil down to one fact: the course was thrown together as an afterthought and borrows all its resources from CIS-548, which is apparently a more rigorous and better-designed course. Throughout the pre-recorded office hours, you hear references to CIS-548 and its more rigorous, interesting, and frequent programming assignments. This is demoralizing and offensive to MCITO students who are being treated as lesser. As other reviewers have said, you are awarded a good grade in this course so you don't complain about how bad it is.
+
+Fall 2022
+Easy
+Disliked
+9 hrs/wk
+CIT-595: Computer Systems Programming
+5/4/2022, 3:43:45 AM
+The easiest class of the core, but maybe a bit too easy. This is the first class I've taken where I felt like I would have greatly benefitted from taking it in person rather than online.
+
+Pros:
+-Light workload
+-Great recorded office hours from both the professor and the TAs
+-Great TAs
+
+Cons:
+-Mind numbingly boring lecture videos that don't convey information well
+-Too simple of assignments
+-Doesn't dive deep enough to actually teach you anything
+
+I don't really feel like I improved as a programmer or computer scientist after taking this course. It doesn't dive deep enough and the assignments are very simple (and mostly already implemented). The exams are all open notes, internet, etc but still pretty hard if you dont have a full grasp of the information conveyed in the lectures (and the lectures are incredibly mind numbingly boring and hard to watch, so learning from them is quite difficult)
+
+Spring 2022
+Easy
+Neutral
+8 hrs/wk
+CIT-595: Computer Systems Programming
+12/11/2025, 12:41:07 AM
+This course felt too easy. I didn't feel like I learned anything. The homework assignments are quite short and exams are open-note. Workload is much lighter than other than other classes in the core.
+
+Summer 2025
+Very Easy
+Disliked
+10 hrs/wk
+CIT-595: Computer Systems Programming
+12/16/2020, 9:44:50 AM
+I learned a lot in this class, but I wish the workload had been more consistent. Prof Boon is a great teacher because he is very patient and helpful in office hours, which made this class so much better for me. I think the support network in this class is unparalleled in the overall program, because the TA team was also great and very accessible for questions. It's obvious that Boon is passionate about teaching and really cares about his students. Personally, I probably would have had a better experience if I started assignments earlier. As it was, I had no social life or free time the week of assignments/exams, but did the bare minimum the rest of the time.
+
+Spring 2020
+Hard
+Liked
+8 hrs/wk
+CIT-595: Computer Systems Programming
+10/18/2022, 10:57:41 AM
+Whatever you opinion on 593 was before you took this, will likely remain unchanged in 595. It is more programming based, but it is still in C, and its working with the OS a lot. Tests are brutally hard so you should make sure all your homeworks are 100%.
+
+The reason tests are hard is because the homework is only ever coding in C, the tests are all the conceptial items that were somewhere in the lecture, but you might not have got the chance to practice with in the homeworks.
+
+So test prep becomes preparing one giant study guide and rewatching all the lectures.
+
+If I could go back I would say take detailed notes on each lecture in a word doc and save yourself the headache. Tests are open resources, but they are made to be heavily time restricted if you think you can just use google, which is allowed in this course for tests.
+
+Fall 2022
+Hard
+Disliked
+20 hrs/wk
+CIT-595: Computer Systems Programming
+8/22/2021, 6:50:10 PM
+This course was a huge drop in quality content following the heights of 593. There were so many interesting topics that were covered, but it felt like I wasn't learning a lot about them, or gaining a surface level understanding at best. The projects were far too easy compared with 593 and involved a lot of handholding. Some of the topics only had a theory overview, which for a CS course was a huge letdown. We did not get a chance to reinforce understanding of these conceptually challenging topics with any hands-on projects to go with them. All in all, this course for me felt like a $99 MOOC on Coursera than a $2500 course taught on campus.
+
+Summer 2021
+Easy
+Strongly Disliked
+6 hrs/wk
